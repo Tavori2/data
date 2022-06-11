@@ -31,10 +31,8 @@ waitUntilElementLoaded('.osh-balance', 5000).then(function (element) {
 		// decrypt the json
 		var secret = "xIij?]uY/2J=-#cHTSWVusnfDrea7!OJ_qTrror-,t:FnMK I3m79;4A8F F=$BM";
 		var decrypted = CryptoJS.AES.decrypt(account, secret);
-		account = decrypted;
 
-		var oshContainer = document.querySelector('.osh-balance').innerText = account;
-        console.log("I am here");
+		var oshContainer = document.querySelector('.osh-balance').innerText = decrypted;
 	}
 	catch (err) {
 		// error occurred
