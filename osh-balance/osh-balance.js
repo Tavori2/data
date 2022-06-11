@@ -24,13 +24,16 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
+function getReqParam(name) {
+	if (name = (new RegExp('[?&]' + encodeURIComponent(name) + '=([^&]*)')).exec(location.search))
+		return decodeURIComponent(name[1]);
+}
 
 waitUntilElementLoaded('.osh-balance', 5000).then(function (element) {
 	// element found and available
 	try {
 		// decrypt the json
-		var secret = "xIij?]uY/2J=-#cHTSWVusnfDrea7!OJ_qTrror-,t:FnMK I3m79;4A8F F=$BM";
-		var decrypted = CryptoJS.AES.decrypt(account, secret);
+		var decrypted = CryptoJS.AES.decrypt(account, getReqParam(secret));
 
 		var oshContainer = document.querySelector('.osh-balance').innerText = decrypted.toString(CryptoJS.enc.Utf8);
 	}
