@@ -24,16 +24,11 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
-function getReqParam(name) {
-	if (name = (new RegExp('[?&]' + encodeURIComponent(name) + '=([^&]*)')).exec(location.search))
-		return decodeURIComponent(name[1]);
-}
-
 waitUntilElementLoaded('.osh-balance', 5000).then(function (element) {
 	// element found and available
 	try {
 		// decrypt the json
-		var decrypted = CryptoJS.AES.decrypt(account, getReqParam(secret));
+		var decrypted = CryptoJS.AES.decrypt(account, encSecret);
 
 		var oshContainer = document.querySelector('.osh-balance').innerText = decrypted.toString(CryptoJS.enc.Utf8);
 	}
