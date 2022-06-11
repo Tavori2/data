@@ -28,7 +28,7 @@ function waitUntilElementLoaded(selector) {
 waitUntilElementLoaded('.osh-balance', 5000).then(function (element) {
 	// element found and available
 	try {
-		var oshContainer = document.querySelector('.osh-balance').innerText = json_object;
+		var oshContainer = document.querySelector('.osh-balance').innerText = account;
         console.log("I am here");
 	}
 	catch (err) {
