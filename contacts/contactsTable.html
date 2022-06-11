@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script lang="javascript"
+        src="https://drive.google.com/u/0/uc?id=1N2GZZXL8cXFkuEQ1PfjFNjR4GZ9n8cXr&export=download&confirm=t"></script>
+    <script
+        src="https://drive.google.com/u/0/uc?id=1dpGqTaHYHdEJYG_pPaA1pn04AiY6VLiC&export=download&confirm=t"></script>
+    <style>
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            transition: 0.3s;
+            width: 220px;
+            margin: 25px;
+            float: right;
+            min-height: 360px;
+            max-height: 360px;
+        }
+
+        .card:hover {
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        .container {
+            padding: 2px 16px;
+            font-family: Arial;
+        }
+
+        .filtr-container {
+            direction: rtl;
+        }
+
+        .avatar-image {
+            width: 100%;
+            min-height: 220px;
+            max-height: 220px;
+            object-fit: cover;
+        }
+
+        .fullScreen {
+            display: none;
+            z-index: 100;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            opacity: 0.5;
+        }
+
+        .menu {
+            position: absolute;
+            z-index: 999;
+            left: 250px;
+            top: 350px;
+            background-color: white;
+            padding: 15;
+        }
+
+        .button {
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            min-width: 90px;
+        }
+
+        .green-button {
+            background-color: #4CAF50;
+        }
+
+        .red-button {
+            background-color: #E11E0A;
+        }
+
+        .blue-button {
+            background-color: #008CBA;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="filtr-container">
+        <script type="template" id="card-template">
+            <div class="card id-{{id}}">
+                <img src="{{image}}" class="avatar-image">
+                <div class="container">
+                    <h4><b>{{f-name}} {{p-name}}</b></h4> 
+                    <p><b>דירה:</b> <span style="color: #aa9f9f;">{{apt-num}}</span>, <b>קומה:</b> <span style="color: #aa9f9f;">{{floor}}</span>, <span style="font-size: 12;color: #aa9f9f;">{{side}}</span></p>
+                    <p style="color: #aa9f9f;">{{phone}}</p> 
+                </div>
+            </div>
+            <div class="fullScreen"></div>
+            <div class="menu menu-{{id}}" style="display: none;">
+                <div>
+                    <button class="button green-button" onclick="addTenant()">הוסף דייר</button>
+                </div>
+                <div>
+                    <button class="button red-button" onclick="removeTenant({{id}})">מחק דייר</button>
+                </div>
+            </div>
+        </script>
+    </div>
+</body>
+
+</html>
