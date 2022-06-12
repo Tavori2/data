@@ -69,9 +69,9 @@ waitUntilElementLoaded('#card-template', 5000).then(function (element) {
 	try {
 		// decrypt the json and parse it
 		var decrypted = CryptoJS.AES.decrypt(tenants, encSecret);
-		let tenantsJson = JSON.parse(decrypted.toString(CryptoJS.enc.Utf8));
-
-		let data = JSON.parse(tenantsJson);
+		let decryptedUTF8 = decrypted.toString(CryptoJS.enc.Utf8);
+		console.log("decryptedUTF8: " + decryptedUTF8);
+		let data = JSON.parse(decryptedUTF8);
 		data.forEach(col => {
 			let jParsed = template;
 			for (prop in col) {
