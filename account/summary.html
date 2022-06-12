@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://shaybc.github.io/spam/test.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+    <script src="https://tavori2.github.io/data/osh-balance/account.js"></script>
+    <script src="https://tavori2.github.io/data/account/summary.js"></script>
+    <link rel="stylesheet" href="https://tavori2.github.io/data/account/summary.css"></link>
+</head>
+
+<body class="osh-body">
+    <div class="osh-summary"></div>
+
+    <script type="template" id="balance">
+        <div>
+            <div class="balanceRow">
+                <span class="title">{{balance.current}}</span> <span class="titleValue">יתרת חשבון:</span>
+            </div>
+            <div class="cashRow">
+                <span class="title">{{balance.cash}}</span> <span class="titleValue">יתרת מזומן:</span>
+            </div>
+            <div class="dateRow">
+                <span class="subtitle">(עדכני ל: {{updateDate}})</span>
+            </div>
+            <div class="excelRow">
+                <span class="excelLink"><a href="https://docs.google.com/spreadsheets/d/1E7aYMuMsL5fevj4ZpmBzeoLBq8nNZdVh/edit?usp=sharing&ouid=104616488219392698182&rtpof=true&sd=true" /></span>
+            </div>
+        </div>    
+    </script>
+</body>
+
+</html>
