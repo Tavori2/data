@@ -27,10 +27,11 @@ function waitUntilElementLoaded(selector) {
 waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 	// element found and available
 	try {
-		// decrypt the json
+		// decrypt the json and parse it
 		var decrypted = CryptoJS.AES.decrypt(account, encSecret);
 		let accountJson = JSON.parse(decrypted.toString(CryptoJS.enc.Utf8));
 
+		// get the template text and the div to populate at the end of all replacements
 		let populatedTemplate = document.getElementById('osh-balance').innerHTML;
 		var oshContainer = document.querySelector('.osh-summary');
 
@@ -41,12 +42,19 @@ waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 		populatedTemplate = populatedTemplate.replaceAll('{{income.other}}',accountJson.income.other);
 		populatedTemplate = populatedTemplate.replaceAll('{{income.total}}',accountJson.income.total);
 
+		// remove the first char (minus -) so the template minus will take effect for the ltr display
 		populatedTemplate = populatedTemplate.replaceAll('{{expenses.fixed}}',accountJson.expenses.fixed.substring(1));
 		populatedTemplate = populatedTemplate.replaceAll('{{expenses.unexpected}}',accountJson.expenses.unexpected.substring(1));
 		populatedTemplate = populatedTemplate.replaceAll('{{expenses.total}}',accountJson.expenses.total.substring(1));
 
 		populatedTemplate = populatedTemplate.replaceAll('{{paiedAppartment}}',accountJson.paiedAppartment);
 		populatedTemplate = populatedTemplate.replaceAll('{{unpaiedAppartmentsNumbers}}',accountJson.unpaiedAppartmentsNumbers);
+
+		// calculate preogress bar pixels (out of 150px max) for paied appartments
+		let paiedAppartment = accountJson.paiedAppartment;
+		let paiedPaercent = paiedAppartment / 40;
+		let unpaiedAppartmentsNumbers = 150 * paiedPaercent;
+		populatedTemplate = populatedTemplate.replaceAll('{{paiedAppartmentPercent}}',unpaiedAppartmentsNumbers);
 
 		oshContainer.innerHTML = populatedTemplate;
 	}
