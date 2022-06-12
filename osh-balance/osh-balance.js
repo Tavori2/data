@@ -29,7 +29,6 @@ waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 	try {
 		// decrypt the json
 		var decrypted = CryptoJS.AES.decrypt(account, encSecret);
-		console.log("decrypted: " + decrypted.toString(CryptoJS.enc.Utf8));
 		let accountJson = JSON.parse(decrypted.toString(CryptoJS.enc.Utf8));
 
 		let populatedTemplate = document.getElementById('osh-balance').innerHTML;
