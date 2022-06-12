@@ -51,7 +51,7 @@ waitUntilElementLoaded('#row-template', 5000).then(function (element) {
 				$strip.addClass("newsticker")
 				var stripHeight = 1;
 				$strip.find("li").each(function (i) {
-					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+					stripHeight += 30; //jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
 				});
 				var $mask = $strip.wrap("<div class='mask'></div>");
 				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");
