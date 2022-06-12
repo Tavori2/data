@@ -40,9 +40,11 @@ waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 		populatedTemplate = populatedTemplate.replaceAll('{{income.tax}}',accountJson.income.tax);
 		populatedTemplate = populatedTemplate.replaceAll('{{income.other}}',accountJson.income.other);
 		populatedTemplate = populatedTemplate.replaceAll('{{income.total}}',accountJson.income.total);
-		populatedTemplate = populatedTemplate.replaceAll('{{expenses.fixed}}',accountJson.expenses.fixed);
-		populatedTemplate = populatedTemplate.replaceAll('{{expenses.unexpected}}',accountJson.expenses.unexpected);
-		populatedTemplate = populatedTemplate.replaceAll('{{expenses.total}}',accountJson.expenses.total);
+
+		populatedTemplate = populatedTemplate.replaceAll('{{expenses.fixed}}',accountJson.expenses.fixed.substring(1));
+		populatedTemplate = populatedTemplate.replaceAll('{{expenses.unexpected}}',accountJson.expenses.unexpected.substring(1));
+		populatedTemplate = populatedTemplate.replaceAll('{{expenses.total}}',accountJson.expenses.total.substring(1));
+
 		populatedTemplate = populatedTemplate.replaceAll('{{paiedAppartment}}',accountJson.paiedAppartment);
 		populatedTemplate = populatedTemplate.replaceAll('{{unpaiedAppartmentsNumbers}}',accountJson.unpaiedAppartmentsNumbers);
 
