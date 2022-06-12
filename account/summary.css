@@ -1,13 +1,18 @@
+.osh-summary {
+    direction: rtl;
+}
+
 .balanceRow {
 
 }
 
 .cashRow {
-
+    padding-top: 15px;
 }
 
 .dateRow {
-
+    padding-top: 55px;
+    text-align: center;
 }
 
 .excelRow {
@@ -15,13 +20,20 @@
 }
 
 .title {
-
+    font-size: 28px;
+    font-weight: bold;
+    font-family: arial;
+    color: #a5d249;
 }
 
 .titleValue {
-
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+    padding-left: 25px;
 }
 
 .subtitle {
-
+    color: #acacac;
+    font-size: 18px;
 }
