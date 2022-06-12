@@ -47,7 +47,7 @@ waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 		populatedTemplate = populatedTemplate.replaceAll('{{paiedAppartment}}',accountJson.paiedAppartment);
 		populatedTemplate = populatedTemplate.replaceAll('{{unpaiedAppartmentsNumbers}}',accountJson.unpaiedAppartmentsNumbers);
 
-		oshContainer.innerText = populatedTemplate;
+		oshContainer.innerHTML = populatedTemplate;
 	}
 	catch (err) {
 		// error occurred
