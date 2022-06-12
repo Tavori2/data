@@ -67,8 +67,11 @@ waitUntilElementLoaded('#card-template', 5000).then(function (element) {
 	let femaleImage = "https://lh3.googleusercontent.com/pw/AM-JKLVT9WllzWSe-hGyrtAsvd4XqFKEvY3XW8jBGd8ZNDtHHEzCTQhoAXm0yd3XuWgaFl4ffLoRnCmRrwc8ecM_vG1DisrjbuQv62VwKIjqXqErxpHamJHfF9Yw_rFZfnwHZtBiZqk769XqwlL39psi4BEl=w499-h498-no?authuser=0";
 
 	try {
-		console.log("element found and available");
-		let data = JSON.parse(tenantsData);
+		// decrypt the json and parse it
+		var decrypted = CryptoJS.AES.decrypt(tenantsData, encSecret);
+		let tenantsJson = JSON.parse(decrypted.toString(CryptoJS.enc.Utf8));
+
+		let data = JSON.parse(tenantsJson);
 		data.forEach(col => {
 			let jParsed = template;
 			for (prop in col) {
