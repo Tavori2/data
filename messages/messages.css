@@ -1,0 +1,44 @@
+.container {
+  width: 100%;
+}
+
+.holder {
+  width: 95%;
+  height: 180px;
+  overflow: hidden;
+  padding: 10px;
+  font-family: arial;
+  direction: rtl;
+  box-shadow: 0 2px 20px rgb(0 0 0/11%);
+  border-radius: 10px 10px 10px 10px;
+  margin: 0 0 25px 0;
+  background-color: rgba(255, 255, 255, .8705882352941177);
+  transition: background 1s;
+}
+
+.holder .mask {
+  position: relative;
+  left: 0px;
+  top: 10px;
+  width: 90%;
+  height: 240px;
+  overflow: hidden;
+}
+
+.holder ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.holder ul li {
+  margin: 15px;
+  color: #45c2df;
+}
+
+.message {
+  color: #3e2f68;
+  text-decoration: none;
+  margin-right: 15px;
+}

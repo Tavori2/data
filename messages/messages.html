@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://tavori2.github.io/data/messages/messages.js"></script>
+    <script src="https://tavori2.github.io/data/messages/messagesJson.js"></script>
+    <link rel="stylesheet" href="https://tavori2.github.io/data/messages/messages.css">
+    </link>
+</head>
+
+<body class="nessages-body">
+    <div class="container">
+        <div class="holder">
+            <ul id="ticker01">
+            </ul>
+        </div>
+    </div>
+
+    <script type="template" id="row-template">
+        <li><span class="message">{{messageText}}</span><span>{{messageTime}}</span></li>
+    </script>
+</body>
+
+</html>
