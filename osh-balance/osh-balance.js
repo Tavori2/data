@@ -24,7 +24,7 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
-waitUntilElementLoaded('osh-balance', 5000).then(function (element) {
+waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 	// element found and available
 	try {
 		// decrypt the json
