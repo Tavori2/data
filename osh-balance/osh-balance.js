@@ -35,7 +35,7 @@ waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 		let populatedTemplate = document.getElementById('osh-balance').innerHTML;
 		var oshContainer = document.querySelector('.osh-summary');
 
-		populatedTemplate = populatedTemplate.replaceAll('{{update-date}}',accountJson.update-date);
+		populatedTemplate = populatedTemplate.replaceAll('{{updateDate}}',accountJson.updateDate);
 		populatedTemplate = populatedTemplate.replaceAll('{{balance.current}}',accountJson.balance.current);
 		populatedTemplate = populatedTemplate.replaceAll('{{balance.cash}}',accountJson.balance.cash);
 		populatedTemplate = populatedTemplate.replaceAll('{{income.tax}}',accountJson.income.tax);
