@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Messages -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://tavori2.github.io/data/messages/messages.js"></script>
+    <script src="https://tavori2.github.io/data/messages/messagesJson.js"></script>
+    <link rel="stylesheet" href="https://tavori2.github.io/data/messages/messages.css">
+    </link>
+
+    <!-- Account -->
+    <script src="https://shaybc.github.io/spam/test.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+    <script src="https://tavori2.github.io/data/osh-balance/account.js"></script>
+    <script src="https://tavori2.github.io/data/account/summary.js"></script>
+    <link rel="stylesheet" href="https://tavori2.github.io/data/account/summary.css"></link>
+
+    <!-- Tasks -->
+    <script src="https://tavori2.github.io/data/tasks/taksList.js"></script>
+    <script src="https://tavori2.github.io/data/tasks/tasks.js"></script>
+    <link rel="stylesheet" href="https://tavori2.github.io/data/tasks/tasks.css"></link>
+
+</head>
+
+<body class="home-body">
+
+
+    <!-- Messages -->
+    <div class="container">
+        <div class="holder">
+            <ul id="ticker01">
+            </ul>
+        </div>
+    </div>
+    <script type="template" id="row-template">
+        <li><span>{{messageTime}}</span><span class="message">{{messageText}}</span></li>
+    </script>
+
+
+    <!-- Account -->
+    <div class="osh-summary"></div>
+    <script type="template" id="balance">
+        <div>
+            <div class="balanceRow">
+                <span class="titleValue">יתרת חשבון:</span><span class="title">{{balance.current}}</span>
+            </div>
+            <div class="cashRow">
+                <span class="titleValue">יתרת מזומן:</span><span class="title">{{balance.cash}}</span>
+            </div>
+            <div class="dateRow">
+                <span class="subtitle">(עדכני ל: {{updateDate}})</span>
+            </div>
+            <div class="excelRow">
+                <span class="excelLink"><a href="https://docs.google.com/spreadsheets/d/1E7aYMuMsL5fevj4ZpmBzeoLBq8nNZdVh/edit?usp=sharing&ouid=104616488219392698182&rtpof=true&sd=true" /></span>
+            </div>
+        </div>    
+    </script>
+
+
+    <!-- Tasks -->
+    <table class="rwd-table">
+        <tr>
+            <th>תאריך</th>
+            <th>פעולה</th>
+        </tr>
+        <tbody class="containerTable">
+        </tbody>
+    </table>
+    <script type="template" id="row-template">
+        <td>{{task-time}}</td>
+        <td>{{task-text}}</td>
+    </script>
+
+    
+</body>
+
+</html>
