@@ -23,9 +23,9 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
-waitUntilElementLoaded('#row-template', 5000).then(function (element) {
+waitUntilElementLoaded('#msg-row-template', 5000).then(function (element) {
 	// element found and available
-	let template = document.getElementById('row-template').innerHTML;
+	let template = document.getElementById('msg-row-template').innerHTML;
 	let container = document.querySelector('#ticker01');
 
 	try {
@@ -78,20 +78,6 @@ waitUntilElementLoaded('#row-template', 5000).then(function (element) {
 		$(function () {
 			$("ul#ticker01").liScroll();
 		});
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
 	catch (err) {
 		// error occurred

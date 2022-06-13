@@ -23,9 +23,9 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
-waitUntilElementLoaded('#row-template', 5000).then(function (element) {
+waitUntilElementLoaded('#task-row-template', 5000).then(function (element) {
 	// element found and available
-	let template = document.getElementById('row-template').innerHTML;
+	let template = document.getElementById('task-row-template').innerHTML;
 	let container = document.querySelector('.containerTable');
 
 	try {
