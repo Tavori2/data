@@ -1,1946 +1,482 @@
 {
-"month1": [
-"appartment": {
-    "number": "1",
-    "ammount": "1800"
-},
-"appartment": {
-    "number": "2",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "3",
-    "ammount": "185"
-},
-"appartment": {
-    "number": "4",
-    "ammount": "1500"
-},
-"appartment": {
-    "number": "5",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "6",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "7",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "11",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "12",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "13",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "14",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "15",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "16",
-    "ammount": "1800"
-},
-"appartment": {
-    "number": "17",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "18",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "19",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "20",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "21",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "22",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": "3600"
-},
-"appartment": {
-    "number": "25",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "26",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "27",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "28",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "29",
-    "ammount": "900"
-},
-"appartment": {
-    "number": "30",
-    "ammount": "3600"
-},
-"appartment": {
-    "number": "31",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "32",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "33",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "34",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "35",
-    "ammount": "340"
-},
-"appartment": {
-    "number": "36",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "37",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "40",
-    "ammount": "300"
-},
-],
-"month2": [
-"appartment": {
-    "number": "1",
-    "ammount": "1800"
-},
-"appartment": {
-    "number": "2",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "3",
-    "ammount": "1700"
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "7",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "8",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "9",
-    "ammount": "1800"
-},
-"appartment": {
-    "number": "10",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "11",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "12",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "13",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "14",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "15",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "18",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "19",
-    "ammount": "250"
-},
-"appartment": {
-    "number": "20",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "21",
-    "ammount": "550"
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": "900"
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "26",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "27",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "28",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "32",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "33",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "36",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "37",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "40",
-    "ammount": "300"
-},
-],
-"month3": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": "700"
-},
-"appartment": {
-    "number": "6",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "7",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "8",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "11",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "12",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "13",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "14",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "15",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "18",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "19",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "20",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "21",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "22",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "26",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "27",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "28",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "32",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "33",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "34",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "35",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "36",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "37",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "40",
-    "ammount": "300"
-},
-],
-"month4": [
-"appartment": {
-    "number": "1",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "2",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "3",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "4",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "7",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "8",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "11",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "12",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "13",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "14",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "15",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "18",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "19",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "20",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "21",
-    "ammount": "500"
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "24",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "25",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "28",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "29",
-    "ammount": "750"
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "32",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "33",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "34",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "35",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "36",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "37",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "38",
-    "ammount": "1400"
-},
-"appartment": {
-    "number": "39",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "40",
-    "ammount": "300"
-},
-],
-"month5": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "3",
-    "ammount": "1000"
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "6",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "7",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "8",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "11",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "12",
-    "ammount": ""
-},
-"appartment": {
-    "number": "13",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "14",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "15",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "18",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "19",
-    "ammount": ""
-},
-"appartment": {
-    "number": "20",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "21",
-    "ammount": "560"
-},
-"appartment": {
-    "number": "22",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "23",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "28",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "32",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "33",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "34",
-    "ammount": "600"
-},
-"appartment": {
-    "number": "35",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "36",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "37",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "38",
-    "ammount": "250"
-},
-"appartment": {
-    "number": "39",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "40",
-    "ammount": "450"
-},
-],
-"month6": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": ""
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": "350"
-},
-"appartment": {
-    "number": "6",
-    "ammount": ""
-},
-"appartment": {
-    "number": "7",
-    "ammount": ""
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "10",
-    "ammount": "450"
-},
-"appartment": {
-    "number": "11",
-    "ammount": ""
-},
-"appartment": {
-    "number": "12",
-    "ammount": "1050"
-},
-"appartment": {
-    "number": "13",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "14",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "15",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "16",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "17",
-    "ammount": ""
-},
-"appartment": {
-    "number": "18",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "19",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "20",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "21",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": "150"
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": ""
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": ""
-},
-"appartment": {
-    "number": "28",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": ""
-},
-"appartment": {
-    "number": "32",
-    "ammount": ""
-},
-"appartment": {
-    "number": "33",
-    "ammount": ""
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": "300"
-},
-"appartment": {
-    "number": "36",
-    "ammount": "500"
-},
-"appartment": {
-    "number": "37",
-    "ammount": ""
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": ""
-},
-"appartment": {
-    "number": "40",
-    "ammount": "300"
-},
-],
-"month7": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": ""
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": ""
-},
-"appartment": {
-    "number": "7",
-    "ammount": ""
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": ""
-},
-"appartment": {
-    "number": "11",
-    "ammount": ""
-},
-"appartment": {
-    "number": "12",
-    "ammount": ""
-},
-"appartment": {
-    "number": "13",
-    "ammount": ""
-},
-"appartment": {
-    "number": "14",
-    "ammount": ""
-},
-"appartment": {
-    "number": "15",
-    "ammount": ""
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": ""
-},
-"appartment": {
-    "number": "18",
-    "ammount": ""
-},
-"appartment": {
-    "number": "19",
-    "ammount": ""
-},
-"appartment": {
-    "number": "20",
-    "ammount": ""
-},
-"appartment": {
-    "number": "21",
-    "ammount": ""
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": ""
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": ""
-},
-"appartment": {
-    "number": "28",
-    "ammount": ""
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": ""
-},
-"appartment": {
-    "number": "32",
-    "ammount": ""
-},
-"appartment": {
-    "number": "33",
-    "ammount": ""
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": ""
-},
-"appartment": {
-    "number": "36",
-    "ammount": ""
-},
-"appartment": {
-    "number": "37",
-    "ammount": ""
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": ""
-},
-"appartment": {
-    "number": "40",
-    "ammount": ""
-},
-],
-"month8": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": ""
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": ""
-},
-"appartment": {
-    "number": "7",
-    "ammount": ""
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": ""
-},
-"appartment": {
-    "number": "11",
-    "ammount": ""
-},
-"appartment": {
-    "number": "12",
-    "ammount": ""
-},
-"appartment": {
-    "number": "13",
-    "ammount": ""
-},
-"appartment": {
-    "number": "14",
-    "ammount": ""
-},
-"appartment": {
-    "number": "15",
-    "ammount": ""
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": ""
-},
-"appartment": {
-    "number": "18",
-    "ammount": ""
-},
-"appartment": {
-    "number": "19",
-    "ammount": ""
-},
-"appartment": {
-    "number": "20",
-    "ammount": ""
-},
-"appartment": {
-    "number": "21",
-    "ammount": ""
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": ""
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": ""
-},
-"appartment": {
-    "number": "28",
-    "ammount": ""
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": ""
-},
-"appartment": {
-    "number": "32",
-    "ammount": ""
-},
-"appartment": {
-    "number": "33",
-    "ammount": ""
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": ""
-},
-"appartment": {
-    "number": "36",
-    "ammount": ""
-},
-"appartment": {
-    "number": "37",
-    "ammount": ""
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": ""
-},
-"appartment": {
-    "number": "40",
-    "ammount": ""
-},
-],
-"month9": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": ""
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": ""
-},
-"appartment": {
-    "number": "7",
-    "ammount": ""
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": ""
-},
-"appartment": {
-    "number": "11",
-    "ammount": ""
-},
-"appartment": {
-    "number": "12",
-    "ammount": ""
-},
-"appartment": {
-    "number": "13",
-    "ammount": ""
-},
-"appartment": {
-    "number": "14",
-    "ammount": ""
-},
-"appartment": {
-    "number": "15",
-    "ammount": ""
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": ""
-},
-"appartment": {
-    "number": "18",
-    "ammount": ""
-},
-"appartment": {
-    "number": "19",
-    "ammount": ""
-},
-"appartment": {
-    "number": "20",
-    "ammount": ""
-},
-"appartment": {
-    "number": "21",
-    "ammount": ""
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": ""
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": ""
-},
-"appartment": {
-    "number": "28",
-    "ammount": ""
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": ""
-},
-"appartment": {
-    "number": "32",
-    "ammount": ""
-},
-"appartment": {
-    "number": "33",
-    "ammount": ""
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": ""
-},
-"appartment": {
-    "number": "36",
-    "ammount": ""
-},
-"appartment": {
-    "number": "37",
-    "ammount": ""
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": ""
-},
-"appartment": {
-    "number": "40",
-    "ammount": ""
-},
-],
-"month10": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": ""
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": ""
-},
-"appartment": {
-    "number": "7",
-    "ammount": ""
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": ""
-},
-"appartment": {
-    "number": "11",
-    "ammount": ""
-},
-"appartment": {
-    "number": "12",
-    "ammount": ""
-},
-"appartment": {
-    "number": "13",
-    "ammount": ""
-},
-"appartment": {
-    "number": "14",
-    "ammount": ""
-},
-"appartment": {
-    "number": "15",
-    "ammount": ""
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": ""
-},
-"appartment": {
-    "number": "18",
-    "ammount": ""
-},
-"appartment": {
-    "number": "19",
-    "ammount": ""
-},
-"appartment": {
-    "number": "20",
-    "ammount": ""
-},
-"appartment": {
-    "number": "21",
-    "ammount": ""
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": ""
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": ""
-},
-"appartment": {
-    "number": "28",
-    "ammount": ""
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": ""
-},
-"appartment": {
-    "number": "32",
-    "ammount": ""
-},
-"appartment": {
-    "number": "33",
-    "ammount": ""
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": ""
-},
-"appartment": {
-    "number": "36",
-    "ammount": ""
-},
-"appartment": {
-    "number": "37",
-    "ammount": ""
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": ""
-},
-"appartment": {
-    "number": "40",
-    "ammount": ""
-},
-],
-"month11": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": ""
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": ""
-},
-"appartment": {
-    "number": "7",
-    "ammount": ""
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": ""
-},
-"appartment": {
-    "number": "11",
-    "ammount": ""
-},
-"appartment": {
-    "number": "12",
-    "ammount": ""
-},
-"appartment": {
-    "number": "13",
-    "ammount": ""
-},
-"appartment": {
-    "number": "14",
-    "ammount": ""
-},
-"appartment": {
-    "number": "15",
-    "ammount": ""
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": ""
-},
-"appartment": {
-    "number": "18",
-    "ammount": ""
-},
-"appartment": {
-    "number": "19",
-    "ammount": ""
-},
-"appartment": {
-    "number": "20",
-    "ammount": ""
-},
-"appartment": {
-    "number": "21",
-    "ammount": ""
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": ""
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": ""
-},
-"appartment": {
-    "number": "28",
-    "ammount": ""
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": ""
-},
-"appartment": {
-    "number": "32",
-    "ammount": ""
-},
-"appartment": {
-    "number": "33",
-    "ammount": ""
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": ""
-},
-"appartment": {
-    "number": "36",
-    "ammount": ""
-},
-"appartment": {
-    "number": "37",
-    "ammount": ""
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": ""
-},
-"appartment": {
-    "number": "40",
-    "ammount": ""
-},
-],
-"month12": [
-"appartment": {
-    "number": "1",
-    "ammount": ""
-},
-"appartment": {
-    "number": "2",
-    "ammount": ""
-},
-"appartment": {
-    "number": "3",
-    "ammount": ""
-},
-"appartment": {
-    "number": "4",
-    "ammount": ""
-},
-"appartment": {
-    "number": "5",
-    "ammount": ""
-},
-"appartment": {
-    "number": "6",
-    "ammount": ""
-},
-"appartment": {
-    "number": "7",
-    "ammount": ""
-},
-"appartment": {
-    "number": "8",
-    "ammount": ""
-},
-"appartment": {
-    "number": "9",
-    "ammount": ""
-},
-"appartment": {
-    "number": "10",
-    "ammount": ""
-},
-"appartment": {
-    "number": "11",
-    "ammount": ""
-},
-"appartment": {
-    "number": "12",
-    "ammount": ""
-},
-"appartment": {
-    "number": "13",
-    "ammount": ""
-},
-"appartment": {
-    "number": "14",
-    "ammount": ""
-},
-"appartment": {
-    "number": "15",
-    "ammount": ""
-},
-"appartment": {
-    "number": "16",
-    "ammount": ""
-},
-"appartment": {
-    "number": "17",
-    "ammount": ""
-},
-"appartment": {
-    "number": "18",
-    "ammount": ""
-},
-"appartment": {
-    "number": "19",
-    "ammount": ""
-},
-"appartment": {
-    "number": "20",
-    "ammount": ""
-},
-"appartment": {
-    "number": "21",
-    "ammount": ""
-},
-"appartment": {
-    "number": "22",
-    "ammount": ""
-},
-"appartment": {
-    "number": "23",
-    "ammount": ""
-},
-"appartment": {
-    "number": "24",
-    "ammount": ""
-},
-"appartment": {
-    "number": "25",
-    "ammount": ""
-},
-"appartment": {
-    "number": "26",
-    "ammount": ""
-},
-"appartment": {
-    "number": "27",
-    "ammount": ""
-},
-"appartment": {
-    "number": "28",
-    "ammount": ""
-},
-"appartment": {
-    "number": "29",
-    "ammount": ""
-},
-"appartment": {
-    "number": "30",
-    "ammount": ""
-},
-"appartment": {
-    "number": "31",
-    "ammount": ""
-},
-"appartment": {
-    "number": "32",
-    "ammount": ""
-},
-"appartment": {
-    "number": "33",
-    "ammount": ""
-},
-"appartment": {
-    "number": "34",
-    "ammount": ""
-},
-"appartment": {
-    "number": "35",
-    "ammount": ""
-},
-"appartment": {
-    "number": "36",
-    "ammount": ""
-},
-"appartment": {
-    "number": "37",
-    "ammount": ""
-},
-"appartment": {
-    "number": "38",
-    "ammount": ""
-},
-"appartment": {
-    "number": "39",
-    "ammount": ""
-},
-"appartment": {
-    "number": "40",
-    "ammount": ""
-},
-],
+"month1appartment1": "1800"
+"month1appartment2": "300"
+"month1appartment3": "185"
+"month1appartment4": "1500"
+"month1appartment5": "350"
+"month1appartment6": "300"
+"month1appartment7": "350"
+"month1appartment8": ""
+"month1appartment9": ""
+"month1appartment10": "300"
+"month1appartment11": "300"
+"month1appartment12": "300"
+"month1appartment13": "300"
+"month1appartment14": "300"
+"month1appartment15": "300"
+"month1appartment16": "1800"
+"month1appartment17": "300"
+"month1appartment18": "300"
+"month1appartment19": "350"
+"month1appartment20": "300"
+"month1appartment21": "300"
+"month1appartment22": "600"
+"month1appartment23": ""
+"month1appartment24": "3600"
+"month1appartment25": "300"
+"month1appartment26": "300"
+"month1appartment27": "300"
+"month1appartment28": "300"
+"month1appartment29": "900"
+"month1appartment30": "3600"
+"month1appartment31": "600"
+"month1appartment32": "300"
+"month1appartment33": "300"
+"month1appartment34": "600"
+"month1appartment35": "340"
+"month1appartment36": "350"
+"month1appartment37": "300"
+"month1appartment38": ""
+"month1appartment39": "300"
+"month1appartment40": "300"
+"month2appartment1": "1800"
+"month2appartment2": "300"
+"month2appartment3": "1700"
+"month2appartment4": ""
+"month2appartment5": ""
+"month2appartment6": "300"
+"month2appartment7": "350"
+"month2appartment8": "300"
+"month2appartment9": "1800"
+"month2appartment10": "300"
+"month2appartment11": "300"
+"month2appartment12": "300"
+"month2appartment13": "300"
+"month2appartment14": "300"
+"month2appartment15": "300"
+"month2appartment16": ""
+"month2appartment17": "300"
+"month2appartment18": "300"
+"month2appartment19": "250"
+"month2appartment20": "300"
+"month2appartment21": "550"
+"month2appartment22": ""
+"month2appartment23": "900"
+"month2appartment24": ""
+"month2appartment25": "300"
+"month2appartment26": "300"
+"month2appartment27": "300"
+"month2appartment28": "300"
+"month2appartment29": ""
+"month2appartment30": ""
+"month2appartment31": "300"
+"month2appartment32": "300"
+"month2appartment33": "300"
+"month2appartment34": ""
+"month2appartment35": "300"
+"month2appartment36": "350"
+"month2appartment37": "300"
+"month2appartment38": ""
+"month2appartment39": "300"
+"month2appartment40": "300"
+"month3appartment1": ""
+"month3appartment2": "450"
+"month3appartment3": ""
+"month3appartment4": ""
+"month3appartment5": "700"
+"month3appartment6": "300"
+"month3appartment7": "350"
+"month3appartment8": "600"
+"month3appartment9": ""
+"month3appartment10": "300"
+"month3appartment11": "300"
+"month3appartment12": "300"
+"month3appartment13": "450"
+"month3appartment14": "300"
+"month3appartment15": "300"
+"month3appartment16": ""
+"month3appartment17": "300"
+"month3appartment18": "300"
+"month3appartment19": "300"
+"month3appartment20": "300"
+"month3appartment21": "300"
+"month3appartment22": "600"
+"month3appartment23": ""
+"month3appartment24": ""
+"month3appartment25": "300"
+"month3appartment26": "450"
+"month3appartment27": "300"
+"month3appartment28": "300"
+"month3appartment29": ""
+"month3appartment30": ""
+"month3appartment31": "300"
+"month3appartment32": "300"
+"month3appartment33": "450"
+"month3appartment34": "600"
+"month3appartment35": "300"
+"month3appartment36": "350"
+"month3appartment37": "300"
+"month3appartment38": ""
+"month3appartment39": "300"
+"month3appartment40": "300"
+"month4appartment1": "150"
+"month4appartment2": "300"
+"month4appartment3": "150"
+"month4appartment4": "150"
+"month4appartment5": ""
+"month4appartment6": "300"
+"month4appartment7": "350"
+"month4appartment8": "300"
+"month4appartment9": ""
+"month4appartment10": "300"
+"month4appartment11": "450"
+"month4appartment12": "300"
+"month4appartment13": "300"
+"month4appartment14": "300"
+"month4appartment15": "300"
+"month4appartment16": ""
+"month4appartment17": "300"
+"month4appartment18": "450"
+"month4appartment19": "450"
+"month4appartment20": "300"
+"month4appartment21": "500"
+"month4appartment22": ""
+"month4appartment23": "300"
+"month4appartment24": "150"
+"month4appartment25": "450"
+"month4appartment26": ""
+"month4appartment27": "450"
+"month4appartment28": "300"
+"month4appartment29": "750"
+"month4appartment30": ""
+"month4appartment31": "300"
+"month4appartment32": "300"
+"month4appartment33": "300"
+"month4appartment34": "150"
+"month4appartment35": "300"
+"month4appartment36": "350"
+"month4appartment37": "300"
+"month4appartment38": "1400"
+"month4appartment39": "300"
+"month4appartment40": "300"
+"month5appartment1": ""
+"month5appartment2": "300"
+"month5appartment3": "1000"
+"month5appartment4": ""
+"month5appartment5": "350"
+"month5appartment6": "300"
+"month5appartment7": "350"
+"month5appartment8": "300"
+"month5appartment9": ""
+"month5appartment10": "300"
+"month5appartment11": "300"
+"month5appartment12": ""
+"month5appartment13": "300"
+"month5appartment14": "300"
+"month5appartment15": "300"
+"month5appartment16": ""
+"month5appartment17": "300"
+"month5appartment18": "300"
+"month5appartment19": ""
+"month5appartment20": "300"
+"month5appartment21": "560"
+"month5appartment22": "600"
+"month5appartment23": "300"
+"month5appartment24": ""
+"month5appartment25": "300"
+"month5appartment26": ""
+"month5appartment27": "300"
+"month5appartment28": "450"
+"month5appartment29": ""
+"month5appartment30": ""
+"month5appartment31": "450"
+"month5appartment32": "300"
+"month5appartment33": "300"
+"month5appartment34": "600"
+"month5appartment35": "450"
+"month5appartment36": "350"
+"month5appartment37": "450"
+"month5appartment38": "250"
+"month5appartment39": "450"
+"month5appartment40": "450"
+"month6appartment1": ""
+"month6appartment2": ""
+"month6appartment3": ""
+"month6appartment4": ""
+"month6appartment5": "350"
+"month6appartment6": ""
+"month6appartment7": ""
+"month6appartment8": ""
+"month6appartment9": "300"
+"month6appartment10": "450"
+"month6appartment11": ""
+"month6appartment12": "1050"
+"month6appartment13": "300"
+"month6appartment14": "150"
+"month6appartment15": "300"
+"month6appartment16": "150"
+"month6appartment17": ""
+"month6appartment18": "300"
+"month6appartment19": "300"
+"month6appartment20": "150"
+"month6appartment21": "150"
+"month6appartment22": ""
+"month6appartment23": "150"
+"month6appartment24": ""
+"month6appartment25": ""
+"month6appartment26": ""
+"month6appartment27": ""
+"month6appartment28": "300"
+"month6appartment29": ""
+"month6appartment30": ""
+"month6appartment31": ""
+"month6appartment32": ""
+"month6appartment33": ""
+"month6appartment34": ""
+"month6appartment35": "300"
+"month6appartment36": "500"
+"month6appartment37": ""
+"month6appartment38": ""
+"month6appartment39": ""
+"month6appartment40": "300"
+"month7appartment1": ""
+"month7appartment2": ""
+"month7appartment3": ""
+"month7appartment4": ""
+"month7appartment5": ""
+"month7appartment6": ""
+"month7appartment7": ""
+"month7appartment8": ""
+"month7appartment9": ""
+"month7appartment10": ""
+"month7appartment11": ""
+"month7appartment12": ""
+"month7appartment13": ""
+"month7appartment14": ""
+"month7appartment15": ""
+"month7appartment16": ""
+"month7appartment17": ""
+"month7appartment18": ""
+"month7appartment19": ""
+"month7appartment20": ""
+"month7appartment21": ""
+"month7appartment22": ""
+"month7appartment23": ""
+"month7appartment24": ""
+"month7appartment25": ""
+"month7appartment26": ""
+"month7appartment27": ""
+"month7appartment28": ""
+"month7appartment29": ""
+"month7appartment30": ""
+"month7appartment31": ""
+"month7appartment32": ""
+"month7appartment33": ""
+"month7appartment34": ""
+"month7appartment35": ""
+"month7appartment36": ""
+"month7appartment37": ""
+"month7appartment38": ""
+"month7appartment39": ""
+"month7appartment40": ""
+"month8appartment1": ""
+"month8appartment2": ""
+"month8appartment3": ""
+"month8appartment4": ""
+"month8appartment5": ""
+"month8appartment6": ""
+"month8appartment7": ""
+"month8appartment8": ""
+"month8appartment9": ""
+"month8appartment10": ""
+"month8appartment11": ""
+"month8appartment12": ""
+"month8appartment13": ""
+"month8appartment14": ""
+"month8appartment15": ""
+"month8appartment16": ""
+"month8appartment17": ""
+"month8appartment18": ""
+"month8appartment19": ""
+"month8appartment20": ""
+"month8appartment21": ""
+"month8appartment22": ""
+"month8appartment23": ""
+"month8appartment24": ""
+"month8appartment25": ""
+"month8appartment26": ""
+"month8appartment27": ""
+"month8appartment28": ""
+"month8appartment29": ""
+"month8appartment30": ""
+"month8appartment31": ""
+"month8appartment32": ""
+"month8appartment33": ""
+"month8appartment34": ""
+"month8appartment35": ""
+"month8appartment36": ""
+"month8appartment37": ""
+"month8appartment38": ""
+"month8appartment39": ""
+"month8appartment40": ""
+"month9appartment1": ""
+"month9appartment2": ""
+"month9appartment3": ""
+"month9appartment4": ""
+"month9appartment5": ""
+"month9appartment6": ""
+"month9appartment7": ""
+"month9appartment8": ""
+"month9appartment9": ""
+"month9appartment10": ""
+"month9appartment11": ""
+"month9appartment12": ""
+"month9appartment13": ""
+"month9appartment14": ""
+"month9appartment15": ""
+"month9appartment16": ""
+"month9appartment17": ""
+"month9appartment18": ""
+"month9appartment19": ""
+"month9appartment20": ""
+"month9appartment21": ""
+"month9appartment22": ""
+"month9appartment23": ""
+"month9appartment24": ""
+"month9appartment25": ""
+"month9appartment26": ""
+"month9appartment27": ""
+"month9appartment28": ""
+"month9appartment29": ""
+"month9appartment30": ""
+"month9appartment31": ""
+"month9appartment32": ""
+"month9appartment33": ""
+"month9appartment34": ""
+"month9appartment35": ""
+"month9appartment36": ""
+"month9appartment37": ""
+"month9appartment38": ""
+"month9appartment39": ""
+"month9appartment40": ""
+"month10appartment1": ""
+"month10appartment2": ""
+"month10appartment3": ""
+"month10appartment4": ""
+"month10appartment5": ""
+"month10appartment6": ""
+"month10appartment7": ""
+"month10appartment8": ""
+"month10appartment9": ""
+"month10appartment10": ""
+"month10appartment11": ""
+"month10appartment12": ""
+"month10appartment13": ""
+"month10appartment14": ""
+"month10appartment15": ""
+"month10appartment16": ""
+"month10appartment17": ""
+"month10appartment18": ""
+"month10appartment19": ""
+"month10appartment20": ""
+"month10appartment21": ""
+"month10appartment22": ""
+"month10appartment23": ""
+"month10appartment24": ""
+"month10appartment25": ""
+"month10appartment26": ""
+"month10appartment27": ""
+"month10appartment28": ""
+"month10appartment29": ""
+"month10appartment30": ""
+"month10appartment31": ""
+"month10appartment32": ""
+"month10appartment33": ""
+"month10appartment34": ""
+"month10appartment35": ""
+"month10appartment36": ""
+"month10appartment37": ""
+"month10appartment38": ""
+"month10appartment39": ""
+"month10appartment40": ""
+"month11appartment1": ""
+"month11appartment2": ""
+"month11appartment3": ""
+"month11appartment4": ""
+"month11appartment5": ""
+"month11appartment6": ""
+"month11appartment7": ""
+"month11appartment8": ""
+"month11appartment9": ""
+"month11appartment10": ""
+"month11appartment11": ""
+"month11appartment12": ""
+"month11appartment13": ""
+"month11appartment14": ""
+"month11appartment15": ""
+"month11appartment16": ""
+"month11appartment17": ""
+"month11appartment18": ""
+"month11appartment19": ""
+"month11appartment20": ""
+"month11appartment21": ""
+"month11appartment22": ""
+"month11appartment23": ""
+"month11appartment24": ""
+"month11appartment25": ""
+"month11appartment26": ""
+"month11appartment27": ""
+"month11appartment28": ""
+"month11appartment29": ""
+"month11appartment30": ""
+"month11appartment31": ""
+"month11appartment32": ""
+"month11appartment33": ""
+"month11appartment34": ""
+"month11appartment35": ""
+"month11appartment36": ""
+"month11appartment37": ""
+"month11appartment38": ""
+"month11appartment39": ""
+"month11appartment40": ""
+"month12appartment1": ""
+"month12appartment2": ""
+"month12appartment3": ""
+"month12appartment4": ""
+"month12appartment5": ""
+"month12appartment6": ""
+"month12appartment7": ""
+"month12appartment8": ""
+"month12appartment9": ""
+"month12appartment10": ""
+"month12appartment11": ""
+"month12appartment12": ""
+"month12appartment13": ""
+"month12appartment14": ""
+"month12appartment15": ""
+"month12appartment16": ""
+"month12appartment17": ""
+"month12appartment18": ""
+"month12appartment19": ""
+"month12appartment20": ""
+"month12appartment21": ""
+"month12appartment22": ""
+"month12appartment23": ""
+"month12appartment24": ""
+"month12appartment25": ""
+"month12appartment26": ""
+"month12appartment27": ""
+"month12appartment28": ""
+"month12appartment29": ""
+"month12appartment30": ""
+"month12appartment31": ""
+"month12appartment32": ""
+"month12appartment33": ""
+"month12appartment34": ""
+"month12appartment35": ""
+"month12appartment36": ""
+"month12appartment37": ""
+"month12appartment38": ""
+"month12appartment39": ""
+"month12appartment40": ""
 }
