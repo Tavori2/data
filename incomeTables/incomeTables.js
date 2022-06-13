@@ -1,506 +1,1946 @@
 {
 "month1": [
-"apt1": "1800",
-"apt2": "300",
-"apt3": "185",
-"apt4": "1500",
-"apt5": "350",
-"apt6": "300",
-"apt7": "350",
-"apt8": "",
-"apt9": "",
-"apt10": "300",
-"apt11": "300",
-"apt12": "300",
-"apt13": "300",
-"apt14": "300",
-"apt15": "300",
-"apt16": "1800",
-"apt17": "300",
-"apt18": "300",
-"apt19": "350",
-"apt20": "300",
-"apt21": "300",
-"apt22": "600",
-"apt23": "",
-"apt24": "3600",
-"apt25": "300",
-"apt26": "300",
-"apt27": "300",
-"apt28": "300",
-"apt29": "900",
-"apt30": "3600",
-"apt31": "600",
-"apt32": "300",
-"apt33": "300",
-"apt34": "600",
-"apt35": "340",
-"apt36": "350",
-"apt37": "300",
-"apt38": "",
-"apt39": "300",
-"apt40": "300",
+"appartment": {
+    "number": "1",
+    "ammount": "1800"
+},
+"appartment": {
+    "number": "2",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "3",
+    "ammount": "185"
+},
+"appartment": {
+    "number": "4",
+    "ammount": "1500"
+},
+"appartment": {
+    "number": "5",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "6",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "7",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "11",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "12",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "13",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "14",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "15",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "16",
+    "ammount": "1800"
+},
+"appartment": {
+    "number": "17",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "18",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "19",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "20",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "21",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "22",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": "3600"
+},
+"appartment": {
+    "number": "25",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "26",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "27",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "28",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "29",
+    "ammount": "900"
+},
+"appartment": {
+    "number": "30",
+    "ammount": "3600"
+},
+"appartment": {
+    "number": "31",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "32",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "33",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "34",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "35",
+    "ammount": "340"
+},
+"appartment": {
+    "number": "36",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "37",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "40",
+    "ammount": "300"
+},
 ],
 "month2": [
-"apt1": "1800",
-"apt2": "300",
-"apt3": "1700",
-"apt4": "",
-"apt5": "",
-"apt6": "300",
-"apt7": "350",
-"apt8": "300",
-"apt9": "1800",
-"apt10": "300",
-"apt11": "300",
-"apt12": "300",
-"apt13": "300",
-"apt14": "300",
-"apt15": "300",
-"apt16": "",
-"apt17": "300",
-"apt18": "300",
-"apt19": "250",
-"apt20": "300",
-"apt21": "550",
-"apt22": "",
-"apt23": "900",
-"apt24": "",
-"apt25": "300",
-"apt26": "300",
-"apt27": "300",
-"apt28": "300",
-"apt29": "",
-"apt30": "",
-"apt31": "300",
-"apt32": "300",
-"apt33": "300",
-"apt34": "",
-"apt35": "300",
-"apt36": "350",
-"apt37": "300",
-"apt38": "",
-"apt39": "300",
-"apt40": "300",
+"appartment": {
+    "number": "1",
+    "ammount": "1800"
+},
+"appartment": {
+    "number": "2",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "3",
+    "ammount": "1700"
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "7",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "8",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "9",
+    "ammount": "1800"
+},
+"appartment": {
+    "number": "10",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "11",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "12",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "13",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "14",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "15",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "18",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "19",
+    "ammount": "250"
+},
+"appartment": {
+    "number": "20",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "21",
+    "ammount": "550"
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": "900"
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "26",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "27",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "28",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "32",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "33",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "36",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "37",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "40",
+    "ammount": "300"
+},
 ],
 "month3": [
-"apt1": "",
-"apt2": "450",
-"apt3": "",
-"apt4": "",
-"apt5": "700",
-"apt6": "300",
-"apt7": "350",
-"apt8": "600",
-"apt9": "",
-"apt10": "300",
-"apt11": "300",
-"apt12": "300",
-"apt13": "450",
-"apt14": "300",
-"apt15": "300",
-"apt16": "",
-"apt17": "300",
-"apt18": "300",
-"apt19": "300",
-"apt20": "300",
-"apt21": "300",
-"apt22": "600",
-"apt23": "",
-"apt24": "",
-"apt25": "300",
-"apt26": "450",
-"apt27": "300",
-"apt28": "300",
-"apt29": "",
-"apt30": "",
-"apt31": "300",
-"apt32": "300",
-"apt33": "450",
-"apt34": "600",
-"apt35": "300",
-"apt36": "350",
-"apt37": "300",
-"apt38": "",
-"apt39": "300",
-"apt40": "300",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": "700"
+},
+"appartment": {
+    "number": "6",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "7",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "8",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "11",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "12",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "13",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "14",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "15",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "18",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "19",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "20",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "21",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "22",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "26",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "27",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "28",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "32",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "33",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "34",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "35",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "36",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "37",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "40",
+    "ammount": "300"
+},
 ],
 "month4": [
-"apt1": "150",
-"apt2": "300",
-"apt3": "150",
-"apt4": "150",
-"apt5": "",
-"apt6": "300",
-"apt7": "350",
-"apt8": "300",
-"apt9": "",
-"apt10": "300",
-"apt11": "450",
-"apt12": "300",
-"apt13": "300",
-"apt14": "300",
-"apt15": "300",
-"apt16": "",
-"apt17": "300",
-"apt18": "450",
-"apt19": "450",
-"apt20": "300",
-"apt21": "500",
-"apt22": "",
-"apt23": "300",
-"apt24": "150",
-"apt25": "450",
-"apt26": "",
-"apt27": "450",
-"apt28": "300",
-"apt29": "750",
-"apt30": "",
-"apt31": "300",
-"apt32": "300",
-"apt33": "300",
-"apt34": "150",
-"apt35": "300",
-"apt36": "350",
-"apt37": "300",
-"apt38": "1400",
-"apt39": "300",
-"apt40": "300",
+"appartment": {
+    "number": "1",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "2",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "3",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "4",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "7",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "8",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "11",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "12",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "13",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "14",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "15",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "18",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "19",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "20",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "21",
+    "ammount": "500"
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "24",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "25",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "28",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "29",
+    "ammount": "750"
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "32",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "33",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "34",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "35",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "36",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "37",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "38",
+    "ammount": "1400"
+},
+"appartment": {
+    "number": "39",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "40",
+    "ammount": "300"
+},
 ],
 "month5": [
-"apt1": "",
-"apt2": "300",
-"apt3": "1000",
-"apt4": "",
-"apt5": "350",
-"apt6": "300",
-"apt7": "350",
-"apt8": "300",
-"apt9": "",
-"apt10": "300",
-"apt11": "300",
-"apt12": "",
-"apt13": "300",
-"apt14": "300",
-"apt15": "300",
-"apt16": "",
-"apt17": "300",
-"apt18": "300",
-"apt19": "",
-"apt20": "300",
-"apt21": "560",
-"apt22": "600",
-"apt23": "300",
-"apt24": "",
-"apt25": "300",
-"apt26": "",
-"apt27": "300",
-"apt28": "450",
-"apt29": "",
-"apt30": "",
-"apt31": "450",
-"apt32": "300",
-"apt33": "300",
-"apt34": "600",
-"apt35": "450",
-"apt36": "350",
-"apt37": "450",
-"apt38": "250",
-"apt39": "450",
-"apt40": "450",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "3",
+    "ammount": "1000"
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "6",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "7",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "8",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "11",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "12",
+    "ammount": ""
+},
+"appartment": {
+    "number": "13",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "14",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "15",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "18",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "19",
+    "ammount": ""
+},
+"appartment": {
+    "number": "20",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "21",
+    "ammount": "560"
+},
+"appartment": {
+    "number": "22",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "23",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "28",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "32",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "33",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "34",
+    "ammount": "600"
+},
+"appartment": {
+    "number": "35",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "36",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "37",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "38",
+    "ammount": "250"
+},
+"appartment": {
+    "number": "39",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "40",
+    "ammount": "450"
+},
 ],
 "month6": [
-"apt1": "",
-"apt2": "",
-"apt3": "",
-"apt4": "",
-"apt5": "350",
-"apt6": "",
-"apt7": "",
-"apt8": "",
-"apt9": "300",
-"apt10": "450",
-"apt11": "",
-"apt12": "1050",
-"apt13": "300",
-"apt14": "150",
-"apt15": "300",
-"apt16": "150",
-"apt17": "",
-"apt18": "300",
-"apt19": "300",
-"apt20": "150",
-"apt21": "150",
-"apt22": "",
-"apt23": "150",
-"apt24": "",
-"apt25": "",
-"apt26": "",
-"apt27": "",
-"apt28": "300",
-"apt29": "",
-"apt30": "",
-"apt31": "",
-"apt32": "",
-"apt33": "",
-"apt34": "",
-"apt35": "300",
-"apt36": "500",
-"apt37": "",
-"apt38": "",
-"apt39": "",
-"apt40": "300",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": ""
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": "350"
+},
+"appartment": {
+    "number": "6",
+    "ammount": ""
+},
+"appartment": {
+    "number": "7",
+    "ammount": ""
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "10",
+    "ammount": "450"
+},
+"appartment": {
+    "number": "11",
+    "ammount": ""
+},
+"appartment": {
+    "number": "12",
+    "ammount": "1050"
+},
+"appartment": {
+    "number": "13",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "14",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "15",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "16",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "17",
+    "ammount": ""
+},
+"appartment": {
+    "number": "18",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "19",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "20",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "21",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": "150"
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": ""
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": ""
+},
+"appartment": {
+    "number": "28",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": ""
+},
+"appartment": {
+    "number": "32",
+    "ammount": ""
+},
+"appartment": {
+    "number": "33",
+    "ammount": ""
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": "300"
+},
+"appartment": {
+    "number": "36",
+    "ammount": "500"
+},
+"appartment": {
+    "number": "37",
+    "ammount": ""
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": ""
+},
+"appartment": {
+    "number": "40",
+    "ammount": "300"
+},
 ],
 "month7": [
-"apt1": "",
-"apt2": "",
-"apt3": "",
-"apt4": "",
-"apt5": "",
-"apt6": "",
-"apt7": "",
-"apt8": "",
-"apt9": "",
-"apt10": "",
-"apt11": "",
-"apt12": "",
-"apt13": "",
-"apt14": "",
-"apt15": "",
-"apt16": "",
-"apt17": "",
-"apt18": "",
-"apt19": "",
-"apt20": "",
-"apt21": "",
-"apt22": "",
-"apt23": "",
-"apt24": "",
-"apt25": "",
-"apt26": "",
-"apt27": "",
-"apt28": "",
-"apt29": "",
-"apt30": "",
-"apt31": "",
-"apt32": "",
-"apt33": "",
-"apt34": "",
-"apt35": "",
-"apt36": "",
-"apt37": "",
-"apt38": "",
-"apt39": "",
-"apt40": "",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": ""
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": ""
+},
+"appartment": {
+    "number": "7",
+    "ammount": ""
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": ""
+},
+"appartment": {
+    "number": "11",
+    "ammount": ""
+},
+"appartment": {
+    "number": "12",
+    "ammount": ""
+},
+"appartment": {
+    "number": "13",
+    "ammount": ""
+},
+"appartment": {
+    "number": "14",
+    "ammount": ""
+},
+"appartment": {
+    "number": "15",
+    "ammount": ""
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": ""
+},
+"appartment": {
+    "number": "18",
+    "ammount": ""
+},
+"appartment": {
+    "number": "19",
+    "ammount": ""
+},
+"appartment": {
+    "number": "20",
+    "ammount": ""
+},
+"appartment": {
+    "number": "21",
+    "ammount": ""
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": ""
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": ""
+},
+"appartment": {
+    "number": "28",
+    "ammount": ""
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": ""
+},
+"appartment": {
+    "number": "32",
+    "ammount": ""
+},
+"appartment": {
+    "number": "33",
+    "ammount": ""
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": ""
+},
+"appartment": {
+    "number": "36",
+    "ammount": ""
+},
+"appartment": {
+    "number": "37",
+    "ammount": ""
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": ""
+},
+"appartment": {
+    "number": "40",
+    "ammount": ""
+},
 ],
 "month8": [
-"apt1": "",
-"apt2": "",
-"apt3": "",
-"apt4": "",
-"apt5": "",
-"apt6": "",
-"apt7": "",
-"apt8": "",
-"apt9": "",
-"apt10": "",
-"apt11": "",
-"apt12": "",
-"apt13": "",
-"apt14": "",
-"apt15": "",
-"apt16": "",
-"apt17": "",
-"apt18": "",
-"apt19": "",
-"apt20": "",
-"apt21": "",
-"apt22": "",
-"apt23": "",
-"apt24": "",
-"apt25": "",
-"apt26": "",
-"apt27": "",
-"apt28": "",
-"apt29": "",
-"apt30": "",
-"apt31": "",
-"apt32": "",
-"apt33": "",
-"apt34": "",
-"apt35": "",
-"apt36": "",
-"apt37": "",
-"apt38": "",
-"apt39": "",
-"apt40": "",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": ""
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": ""
+},
+"appartment": {
+    "number": "7",
+    "ammount": ""
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": ""
+},
+"appartment": {
+    "number": "11",
+    "ammount": ""
+},
+"appartment": {
+    "number": "12",
+    "ammount": ""
+},
+"appartment": {
+    "number": "13",
+    "ammount": ""
+},
+"appartment": {
+    "number": "14",
+    "ammount": ""
+},
+"appartment": {
+    "number": "15",
+    "ammount": ""
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": ""
+},
+"appartment": {
+    "number": "18",
+    "ammount": ""
+},
+"appartment": {
+    "number": "19",
+    "ammount": ""
+},
+"appartment": {
+    "number": "20",
+    "ammount": ""
+},
+"appartment": {
+    "number": "21",
+    "ammount": ""
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": ""
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": ""
+},
+"appartment": {
+    "number": "28",
+    "ammount": ""
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": ""
+},
+"appartment": {
+    "number": "32",
+    "ammount": ""
+},
+"appartment": {
+    "number": "33",
+    "ammount": ""
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": ""
+},
+"appartment": {
+    "number": "36",
+    "ammount": ""
+},
+"appartment": {
+    "number": "37",
+    "ammount": ""
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": ""
+},
+"appartment": {
+    "number": "40",
+    "ammount": ""
+},
 ],
 "month9": [
-"apt1": "",
-"apt2": "",
-"apt3": "",
-"apt4": "",
-"apt5": "",
-"apt6": "",
-"apt7": "",
-"apt8": "",
-"apt9": "",
-"apt10": "",
-"apt11": "",
-"apt12": "",
-"apt13": "",
-"apt14": "",
-"apt15": "",
-"apt16": "",
-"apt17": "",
-"apt18": "",
-"apt19": "",
-"apt20": "",
-"apt21": "",
-"apt22": "",
-"apt23": "",
-"apt24": "",
-"apt25": "",
-"apt26": "",
-"apt27": "",
-"apt28": "",
-"apt29": "",
-"apt30": "",
-"apt31": "",
-"apt32": "",
-"apt33": "",
-"apt34": "",
-"apt35": "",
-"apt36": "",
-"apt37": "",
-"apt38": "",
-"apt39": "",
-"apt40": "",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": ""
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": ""
+},
+"appartment": {
+    "number": "7",
+    "ammount": ""
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": ""
+},
+"appartment": {
+    "number": "11",
+    "ammount": ""
+},
+"appartment": {
+    "number": "12",
+    "ammount": ""
+},
+"appartment": {
+    "number": "13",
+    "ammount": ""
+},
+"appartment": {
+    "number": "14",
+    "ammount": ""
+},
+"appartment": {
+    "number": "15",
+    "ammount": ""
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": ""
+},
+"appartment": {
+    "number": "18",
+    "ammount": ""
+},
+"appartment": {
+    "number": "19",
+    "ammount": ""
+},
+"appartment": {
+    "number": "20",
+    "ammount": ""
+},
+"appartment": {
+    "number": "21",
+    "ammount": ""
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": ""
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": ""
+},
+"appartment": {
+    "number": "28",
+    "ammount": ""
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": ""
+},
+"appartment": {
+    "number": "32",
+    "ammount": ""
+},
+"appartment": {
+    "number": "33",
+    "ammount": ""
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": ""
+},
+"appartment": {
+    "number": "36",
+    "ammount": ""
+},
+"appartment": {
+    "number": "37",
+    "ammount": ""
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": ""
+},
+"appartment": {
+    "number": "40",
+    "ammount": ""
+},
 ],
 "month10": [
-"apt1": "",
-"apt2": "",
-"apt3": "",
-"apt4": "",
-"apt5": "",
-"apt6": "",
-"apt7": "",
-"apt8": "",
-"apt9": "",
-"apt10": "",
-"apt11": "",
-"apt12": "",
-"apt13": "",
-"apt14": "",
-"apt15": "",
-"apt16": "",
-"apt17": "",
-"apt18": "",
-"apt19": "",
-"apt20": "",
-"apt21": "",
-"apt22": "",
-"apt23": "",
-"apt24": "",
-"apt25": "",
-"apt26": "",
-"apt27": "",
-"apt28": "",
-"apt29": "",
-"apt30": "",
-"apt31": "",
-"apt32": "",
-"apt33": "",
-"apt34": "",
-"apt35": "",
-"apt36": "",
-"apt37": "",
-"apt38": "",
-"apt39": "",
-"apt40": "",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": ""
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": ""
+},
+"appartment": {
+    "number": "7",
+    "ammount": ""
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": ""
+},
+"appartment": {
+    "number": "11",
+    "ammount": ""
+},
+"appartment": {
+    "number": "12",
+    "ammount": ""
+},
+"appartment": {
+    "number": "13",
+    "ammount": ""
+},
+"appartment": {
+    "number": "14",
+    "ammount": ""
+},
+"appartment": {
+    "number": "15",
+    "ammount": ""
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": ""
+},
+"appartment": {
+    "number": "18",
+    "ammount": ""
+},
+"appartment": {
+    "number": "19",
+    "ammount": ""
+},
+"appartment": {
+    "number": "20",
+    "ammount": ""
+},
+"appartment": {
+    "number": "21",
+    "ammount": ""
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": ""
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": ""
+},
+"appartment": {
+    "number": "28",
+    "ammount": ""
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": ""
+},
+"appartment": {
+    "number": "32",
+    "ammount": ""
+},
+"appartment": {
+    "number": "33",
+    "ammount": ""
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": ""
+},
+"appartment": {
+    "number": "36",
+    "ammount": ""
+},
+"appartment": {
+    "number": "37",
+    "ammount": ""
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": ""
+},
+"appartment": {
+    "number": "40",
+    "ammount": ""
+},
 ],
 "month11": [
-"apt1": "",
-"apt2": "",
-"apt3": "",
-"apt4": "",
-"apt5": "",
-"apt6": "",
-"apt7": "",
-"apt8": "",
-"apt9": "",
-"apt10": "",
-"apt11": "",
-"apt12": "",
-"apt13": "",
-"apt14": "",
-"apt15": "",
-"apt16": "",
-"apt17": "",
-"apt18": "",
-"apt19": "",
-"apt20": "",
-"apt21": "",
-"apt22": "",
-"apt23": "",
-"apt24": "",
-"apt25": "",
-"apt26": "",
-"apt27": "",
-"apt28": "",
-"apt29": "",
-"apt30": "",
-"apt31": "",
-"apt32": "",
-"apt33": "",
-"apt34": "",
-"apt35": "",
-"apt36": "",
-"apt37": "",
-"apt38": "",
-"apt39": "",
-"apt40": "",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": ""
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": ""
+},
+"appartment": {
+    "number": "7",
+    "ammount": ""
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": ""
+},
+"appartment": {
+    "number": "11",
+    "ammount": ""
+},
+"appartment": {
+    "number": "12",
+    "ammount": ""
+},
+"appartment": {
+    "number": "13",
+    "ammount": ""
+},
+"appartment": {
+    "number": "14",
+    "ammount": ""
+},
+"appartment": {
+    "number": "15",
+    "ammount": ""
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": ""
+},
+"appartment": {
+    "number": "18",
+    "ammount": ""
+},
+"appartment": {
+    "number": "19",
+    "ammount": ""
+},
+"appartment": {
+    "number": "20",
+    "ammount": ""
+},
+"appartment": {
+    "number": "21",
+    "ammount": ""
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": ""
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": ""
+},
+"appartment": {
+    "number": "28",
+    "ammount": ""
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": ""
+},
+"appartment": {
+    "number": "32",
+    "ammount": ""
+},
+"appartment": {
+    "number": "33",
+    "ammount": ""
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": ""
+},
+"appartment": {
+    "number": "36",
+    "ammount": ""
+},
+"appartment": {
+    "number": "37",
+    "ammount": ""
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": ""
+},
+"appartment": {
+    "number": "40",
+    "ammount": ""
+},
 ],
 "month12": [
-"apt1": "",
-"apt2": "",
-"apt3": "",
-"apt4": "",
-"apt5": "",
-"apt6": "",
-"apt7": "",
-"apt8": "",
-"apt9": "",
-"apt10": "",
-"apt11": "",
-"apt12": "",
-"apt13": "",
-"apt14": "",
-"apt15": "",
-"apt16": "",
-"apt17": "",
-"apt18": "",
-"apt19": "",
-"apt20": "",
-"apt21": "",
-"apt22": "",
-"apt23": "",
-"apt24": "",
-"apt25": "",
-"apt26": "",
-"apt27": "",
-"apt28": "",
-"apt29": "",
-"apt30": "",
-"apt31": "",
-"apt32": "",
-"apt33": "",
-"apt34": "",
-"apt35": "",
-"apt36": "",
-"apt37": "",
-"apt38": "",
-"apt39": "",
-"apt40": "",
+"appartment": {
+    "number": "1",
+    "ammount": ""
+},
+"appartment": {
+    "number": "2",
+    "ammount": ""
+},
+"appartment": {
+    "number": "3",
+    "ammount": ""
+},
+"appartment": {
+    "number": "4",
+    "ammount": ""
+},
+"appartment": {
+    "number": "5",
+    "ammount": ""
+},
+"appartment": {
+    "number": "6",
+    "ammount": ""
+},
+"appartment": {
+    "number": "7",
+    "ammount": ""
+},
+"appartment": {
+    "number": "8",
+    "ammount": ""
+},
+"appartment": {
+    "number": "9",
+    "ammount": ""
+},
+"appartment": {
+    "number": "10",
+    "ammount": ""
+},
+"appartment": {
+    "number": "11",
+    "ammount": ""
+},
+"appartment": {
+    "number": "12",
+    "ammount": ""
+},
+"appartment": {
+    "number": "13",
+    "ammount": ""
+},
+"appartment": {
+    "number": "14",
+    "ammount": ""
+},
+"appartment": {
+    "number": "15",
+    "ammount": ""
+},
+"appartment": {
+    "number": "16",
+    "ammount": ""
+},
+"appartment": {
+    "number": "17",
+    "ammount": ""
+},
+"appartment": {
+    "number": "18",
+    "ammount": ""
+},
+"appartment": {
+    "number": "19",
+    "ammount": ""
+},
+"appartment": {
+    "number": "20",
+    "ammount": ""
+},
+"appartment": {
+    "number": "21",
+    "ammount": ""
+},
+"appartment": {
+    "number": "22",
+    "ammount": ""
+},
+"appartment": {
+    "number": "23",
+    "ammount": ""
+},
+"appartment": {
+    "number": "24",
+    "ammount": ""
+},
+"appartment": {
+    "number": "25",
+    "ammount": ""
+},
+"appartment": {
+    "number": "26",
+    "ammount": ""
+},
+"appartment": {
+    "number": "27",
+    "ammount": ""
+},
+"appartment": {
+    "number": "28",
+    "ammount": ""
+},
+"appartment": {
+    "number": "29",
+    "ammount": ""
+},
+"appartment": {
+    "number": "30",
+    "ammount": ""
+},
+"appartment": {
+    "number": "31",
+    "ammount": ""
+},
+"appartment": {
+    "number": "32",
+    "ammount": ""
+},
+"appartment": {
+    "number": "33",
+    "ammount": ""
+},
+"appartment": {
+    "number": "34",
+    "ammount": ""
+},
+"appartment": {
+    "number": "35",
+    "ammount": ""
+},
+"appartment": {
+    "number": "36",
+    "ammount": ""
+},
+"appartment": {
+    "number": "37",
+    "ammount": ""
+},
+"appartment": {
+    "number": "38",
+    "ammount": ""
+},
+"appartment": {
+    "number": "39",
+    "ammount": ""
+},
+"appartment": {
+    "number": "40",
+    "ammount": ""
+},
 ],
 }
