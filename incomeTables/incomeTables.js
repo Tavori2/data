@@ -1,4 +1,4 @@
-{
+var incomeTables = `{
 "month_1_apt_1": "1800",
 "month_1_apt_2": "300",
 "month_1_apt_3": "185",
@@ -479,4 +479,4 @@
 "month_12_apt_38": "",
 "month_12_apt_39": "",
 "month_12_apt_40": "",
-}
+}`;
