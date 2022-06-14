@@ -2896,5 +2896,5 @@ var incomeTables = `[
 "month_12_apt_38": "",
 "month_12_apt_39": "",
 "month_12_apt_40": "",
-},
+}
 ]`;
