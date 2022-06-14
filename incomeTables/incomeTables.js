@@ -48,14 +48,13 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				rowTemplate = rowTemplate.replaceAll('{{apt_x}}', apartmentCounter);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
 					let currentValue = entry['month_' + monthCounter + '_apt_' + apartmentCounter];
-					console.log("currentValue: " + currentValue);
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', currentValue);
-					var payAmountClass = "";
-					console.log("currentValue2: " + currentValue);
-					if(currentValue || /^\s*$/.test(currentValue)) {
-						payAmountClass = "payAmount";
+					var payAmountClass = "payAmount";
+					// if this is an empty cell, dont set pay ammount css class
+					if(!currentValue || /^\s*$/.test(currentValue)) {
+						payAmountClass = "";
 					}
-					rowTemplate = rowTemplate.replaceAll('{{contentClass}}', payAmountClass);
+					rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', payAmountClass);
 				}
 				let newRow = document.createElement('div');
 				newRow.innerHTML = rowTemplate;
