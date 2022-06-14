@@ -52,7 +52,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', currentValue);
 					var payAmountClass = "";
 					console.log("currentValue2: " + currentValue);
-					if(currentValue | /^\s*$/.test(currentValue)) {
+					if(currentValue || /^\s*$/.test(currentValue)) {
 						payAmountClass = "payAmount";
 					}
 					rowTemplate = rowTemplate.replaceAll('{{contentClass}}', payAmountClass);
