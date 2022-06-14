@@ -7,11 +7,19 @@ div.blueTable {
 }
 
 .firstColumnCell {
+    background: #0a7b83;
+    color: white;
+    text-align: center;
     font-weight: bold;
 }
 
 .divTableHead {
     background: #0a7b83;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    height: 35px;
+    vertical-align: middle;
 }
 
 .divTable.blueTable .divTableCell,
