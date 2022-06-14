@@ -24,29 +24,37 @@ function waitUntilElementLoaded(selector) {
 }
 
 waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
-	// element found and available
-	let template = document.getElementById('incomeTables-template').innerHTML;
+	let yearTemplate = document.getElementById('incomeTables-template').innerHTML;
 	let container = document.querySelector('#incomeTables-container');
 
 	try {
 		let data = JSON.parse(incomeTables);
 		// loop each year entry in the income tables json
 		data.forEach(entry => {
-			let jParsed = template;
-			income-year
+			// create new year table
+			yearTemplate = yearTemplate.replaceAll('{{income-year}}', entry.year);	
+			let newTable = document.createElement('div');
+			newTable.innerHTML = yearTemplate;
+			container.appendChild(newTable);
+			
+			// get the table inner body (after header) that we will populate with rows
+			let divTableBody = document.querySelector('divTableBody');
 
-			for (attr in entry) {
-				jParsed = jParsed.replaceAll('{{' + attr + '}}', entry[attr]);
+			for (let apartmentCounter = 1; apartmentCounter <= 40; apartmentCounter++) { 
+				// get the template for an appartment (12 month)
+				let rowTemplate = document.getElementById('incomeTablesRow-template').innerHTML;
+				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) { 
+					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_' + apartmentCounter + '}}');
+				}
+				let newRow = document.createElement('div');
+				newRow.innerHTML = rowTemplate;
+				divTableBody.appendChild(newRow);	
 			}
-
-			let newRow = document.createElement('div');
-			newRow.innerHTML = jParsed;
-			container.appendChild(newRow);
 		});
 	}
 	catch (err) {
 		// error occurred
-		console.log("Failed to create incomeTables row due to: " + err);
+		console.log("Failed to create incomeTables due to: " + err);
 	}
 }).catch(function () {
 	// element not found within 5000 milliseconds
