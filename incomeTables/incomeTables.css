@@ -10,9 +10,12 @@ div.blueTable {
     font-weight: bold;
 }
 
+.divTableHead {
+    background: #0a7b83;
+}
+
 .divTable.blueTable .divTableCell,
 .divTable.blueTable .divTableHead {
-    background: #8b9fd6;
     border: 1px solid #FFFFFF;
     padding: 3px 3px;
     width: 35px;
