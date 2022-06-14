@@ -49,7 +49,11 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
 					let currentValue = entry['month_' + monthCounter + '_apt_' + apartmentCounter];
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', currentValue);
-					rowTemplate = rowTemplate.replaceAll('{{contentClass}}', (currentValue === "" ? "" : "payAmount") );
+					var payAmountClass = "";
+					if(currentValue === "") {
+						payAmountClass = " payAmount";
+					}
+					rowTemplate = rowTemplate.replaceAll('{{contentClass}}', payAmountClass);
 				}
 				let newRow = document.createElement('div');
 				newRow.innerHTML = rowTemplate;
