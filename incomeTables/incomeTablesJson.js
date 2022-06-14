@@ -40,7 +40,7 @@ var incomeTables = `[
 "month_1_apt_37": "",
 "month_1_apt_38": "",
 "month_1_apt_39": "",
-"month_1_apt_40": ""
+"month_1_apt_40": "",
 "month_2_apt_1": "",
 "month_2_apt_2": "",
 "month_2_apt_3": "",
@@ -80,7 +80,7 @@ var incomeTables = `[
 "month_2_apt_37": "",
 "month_2_apt_38": "",
 "month_2_apt_39": "",
-"month_2_apt_40": ""
+"month_2_apt_40": "",
 "month_3_apt_1": "",
 "month_3_apt_2": "",
 "month_3_apt_3": "",
@@ -120,7 +120,7 @@ var incomeTables = `[
 "month_3_apt_37": "",
 "month_3_apt_38": "",
 "month_3_apt_39": "",
-"month_3_apt_40": ""
+"month_3_apt_40": "",
 "month_4_apt_1": "",
 "month_4_apt_2": "",
 "month_4_apt_3": "",
@@ -160,7 +160,7 @@ var incomeTables = `[
 "month_4_apt_37": "",
 "month_4_apt_38": "",
 "month_4_apt_39": "",
-"month_4_apt_40": ""
+"month_4_apt_40": "",
 "month_5_apt_1": "",
 "month_5_apt_2": "",
 "month_5_apt_3": "",
@@ -200,7 +200,7 @@ var incomeTables = `[
 "month_5_apt_37": "",
 "month_5_apt_38": "",
 "month_5_apt_39": "",
-"month_5_apt_40": ""
+"month_5_apt_40": "",
 "month_6_apt_1": "",
 "month_6_apt_2": "",
 "month_6_apt_3": "",
@@ -240,7 +240,7 @@ var incomeTables = `[
 "month_6_apt_37": "",
 "month_6_apt_38": "",
 "month_6_apt_39": "",
-"month_6_apt_40": ""
+"month_6_apt_40": "",
 "month_7_apt_1": "",
 "month_7_apt_2": "",
 "month_7_apt_3": "",
@@ -280,7 +280,7 @@ var incomeTables = `[
 "month_7_apt_37": "",
 "month_7_apt_38": "",
 "month_7_apt_39": "",
-"month_7_apt_40": ""
+"month_7_apt_40": "",
 "month_8_apt_1": "200",
 "month_8_apt_2": "200",
 "month_8_apt_3": "",
@@ -320,7 +320,7 @@ var incomeTables = `[
 "month_8_apt_37": "200",
 "month_8_apt_38": "",
 "month_8_apt_39": "200",
-"month_8_apt_40": ""
+"month_8_apt_40": "",
 "month_9_apt_1": "",
 "month_9_apt_2": "",
 "month_9_apt_3": "",
@@ -360,7 +360,7 @@ var incomeTables = `[
 "month_9_apt_37": "",
 "month_9_apt_38": "",
 "month_9_apt_39": "",
-"month_9_apt_40": ""
+"month_9_apt_40": "",
 "month_10_apt_1": "",
 "month_10_apt_2": "",
 "month_10_apt_3": "",
@@ -400,7 +400,7 @@ var incomeTables = `[
 "month_10_apt_37": "",
 "month_10_apt_38": "",
 "month_10_apt_39": "",
-"month_10_apt_40": ""
+"month_10_apt_40": "",
 "month_11_apt_1": "",
 "month_11_apt_2": "",
 "month_11_apt_3": "",
@@ -440,7 +440,7 @@ var incomeTables = `[
 "month_11_apt_37": "",
 "month_11_apt_38": "",
 "month_11_apt_39": "",
-"month_11_apt_40": ""
+"month_11_apt_40": "",
 "month_12_apt_1": "",
 "month_12_apt_2": "",
 "month_12_apt_3": "",
@@ -523,7 +523,7 @@ var incomeTables = `[
 "month_1_apt_37": "",
 "month_1_apt_38": "",
 "month_1_apt_39": "",
-"month_1_apt_40": ""
+"month_1_apt_40": "",
 "month_2_apt_1": "",
 "month_2_apt_2": "",
 "month_2_apt_3": "",
@@ -563,7 +563,7 @@ var incomeTables = `[
 "month_2_apt_37": "200",
 "month_2_apt_38": "",
 "month_2_apt_39": "600",
-"month_2_apt_40": ""
+"month_2_apt_40": "",
 "month_3_apt_1": "",
 "month_3_apt_2": "",
 "month_3_apt_3": "",
@@ -603,7 +603,7 @@ var incomeTables = `[
 "month_3_apt_37": "200",
 "month_3_apt_38": "",
 "month_3_apt_39": "200",
-"month_3_apt_40": "1400"
+"month_3_apt_40": "1400",
 "month_4_apt_1": "",
 "month_4_apt_2": "",
 "month_4_apt_3": "",
@@ -643,7 +643,7 @@ var incomeTables = `[
 "month_4_apt_37": "200",
 "month_4_apt_38": "",
 "month_4_apt_39": "200",
-"month_4_apt_40": ""
+"month_4_apt_40": "",
 "month_5_apt_1": "",
 "month_5_apt_2": "",
 "month_5_apt_3": "",
@@ -683,7 +683,7 @@ var incomeTables = `[
 "month_5_apt_37": "400",
 "month_5_apt_38": "",
 "month_5_apt_39": "200",
-"month_5_apt_40": ""
+"month_5_apt_40": "",
 "month_6_apt_1": "",
 "month_6_apt_2": "",
 "month_6_apt_3": "",
@@ -723,7 +723,7 @@ var incomeTables = `[
 "month_6_apt_37": "450",
 "month_6_apt_38": "",
 "month_6_apt_39": "200",
-"month_6_apt_40": "850"
+"month_6_apt_40": "850",
 "month_7_apt_1": "",
 "month_7_apt_2": "",
 "month_7_apt_3": "",
@@ -763,7 +763,7 @@ var incomeTables = `[
 "month_7_apt_37": "300",
 "month_7_apt_38": "",
 "month_7_apt_39": "400",
-"month_7_apt_40": ""
+"month_7_apt_40": "",
 "month_8_apt_1": "",
 "month_8_apt_2": "",
 "month_8_apt_3": "",
@@ -803,7 +803,7 @@ var incomeTables = `[
 "month_8_apt_37": "300",
 "month_8_apt_38": "",
 "month_8_apt_39": "300",
-"month_8_apt_40": ""
+"month_8_apt_40": "",
 "month_9_apt_1": "",
 "month_9_apt_2": "",
 "month_9_apt_3": "",
@@ -843,7 +843,7 @@ var incomeTables = `[
 "month_9_apt_37": "300",
 "month_9_apt_38": "",
 "month_9_apt_39": "300",
-"month_9_apt_40": "900"
+"month_9_apt_40": "900",
 "month_10_apt_1": "",
 "month_10_apt_2": "",
 "month_10_apt_3": "",
@@ -883,7 +883,7 @@ var incomeTables = `[
 "month_10_apt_37": "300",
 "month_10_apt_38": "",
 "month_10_apt_39": "300",
-"month_10_apt_40": ""
+"month_10_apt_40": "",
 "month_11_apt_1": "",
 "month_11_apt_2": "",
 "month_11_apt_3": "",
@@ -923,7 +923,7 @@ var incomeTables = `[
 "month_11_apt_37": "300",
 "month_11_apt_38": "",
 "month_11_apt_39": "300",
-"month_11_apt_40": ""
+"month_11_apt_40": "",
 "month_12_apt_1": "",
 "month_12_apt_2": "",
 "month_12_apt_3": "",
@@ -1006,7 +1006,7 @@ var incomeTables = `[
 "month_1_apt_37": "300",
 "month_1_apt_38": "",
 "month_1_apt_39": "300",
-"month_1_apt_40": ""
+"month_1_apt_40": "",
 "month_2_apt_1": "",
 "month_2_apt_2": "",
 "month_2_apt_3": "",
@@ -1046,7 +1046,7 @@ var incomeTables = `[
 "month_2_apt_37": "300",
 "month_2_apt_38": "2800",
 "month_2_apt_39": "300",
-"month_2_apt_40": "600"
+"month_2_apt_40": "600",
 "month_3_apt_1": "",
 "month_3_apt_2": "",
 "month_3_apt_3": "",
@@ -1086,7 +1086,7 @@ var incomeTables = `[
 "month_3_apt_37": "300",
 "month_3_apt_38": "",
 "month_3_apt_39": "300",
-"month_3_apt_40": "300"
+"month_3_apt_40": "300",
 "month_4_apt_1": "",
 "month_4_apt_2": "",
 "month_4_apt_3": "",
@@ -1126,7 +1126,7 @@ var incomeTables = `[
 "month_4_apt_37": "300",
 "month_4_apt_38": "",
 "month_4_apt_39": "300",
-"month_4_apt_40": "300"
+"month_4_apt_40": "300",
 "month_5_apt_1": "",
 "month_5_apt_2": "",
 "month_5_apt_3": "",
@@ -1166,7 +1166,7 @@ var incomeTables = `[
 "month_5_apt_37": "300",
 "month_5_apt_38": "",
 "month_5_apt_39": "300",
-"month_5_apt_40": "300"
+"month_5_apt_40": "300",
 "month_6_apt_1": "",
 "month_6_apt_2": "",
 "month_6_apt_3": "",
@@ -1206,7 +1206,7 @@ var incomeTables = `[
 "month_6_apt_37": "300",
 "month_6_apt_38": "",
 "month_6_apt_39": "300",
-"month_6_apt_40": "300"
+"month_6_apt_40": "300",
 "month_7_apt_1": "",
 "month_7_apt_2": "",
 "month_7_apt_3": "",
@@ -1246,7 +1246,7 @@ var incomeTables = `[
 "month_7_apt_37": "300",
 "month_7_apt_38": "",
 "month_7_apt_39": "300",
-"month_7_apt_40": "300"
+"month_7_apt_40": "300",
 "month_8_apt_1": "",
 "month_8_apt_2": "",
 "month_8_apt_3": "",
@@ -1286,7 +1286,7 @@ var incomeTables = `[
 "month_8_apt_37": "300",
 "month_8_apt_38": "",
 "month_8_apt_39": "300",
-"month_8_apt_40": "300"
+"month_8_apt_40": "300",
 "month_9_apt_1": "",
 "month_9_apt_2": "",
 "month_9_apt_3": "",
@@ -1326,7 +1326,7 @@ var incomeTables = `[
 "month_9_apt_37": "300",
 "month_9_apt_38": "",
 "month_9_apt_39": "300",
-"month_9_apt_40": "300"
+"month_9_apt_40": "300",
 "month_10_apt_1": "",
 "month_10_apt_2": "",
 "month_10_apt_3": "",
@@ -1366,7 +1366,7 @@ var incomeTables = `[
 "month_10_apt_37": "300",
 "month_10_apt_38": "",
 "month_10_apt_39": "300",
-"month_10_apt_40": "300"
+"month_10_apt_40": "300",
 "month_11_apt_1": "",
 "month_11_apt_2": "",
 "month_11_apt_3": "",
@@ -1406,7 +1406,7 @@ var incomeTables = `[
 "month_11_apt_37": "300",
 "month_11_apt_38": "",
 "month_11_apt_39": "300",
-"month_11_apt_40": "300"
+"month_11_apt_40": "300",
 "month_12_apt_1": "",
 "month_12_apt_2": "",
 "month_12_apt_3": "",
@@ -1489,7 +1489,7 @@ var incomeTables = `[
 "month_1_apt_37": "300",
 "month_1_apt_38": "",
 "month_1_apt_39": "300",
-"month_1_apt_40": "300"
+"month_1_apt_40": "300",
 "month_2_apt_1": "",
 "month_2_apt_2": "",
 "month_2_apt_3": "",
@@ -1529,7 +1529,7 @@ var incomeTables = `[
 "month_2_apt_37": "300",
 "month_2_apt_38": "",
 "month_2_apt_39": "300",
-"month_2_apt_40": "300"
+"month_2_apt_40": "300",
 "month_3_apt_1": "",
 "month_3_apt_2": "",
 "month_3_apt_3": "",
@@ -1569,7 +1569,7 @@ var incomeTables = `[
 "month_3_apt_37": "300",
 "month_3_apt_38": "",
 "month_3_apt_39": "300",
-"month_3_apt_40": "300"
+"month_3_apt_40": "300",
 "month_4_apt_1": "",
 "month_4_apt_2": "",
 "month_4_apt_3": "",
@@ -1609,7 +1609,7 @@ var incomeTables = `[
 "month_4_apt_37": "300",
 "month_4_apt_38": "",
 "month_4_apt_39": "300",
-"month_4_apt_40": "600"
+"month_4_apt_40": "600",
 "month_5_apt_1": "",
 "month_5_apt_2": "",
 "month_5_apt_3": "",
@@ -1649,7 +1649,7 @@ var incomeTables = `[
 "month_5_apt_37": "300",
 "month_5_apt_38": "",
 "month_5_apt_39": "300",
-"month_5_apt_40": "300"
+"month_5_apt_40": "300",
 "month_6_apt_1": "",
 "month_6_apt_2": "",
 "month_6_apt_3": "",
@@ -1689,7 +1689,7 @@ var incomeTables = `[
 "month_6_apt_37": "300",
 "month_6_apt_38": "",
 "month_6_apt_39": "300",
-"month_6_apt_40": "300"
+"month_6_apt_40": "300",
 "month_7_apt_1": "",
 "month_7_apt_2": "",
 "month_7_apt_3": "",
@@ -1729,7 +1729,7 @@ var incomeTables = `[
 "month_7_apt_37": "300",
 "month_7_apt_38": "",
 "month_7_apt_39": "300",
-"month_7_apt_40": "300"
+"month_7_apt_40": "300",
 "month_8_apt_1": "",
 "month_8_apt_2": "",
 "month_8_apt_3": "",
@@ -1769,7 +1769,7 @@ var incomeTables = `[
 "month_8_apt_37": "300",
 "month_8_apt_38": "",
 "month_8_apt_39": "300",
-"month_8_apt_40": "300"
+"month_8_apt_40": "300",
 "month_9_apt_1": "",
 "month_9_apt_2": "",
 "month_9_apt_3": "",
@@ -1809,7 +1809,7 @@ var incomeTables = `[
 "month_9_apt_37": "300",
 "month_9_apt_38": "",
 "month_9_apt_39": "300",
-"month_9_apt_40": "300"
+"month_9_apt_40": "300",
 "month_10_apt_1": "",
 "month_10_apt_2": "",
 "month_10_apt_3": "",
@@ -1849,7 +1849,7 @@ var incomeTables = `[
 "month_10_apt_37": "300",
 "month_10_apt_38": "",
 "month_10_apt_39": "300",
-"month_10_apt_40": "300"
+"month_10_apt_40": "300",
 "month_11_apt_1": "",
 "month_11_apt_2": "",
 "month_11_apt_3": "",
@@ -1889,7 +1889,7 @@ var incomeTables = `[
 "month_11_apt_37": "300",
 "month_11_apt_38": "",
 "month_11_apt_39": "300",
-"month_11_apt_40": "300"
+"month_11_apt_40": "300",
 "month_12_apt_1": "",
 "month_12_apt_2": "",
 "month_12_apt_3": "",
@@ -1972,7 +1972,7 @@ var incomeTables = `[
 "month_1_apt_37": "300",
 "month_1_apt_38": "",
 "month_1_apt_39": "300",
-"month_1_apt_40": "300"
+"month_1_apt_40": "300",
 "month_2_apt_1": "",
 "month_2_apt_2": "",
 "month_2_apt_3": "",
@@ -2012,7 +2012,7 @@ var incomeTables = `[
 "month_2_apt_37": "300",
 "month_2_apt_38": "",
 "month_2_apt_39": "300",
-"month_2_apt_40": "300"
+"month_2_apt_40": "300",
 "month_3_apt_1": "",
 "month_3_apt_2": "",
 "month_3_apt_3": "",
@@ -2052,7 +2052,7 @@ var incomeTables = `[
 "month_3_apt_37": "300",
 "month_3_apt_38": "",
 "month_3_apt_39": "300",
-"month_3_apt_40": "300"
+"month_3_apt_40": "300",
 "month_4_apt_1": "",
 "month_4_apt_2": "",
 "month_4_apt_3": "",
@@ -2092,7 +2092,7 @@ var incomeTables = `[
 "month_4_apt_37": "300",
 "month_4_apt_38": "",
 "month_4_apt_39": "300",
-"month_4_apt_40": "300"
+"month_4_apt_40": "300",
 "month_5_apt_1": "",
 "month_5_apt_2": "",
 "month_5_apt_3": "",
@@ -2132,7 +2132,7 @@ var incomeTables = `[
 "month_5_apt_37": "300",
 "month_5_apt_38": "",
 "month_5_apt_39": "300",
-"month_5_apt_40": "300"
+"month_5_apt_40": "300",
 "month_6_apt_1": "",
 "month_6_apt_2": "",
 "month_6_apt_3": "",
@@ -2172,7 +2172,7 @@ var incomeTables = `[
 "month_6_apt_37": "300",
 "month_6_apt_38": "",
 "month_6_apt_39": "300",
-"month_6_apt_40": "300"
+"month_6_apt_40": "300",
 "month_7_apt_1": "",
 "month_7_apt_2": "",
 "month_7_apt_3": "",
@@ -2212,7 +2212,7 @@ var incomeTables = `[
 "month_7_apt_37": "300",
 "month_7_apt_38": "",
 "month_7_apt_39": "600",
-"month_7_apt_40": "300"
+"month_7_apt_40": "300",
 "month_8_apt_1": "",
 "month_8_apt_2": "",
 "month_8_apt_3": "",
@@ -2252,7 +2252,7 @@ var incomeTables = `[
 "month_8_apt_37": "300",
 "month_8_apt_38": "",
 "month_8_apt_39": "300",
-"month_8_apt_40": "600"
+"month_8_apt_40": "600",
 "month_9_apt_1": "",
 "month_9_apt_2": "",
 "month_9_apt_3": "",
@@ -2292,7 +2292,7 @@ var incomeTables = `[
 "month_9_apt_37": "300",
 "month_9_apt_38": "",
 "month_9_apt_39": "300",
-"month_9_apt_40": "300"
+"month_9_apt_40": "300",
 "month_10_apt_1": "",
 "month_10_apt_2": "",
 "month_10_apt_3": "",
@@ -2332,7 +2332,7 @@ var incomeTables = `[
 "month_10_apt_37": "300",
 "month_10_apt_38": "",
 "month_10_apt_39": "300",
-"month_10_apt_40": "300"
+"month_10_apt_40": "300",
 "month_11_apt_1": "",
 "month_11_apt_2": "",
 "month_11_apt_3": "",
@@ -2372,7 +2372,7 @@ var incomeTables = `[
 "month_11_apt_37": "300",
 "month_11_apt_38": "",
 "month_11_apt_39": "300",
-"month_11_apt_40": "300"
+"month_11_apt_40": "300",
 "month_12_apt_1": "",
 "month_12_apt_2": "",
 "month_12_apt_3": "",
@@ -2455,7 +2455,7 @@ var incomeTables = `[
 "month_1_apt_37": "300",
 "month_1_apt_38": "",
 "month_1_apt_39": "300",
-"month_1_apt_40": "300"
+"month_1_apt_40": "300",
 "month_2_apt_1": "1800",
 "month_2_apt_2": "300",
 "month_2_apt_3": "1700",
@@ -2495,7 +2495,7 @@ var incomeTables = `[
 "month_2_apt_37": "300",
 "month_2_apt_38": "",
 "month_2_apt_39": "300",
-"month_2_apt_40": "300"
+"month_2_apt_40": "300",
 "month_3_apt_1": "",
 "month_3_apt_2": "450",
 "month_3_apt_3": "",
@@ -2535,7 +2535,7 @@ var incomeTables = `[
 "month_3_apt_37": "300",
 "month_3_apt_38": "",
 "month_3_apt_39": "300",
-"month_3_apt_40": "300"
+"month_3_apt_40": "300",
 "month_4_apt_1": "150",
 "month_4_apt_2": "300",
 "month_4_apt_3": "150",
@@ -2575,7 +2575,7 @@ var incomeTables = `[
 "month_4_apt_37": "300",
 "month_4_apt_38": "1400",
 "month_4_apt_39": "300",
-"month_4_apt_40": "300"
+"month_4_apt_40": "300",
 "month_5_apt_1": "",
 "month_5_apt_2": "300",
 "month_5_apt_3": "1000",
@@ -2615,7 +2615,7 @@ var incomeTables = `[
 "month_5_apt_37": "450",
 "month_5_apt_38": "250",
 "month_5_apt_39": "450",
-"month_5_apt_40": "450"
+"month_5_apt_40": "450",
 "month_6_apt_1": "",
 "month_6_apt_2": "",
 "month_6_apt_3": "",
@@ -2655,7 +2655,7 @@ var incomeTables = `[
 "month_6_apt_37": "",
 "month_6_apt_38": "",
 "month_6_apt_39": "",
-"month_6_apt_40": "300"
+"month_6_apt_40": "300",
 "month_7_apt_1": "",
 "month_7_apt_2": "",
 "month_7_apt_3": "",
@@ -2695,7 +2695,7 @@ var incomeTables = `[
 "month_7_apt_37": "",
 "month_7_apt_38": "",
 "month_7_apt_39": "",
-"month_7_apt_40": ""
+"month_7_apt_40": "",
 "month_8_apt_1": "",
 "month_8_apt_2": "",
 "month_8_apt_3": "",
@@ -2735,7 +2735,7 @@ var incomeTables = `[
 "month_8_apt_37": "",
 "month_8_apt_38": "",
 "month_8_apt_39": "",
-"month_8_apt_40": ""
+"month_8_apt_40": "",
 "month_9_apt_1": "",
 "month_9_apt_2": "",
 "month_9_apt_3": "",
@@ -2775,7 +2775,7 @@ var incomeTables = `[
 "month_9_apt_37": "",
 "month_9_apt_38": "",
 "month_9_apt_39": "",
-"month_9_apt_40": ""
+"month_9_apt_40": "",
 "month_10_apt_1": "",
 "month_10_apt_2": "",
 "month_10_apt_3": "",
@@ -2815,7 +2815,7 @@ var incomeTables = `[
 "month_10_apt_37": "",
 "month_10_apt_38": "",
 "month_10_apt_39": "",
-"month_10_apt_40": ""
+"month_10_apt_40": "",
 "month_11_apt_1": "",
 "month_11_apt_2": "",
 "month_11_apt_3": "",
@@ -2855,7 +2855,7 @@ var incomeTables = `[
 "month_11_apt_37": "",
 "month_11_apt_38": "",
 "month_11_apt_39": "",
-"month_11_apt_40": ""
+"month_11_apt_40": "",
 "month_12_apt_1": "",
 "month_12_apt_2": "",
 "month_12_apt_3": "",
