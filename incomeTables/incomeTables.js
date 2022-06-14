@@ -25,7 +25,7 @@ function waitUntilElementLoaded(selector) {
 
 waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 	let yearTemplate = document.getElementById('incomeTables-template').innerHTML;
-	let container = document.querySelector('incomeTables-container');
+	let container = document.querySelector('.incomeTables-container');
 
 	try {
 		let data = JSON.parse(incomeTables);
@@ -38,7 +38,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			container.appendChild(newTable);
 			
 			// get the table inner body (after header) that we will populate with rows
-			let divTableBody = document.querySelector('divTableBody');
+			let divTableBody = document.querySelector('.divTableBody');
 
 			for (let apartmentCounter = 1; apartmentCounter <= 40; apartmentCounter++) { 
 				// get the template for an appartment (12 month)
