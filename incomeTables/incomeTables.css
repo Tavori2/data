@@ -1,7 +1,11 @@
+.incomeTables-template {
+    font-family: arial;
+    direction: rtl;
+}
+
 div.blueTable {
     border: 1px solid #FFFFFF;
-    background-color: #F7FAFA;
-    width: 100%;
+    background-color: #eff8f9;
     text-align: left;
     border-collapse: collapse;
 }
@@ -35,14 +39,6 @@ div.blueTable {
     color: #FFFFFF;
     width: 35px;
     min-height: 35px;
-}
-
-.divTable.blueTable .divTableRow:nth-child(even) {
-    background: #9FB6F5;
-}
-
-.divTable.blueTable .divTableCell:nth-child(even) {
-    background: #11DCBA;
 }
 
 .divTable.blueTable .divTableHeading {
@@ -96,7 +92,6 @@ div.blueTable {
     padding: 3px 5px;
 }
 
-/* DivTable.com */
 .divTable {
     display: table;
 }
@@ -118,9 +113,6 @@ div.blueTable {
     display: table-header-group;
 }
 
-.divTableFoot {
-    display: table-footer-group;
-}
 
 .divTableBody {
     display: table-row-group;
