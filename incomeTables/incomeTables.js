@@ -54,16 +54,21 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 
 					// set the cell background color based on the transfer method
 					var payAmountClass = "";
+					var payTitle = "";
 					if(currentMethod == "Check") {
 						payAmountClass = "checkMetod";
+						payTitle = "צ'ק";
 					}
 					else if(currentMethod == "Transfer") {
 						payAmountClass = "transferMetod";
+						payTitle = "העברה בנקאית";
 					}
 					else if(currentMethod == "Cash") {
 						payAmountClass = "cashMetod";
+						payTitle = "מזומן";
 					}
 					rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', payAmountClass);
+					rowTemplate = rowTemplate.replaceAll('{{title' + monthCounter + '}}', payTitle);
 				}
 				let newRow = document.createElement('div');
 				newRow.innerHTML = rowTemplate;
