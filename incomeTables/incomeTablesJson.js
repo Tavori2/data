@@ -1,5 +1,6 @@
-var incomeTables = `[
-"Y2017": {
+var incomeTables = `{
+{
+"year": "2017",
 "month_1_apt_1": "",
 "month_1_apt_2": "",
 "month_1_apt_3": "",
@@ -481,7 +482,8 @@ var incomeTables = `[
 "month_12_apt_39": "",
 "month_12_apt_40": "",
 },
-"Y2018": {
+{
+"year": "2018",
 "month_1_apt_1": "",
 "month_1_apt_2": "",
 "month_1_apt_3": "",
@@ -963,7 +965,8 @@ var incomeTables = `[
 "month_12_apt_39": "300",
 "month_12_apt_40": "900",
 },
-"Y2019": {
+{
+"year": "2019",
 "month_1_apt_1": "",
 "month_1_apt_2": "",
 "month_1_apt_3": "",
@@ -1445,7 +1448,8 @@ var incomeTables = `[
 "month_12_apt_39": "300",
 "month_12_apt_40": "300",
 },
-"Y2020": {
+{
+"year": "2020",
 "month_1_apt_1": "",
 "month_1_apt_2": "",
 "month_1_apt_3": "",
@@ -1927,7 +1931,8 @@ var incomeTables = `[
 "month_12_apt_39": "300",
 "month_12_apt_40": "300",
 },
-"Y2021": {
+{
+"year": "2021",
 "month_1_apt_1": "",
 "month_1_apt_2": "",
 "month_1_apt_3": "",
@@ -2409,7 +2414,8 @@ var incomeTables = `[
 "month_12_apt_39": "300",
 "month_12_apt_40": "300",
 },
-"Y2022": {
+{
+"year": "2022",
 "month_1_apt_1": "1800",
 "month_1_apt_2": "300",
 "month_1_apt_3": "185",
@@ -2891,4 +2897,4 @@ var incomeTables = `[
 "month_12_apt_39": "",
 "month_12_apt_40": "",
 },
-]`;
+}`;
