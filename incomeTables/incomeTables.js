@@ -25,7 +25,7 @@ function waitUntilElementLoaded(selector) {
 
 waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 	let yearTemplate = document.getElementById('incomeTables-template').innerHTML;
-	let container = document.querySelector('#incomeTables-container');
+	let container = document.querySelector('incomeTables-container');
 
 	try {
 		let data = JSON.parse(incomeTables);
