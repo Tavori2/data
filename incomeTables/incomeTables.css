@@ -3,6 +3,10 @@
     direction: rtl;
 }
 
+.payAmount {
+    color: #2aa876;
+}
+
 div.blueTable {
     border: 1px solid #FFFFFF;
     background-color: #eff8f9;

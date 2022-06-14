@@ -46,8 +46,10 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				let rowTemplate = document.getElementById('incomeTablesRow-template').innerHTML;
 				// replace the first cell with appartment number
 				rowTemplate = rowTemplate.replaceAll('{{apt_x}}', apartmentCounter);
-				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) { 
-					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', entry['month_' + monthCounter + '_apt_' + apartmentCounter]);
+				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
+					let currentValue = entry['month_' + monthCounter + '_apt_' + apartmentCounter];
+					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', currentValue);
+					rowTemplate = rowTemplate.replaceAll('{{contentClass}}', (currentValue == "" ? "" : "payAmount") );
 				}
 				let newRow = document.createElement('div');
 				newRow.innerHTML = rowTemplate;
