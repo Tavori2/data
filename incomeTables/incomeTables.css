@@ -4,15 +4,15 @@
 }
 
 .checkMetod {
-    background-color: #2aa876;
+    background-color: #11a86b;
 }
 
 .cashMetod {
-    background-color: #a82a50;
+    background-color: #f58;
 }
 
 .transferMetod {
-    background-color: #2a5ca8;
+    background-color: #3385c6;
 }
 
 div.blueTable {
@@ -23,14 +23,14 @@ div.blueTable {
 }
 
 .firstColumnCell {
-    background: #0a7b83;
+    background: #36454f;
     color: white;
     text-align: center;
     font-weight: bold;
 }
 
 .divTableHead {
-    background: #0a7b83;
+    background: #36454f;
     color: white;
     text-align: center;
     font-weight: bold;
