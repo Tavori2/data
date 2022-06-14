@@ -3,8 +3,16 @@
     direction: rtl;
 }
 
-.payAmount {
+.checkMetod {
     background-color: #2aa876;
+}
+
+.cashMetod {
+    background-color: #a82a50;
+}
+
+.transferMetod {
+    background-color: #2a5ca8;
 }
 
 div.blueTable {

@@ -47,12 +47,21 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				// replace the first cell with appartment number
 				rowTemplate = rowTemplate.replaceAll('{{apt_x}}', apartmentCounter);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
-					let currentValue = entry['month_' + monthCounter + '_apt_' + apartmentCounter];
+					let currentEntryName = 'month_' + monthCounter + '_apt_' + apartmentCounter;
+					let currentValue = entry[currentEntryName.ammount];
+					let currentMethod = entry[currentEntryName.method];
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', currentValue);
-					var payAmountClass = "payAmount";
-					// if this is an empty cell, dont set pay ammount css class
-					if(!currentValue || /^\s*$/.test(currentValue)) {
-						payAmountClass = "";
+
+					// set the cell background color based on the transfer method
+					var payAmountClass = "";
+					if(currentMethod == "Check") {
+						payAmountClass = "checkMetod";
+					}
+					else if(currentMethod == "Transfer") {
+						payAmountClass = "transferMetod";
+					}
+					else if(currentMethod == "Cash") {
+						payAmountClass = "cashMetod";
 					}
 					rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', payAmountClass);
 				}
