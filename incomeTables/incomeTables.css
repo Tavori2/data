@@ -6,6 +6,10 @@ div.blueTable {
     border-collapse: collapse;
 }
 
+.firstColumnCell {
+    font-weight: bold;
+}
+
 .divTable.blueTable .divTableCell,
 .divTable.blueTable .divTableHead {
     border: 1px solid #FFFFFF;
@@ -15,6 +19,8 @@ div.blueTable {
 .divTable.blueTable .divTableBody .divTableCell {
     font-size: 13px;
     color: #FFFFFF;
+    width: 35px;
+    min-height: 35px;
 }
 
 .divTable.blueTable .divTableRow:nth-child(even) {

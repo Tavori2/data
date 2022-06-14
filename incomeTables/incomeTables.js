@@ -44,6 +44,8 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			for (let apartmentCounter = 1; apartmentCounter <= 40; apartmentCounter++) { 
 				// get the template for an appartment (12 month)
 				let rowTemplate = document.getElementById('incomeTablesRow-template').innerHTML;
+				// replace the first cell with appartment number
+				rowTemplate = rowTemplate.replaceAll('{{apt_x}}', apartmentCounter);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) { 
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', entry['month_' + monthCounter + '_apt_' + apartmentCounter]);
 				}
