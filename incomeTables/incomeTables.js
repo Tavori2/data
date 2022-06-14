@@ -48,8 +48,8 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				rowTemplate = rowTemplate.replaceAll('{{apt_x}}', apartmentCounter);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
 					let currentEntryName = 'month_' + monthCounter + '_apt_' + apartmentCounter;
-					let currentValue = entry[currentEntryName.ammount];
-					let currentMethod = entry[currentEntryName.method];
+					let currentValue = entry[currentEntryName].ammount;
+					let currentMethod = entry[currentEntryName].method;
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_apt_x}}', currentValue);
 
 					// set the cell background color based on the transfer method
