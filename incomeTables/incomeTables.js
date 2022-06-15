@@ -30,6 +30,14 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 		let data = JSON.parse(incomeTables);
 		// loop each year entry in the income tables json
 		data.forEach(entry => {
+			// add the year as option to the year selector
+			let yearSelector = document.getElementById('yearSelector');
+			let newOption = document.createElement('option');
+			newOption.value = entry.year;
+			newOption.textContent = entry.year;
+			if(entry.year == "2022") newOption.selected = true;
+			yearSelector.appendChild(newOption);
+
 			// get the year table template
 			let yearTemplate = document.getElementById('incomeTables-template').innerHTML;
 			// create new year table
@@ -97,7 +105,7 @@ function changeYear()
 	incomeTableYears.forEach(currentIncomeTableYear => {
     	currentIncomeTableYear.style.display = 'none';
   	});
-	
+
 	// show the selected year
 	var incomeTableYear = document.getElementById("incomeTable" + selectedYear.value);
 	incomeTableYear.style.display = "block";
