@@ -6,6 +6,7 @@
 .incomeTables-container {
     font-family: arial;
     direction: rtl;
+    width: 500px;
 }
 
 .checkMetod {
