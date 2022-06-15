@@ -3,14 +3,14 @@
     width: 450px;
 }
 
-@media (min-width: 601px) {
+@media (min-width: 320px) {
     .incomeTables-container {
         font-family: arial;
         direction: rtl;
     }
 }
 
-@media (max-width: 601px) {
+@media (max-width: 320px) {
     .incomeTables-container {
         font-family: arial;
         direction: rtl;
