@@ -3,12 +3,74 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- ###############   osh balance   ################# -->
+    <script src="https://shaybc.github.io/spam/test.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+    <script src="https://tavori2.github.io/data/osh-balance/account.js"></script>
+    <script src="https://tavori2.github.io/data/osh-balance/osh-balance.js"></script>
+    <link href="https://tavori2.github.io/data/osh-balance/osh-balance.css"></link>
+    <!-- ###############   income tables   ################# -->
     <script src="https://tavori2.github.io/data/incomeTables/incomeTables.js"></script>
     <script src="https://tavori2.github.io/data/incomeTables/incomeTablesJson.js"></script>
     <link href="https://tavori2.github.io/data/incomeTables/incomeTables.css"></link>
 </head>
 
-<body class="incomeTables-body">
+<body class="osh-body">
+    <!-- ###############   osh balance   ################# -->
+    <div class="osh-summary"></div>
+    <script type="template" id="osh-balance">
+        <style>
+            .progress::after {
+                border-radius: 3px;
+                background-color: #2A265F;
+                content: '';
+                height: 5px;
+                width: {{paiedAppartmentPercent}}px;
+                position: absolute;
+            }
+        </style>
+
+        <div class="row1-container">
+
+            <div class="box green">
+                <h2>הכנסות</h2>
+                <div>
+                    <span style="font-size: 22px; color: lightgray; width: 150px; display: inline-block;">ממסי
+                        ועד:</span>
+                    <span style="font-weight: normal; font-size: 28px; color: #47d52a;">{{income.tax}}</span>
+                </div>
+                <div>
+                    <span style="font-size: 22px; color: lightgray; width: 150px; display: inline-block;">מאחרים:</span>
+                    <span style="font-weight: normal; font-size: 28px; color: #47d52a;">{{income.other}}</span>
+                </div>
+                <div>
+                    <span style="font-size: 22px; color: lightgray; width: 150px; display: inline-block;">סה"כ:</span>
+                    <span style="font-weight: normal; font-size: 28px; color: #409b4f;">{{income.total}}</span>
+                </div>
+            </div>
+
+
+            <div class="box red">
+                <h2>הוצאות</h2>
+                <div>
+                    <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block;">קבועות:</span>
+                    <span style="font-weight: normal; font-size: 28px; color: #ea5353;">{{expenses.fixed}}-</span>
+                </div>
+                <div>
+                    <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block;">משתנות:</span>
+                    <span style="font-weight: normal; font-size: 28px; color: #ea5353;">{{expenses.unexpected}}-</span>
+                </div>
+                <div>
+                    <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block;">סה"כ:</span>
+                    <span style="font-weight: normal; font-size: 28px; color: #ec1282;">{{expenses.total}}-</span>
+                </div>
+            </div>
+
+
+        </div>
+    </script>
+
+    <!-- ###############   income tables   ################# -->
     <div class="incomeTables-container">
         <div class="yearSelectorWrapper">
             <span class="selectTitle">הכנסות ממסי ועד לשנת:</span>
