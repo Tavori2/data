@@ -135,6 +135,11 @@ div.blueTable {
     display: table-row-group;
 }
 
+.selectTitle {
+    font-size: 28px;
+    font-weight: bold;
+    color: #3385c6;    
+}
 
 select {
     -webkit-appearance: button;
