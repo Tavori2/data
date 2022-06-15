@@ -45,7 +45,8 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			let newTable = document.createElement('div');
 			newTable.id = "incomeTable" + entry.year;
 			newTable.className = "incomeTableYear";
-			newTable.style.display = "none"; 
+			newTable.style.display = "none";
+			if(entry.year == "2022") newTable.style.display = "block";
 			newTable.innerHTML = yearTemplate;
 			container.appendChild(newTable);
 			
