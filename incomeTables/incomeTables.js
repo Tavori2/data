@@ -35,6 +35,8 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			// create new year table
 			yearTemplate = yearTemplate.replaceAll('{{income-year}}', entry.year);	
 			let newTable = document.createElement('div');
+			newTable.id = "incomeTable" + entry.year;
+			newTable.className = "incomeTableYear";
 			newTable.innerHTML = yearTemplate;
 			container.appendChild(newTable);
 			
@@ -84,3 +86,19 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 	// element not found within 5000 milliseconds
 	console.log("Failed to find #incomeTables-template for 5 sec");
 });
+
+function changeYear()
+{
+	// get the selected year
+	var selectedYear = document.getElementById("yearSelector");
+	
+	// get all income tables for all years and hide them
+	const incomeTableYears = Array.from(document.getElementsByClassName('incomeTableYear'));
+	incomeTableYears.forEach(currentIncomeTableYear => {
+    	currentIncomeTableYear.style.display = 'none';
+  	});
+	
+	// show the selected year
+	var incomeTableYear = document.getElementById("incomeTable" + selectedYear.value);
+	incomeTableYear.style.display = "block";
+}
