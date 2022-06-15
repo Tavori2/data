@@ -82,7 +82,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 					rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', payAmountClass);
 					rowTemplate = rowTemplate.replaceAll('{{title' + monthCounter + '}}', payTitle);
 				}
-				let newRow = document.createElement('div');
+				let newRow = document.createElement('tr');
 				newRow.innerHTML = rowTemplate;
 				divTableBody.appendChild(newRow);	
 			}
