@@ -15,9 +15,8 @@
     .incomeTables-container {
         font-family: arial;
         direction: rtl;
-        width: 300px;
         transform: scale(0.55);
-        transform-origin: 50% 0% 0px;
+        transform-origin: 100% 0% 0px;
         height: 0px;
     }
 }
