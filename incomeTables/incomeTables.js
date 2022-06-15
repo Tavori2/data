@@ -45,7 +45,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			let newTable = document.createElement('div');
 			newTable.id = "incomeTable" + entry.year;
 			newTable.className = "incomeTableYear";
-			newTable.style.display = "none";
+			newTable.style.display = "none"; 
 			newTable.innerHTML = yearTemplate;
 			container.appendChild(newTable);
 			
