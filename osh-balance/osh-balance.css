@@ -124,3 +124,9 @@
     letter-spacing: 1px;
     direction: rtl;
 }
+
+.widgetTitle {
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(169, 176, 236);
+}
