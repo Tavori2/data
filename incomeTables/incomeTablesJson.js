@@ -1,4 +1,4 @@
-var incomeTables = `[
+﻿var incomeTables = `[
     {
         "year": "2017",
         "month_1_apt_1": {
@@ -11538,3 +11538,4 @@ var incomeTables = `[
         }
     }
 ]`;
+
