@@ -10481,8 +10481,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "450",
+            "method": "Cash"
         },
         "month_6_apt_18": {
             "ammount": "300",
@@ -10541,8 +10541,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "450",
+            "method": "Cash"
         },
         "month_6_apt_33": {
             "ammount": "300",
