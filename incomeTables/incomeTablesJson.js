@@ -10433,7 +10433,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_5": {
-            "ammount": "600",
+            "ammount": "950",
             "method": "Cash"
         },
         "month_6_apt_6": {
