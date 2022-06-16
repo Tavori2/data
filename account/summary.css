@@ -54,6 +54,8 @@
 
 .transparency {
     float: right;
+    height: 215px;
+    padding-right: 15px;
 }
 
 .balances {
@@ -62,8 +64,19 @@
 
 .pagi {
     float: right;
+    height: 215px;
+    padding-right: 15px;
 }
 
 .accountDetails {
     float: right;
+    height: 215px;
+    padding-right: 15px;
+}
+
+.normalTitle {
+    font-size: 18px;
+    font-family: arial;
+    font-weight: 700;
+    padding-left: 10px;    
 }
