@@ -24,7 +24,7 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
-waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
+waitUntilElementLoaded('#osh-balance-summary', 5000).then(function (element) {
 	// element found and available
 	try {
 		// decrypt the json and parse it
@@ -32,7 +32,7 @@ waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 		let accountJson = JSON.parse(decrypted.toString(CryptoJS.enc.Utf8));
 
 		// get the template text and the div to populate at the end of all replacements
-		let populatedTemplate = document.getElementById('osh-balance').innerHTML;
+		let populatedTemplate = document.getElementById('osh-balance-summary').innerHTML;
 		var oshContainer = document.querySelector('.osh-summary');
 
 		populatedTemplate = populatedTemplate.replaceAll('{{updateDate}}',accountJson.updateDate);
@@ -60,9 +60,9 @@ waitUntilElementLoaded('#osh-balance', 5000).then(function (element) {
 	}
 	catch (err) {
 		// error occurred
-		console.log("Failed to show osh-balance due to: " + err);
+		console.log("Failed to show osh-balance-summary due to: " + err);
 	}
 }).catch(function () {
 	// element not found within 5000 milliseconds
-	console.log("Failed to find #osh-balance for 5 sec");
+	console.log("Failed to find #osh-balance-summary for 5 sec");
 });
