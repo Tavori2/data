@@ -80,3 +80,10 @@
     font-weight: 700;
     padding-left: 10px;    
 }
+
+.blueTitleValue {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: arial;
+    color: #0000ff;
+}
