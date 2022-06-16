@@ -10753,8 +10753,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_5": {
-            "ammount": "",
-            "method": ""
+            "ammount": "250",
+            "method": "Cash"
         },
         "month_8_apt_6": {
             "ammount": "",
