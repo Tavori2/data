@@ -74,17 +74,20 @@
     height: 215px;
     padding-right: 15px;
     padding-top: 15px;
+    max-width: 350px;
 }
 
 .balances {
     float: right;
     padding-right: 15px;
+    max-width: 350px;
 }
 
 .pagi {
     float: right;
     height: 215px;
     padding-right: 15px;
+    max-width: 350px;
 }
 
 .accountDetails {
@@ -92,6 +95,7 @@
     height: 215px;
     padding-right: 15px;
     padding-top: 15px;
+    max-width: 350px;
 }
 
 .normalTitle {
