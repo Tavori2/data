@@ -10445,12 +10445,12 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_6_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "450",
+            "method": "Cash"
         },
         "month_6_apt_9": {
-            "ammount": "300",
-            "method": "Cash"
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_6_apt_10": {
             "ammount": "450",
