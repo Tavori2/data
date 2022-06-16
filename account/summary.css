@@ -3,24 +3,28 @@
 }
 
 .titleRow {
-    font-size: 28px;
+    font-size: 32px;
     text-align: center;
     font-family: arial;
     font-weight: bold;
-    color: #3385c6;
+    color: #6d9eeb;
+}
+
+.balanceRow {
+    padding-top: 10px;
 }
 
 .cashRow {
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 .dateRow {
-    padding-top: 35px;
+    padding-top: 15px;
     text-align: center;
 }
 
 .excelRow {
-    margin-top: 55px;
+    margin-top: 45px;
     text-align: center;
     font-family: arial;
 }
