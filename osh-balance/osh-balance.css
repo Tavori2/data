@@ -91,6 +91,9 @@
 
 }
 
+.osh-balance {
+    direction: rtl;
+}
 
 @media (min-width: 1700px) {
     .box {
