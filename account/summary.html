@@ -14,52 +14,45 @@
     <div class="osh-summary"></div>
 
     <script type="template" id="balance">
-        <span>
-            <img src="https://tavori2.github.io/data/img/transparency.jpg" />
-        </span>
-        <span>
-            <div>
-                <div class="titleRow">
-                    יתרות
-                </div>
-                <div class="balanceRow">
-                    <span class="titleValue">חשבון:</span><span class="title">{{balance.current}}</span>
-                </div>
-                <div class="cashRow">
-                    <span class="titleValue">מזומן:</span><span class="title">{{balance.cash}}</span>
-                </div>
-                <div class="dateRow">
-                    <span class="subtitle">(עדכני ל: {{updateDate}})</span>
-                </div>
-                <div class="excelRow">
-                    <a class="excelLink" href="https://docs.google.com/spreadsheets/d/1E7aYMuMsL5fevj4ZpmBzeoLBq8nNZdVh/edit?usp=sharing&ouid=104616488219392698182&rtpof=true&sd=true">לחצו כאן כדי לצפות באקסל המפרט הוצאות והכנסות</a>
-                </div>
+        <div class="balances">
+            <div class="titleRow">
+                יתרות
             </div>
-        </span>
-
+            <div class="balanceRow">
+                <span class="titleValue">חשבון:</span><span class="title">{{balance.current}}</span>
+            </div>
+            <div class="cashRow">
+                <span class="titleValue">מזומן:</span><span class="title">{{balance.cash}}</span>
+            </div>
+            <div class="dateRow">
+                <span class="subtitle">(עדכני ל: {{updateDate}})</span>
+            </div>
+            <div class="excelRow">
+                <a class="excelLink" href="https://docs.google.com/spreadsheets/d/1E7aYMuMsL5fevj4ZpmBzeoLBq8nNZdVh/edit?usp=sharing&ouid=104616488219392698182&rtpof=true&sd=true">לחצו כאן כדי לצפות באקסל המפרט הוצאות והכנסות</a>
+            </div>
+        </div>
         
-        <span>
-            <img src="https://tavori2.github.io/data/img/PAGI.png" />
-        </span>
-        <span>
-            <div>
-                <div class="titleRow">
-                    פרטי חשבון הבנק
-                </div>
-                <div class="bankRow">
-                    <span class="normalTitle">בנק:</span><span class="blueTitleValue">{{account.bank}}</span><span class="normalTitleValue">{{account.bankName}}</span>
-                </div>
-                <div class="branchRow">
-                    <span class="normalTitle">סניף:</span><span class="blueTitleValue">{{account.branch}}</span>
-                </div>
-                <div class="accountRow">
-                    <span class="normalTitle">מס' חשבון:</span><span class="blueTitleValue">{{account.accountNum}}</span>
-                </div>
-                <div class="accountAddressRow">
-                    <span class="normalTitle">כתובת הסניף:</span><span class="blueTitleValue">{{account.branchAddress}}</span>
-                </div>
+        <img src="https://tavori2.github.io/data/img/transparency.jpg" class="transparency"/>
+
+        <div class="accountDetails">
+            <div class="titleRow">
+                פרטי חשבון הבנק
             </div>
-        </span>
+            <div class="bankRow">
+                <span class="normalTitle">בנק:</span><span class="blueTitleValue">{{account.bank}}</span><span class="normalTitleValue">{{account.bankName}}</span>
+            </div>
+            <div class="branchRow">
+                <span class="normalTitle">סניף:</span><span class="blueTitleValue">{{account.branch}}</span>
+            </div>
+            <div class="accountRow">
+                <span class="normalTitle">מס' חשבון:</span><span class="blueTitleValue">{{account.accountNum}}</span>
+            </div>
+            <div class="accountAddressRow">
+                <span class="normalTitle">כתובת הסניף:</span><span class="blueTitleValue">{{account.branchAddress}}</span>
+            </div>
+        </div>
+
+        <img src="https://tavori2.github.io/data/img/PAGI.png" class="pagi"/>
     </script>
 </body>
 
