@@ -29,6 +29,7 @@ waitUntilElementLoaded('#balance', 5000).then(function (element) {
 	try {
 		// decrypt the json and parse it
 		var decrypted = CryptoJS.AES.decrypt(account, encSecret);
+		console.log("accountJson: " + decrypted.toString(CryptoJS.enc.Utf8));
 		let accountJson = JSON.parse(decrypted.toString(CryptoJS.enc.Utf8));
 
 		// get the template text and the div to populate at the end of all replacements
