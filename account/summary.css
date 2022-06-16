@@ -33,6 +33,22 @@
     text-decoration: none;
 }
 
+.bankRow {
+    margin-bottom: 6px;
+}
+
+.branchRow {
+    margin-bottom: 6px;
+}
+
+.accountRow {
+    margin-bottom: 6px;
+}
+
+.accountAddressRow {
+    margin-bottom: 6px;
+}
+
 .title {
     font-size: 28px;
     font-weight: bold;
