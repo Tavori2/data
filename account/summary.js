@@ -39,6 +39,13 @@ waitUntilElementLoaded('#balance', 5000).then(function (element) {
 		populatedTemplate = populatedTemplate.replaceAll('{{balance.current}}',accountJson.balance.current);
 		populatedTemplate = populatedTemplate.replaceAll('{{balance.cash}}',accountJson.balance.cash);
 
+		populatedTemplate = populatedTemplate.replaceAll('{{account.bank}}',accountJson.account.bank);
+		populatedTemplate = populatedTemplate.replaceAll('{{account.bankName}}',accountJson.account.bankName);
+		populatedTemplate = populatedTemplate.replaceAll('{{account.branch}}',accountJson.account.branch);
+		populatedTemplate = populatedTemplate.replaceAll('{{account.accountNum}}',accountJson.account.accountNum);
+		populatedTemplate = populatedTemplate.replaceAll('{{account.branchAddress}}',accountJson.account.branchAddress);
+		
+
 		oshContainer.innerHTML = populatedTemplate;
 	}
 	catch (err) {
