@@ -17,7 +17,8 @@
         direction: rtl;
         transform: scale(0.80);
         transform-origin: 100% 0% 0px;
-    }
+        padding-top: 40px;
+        height: 900px;    }
 }
 
 .checkMetod {
