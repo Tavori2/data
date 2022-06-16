@@ -10437,16 +10437,16 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_6_apt_6": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_6_apt_7": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Check"
         },
         "month_6_apt_8": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_6_apt_9": {
             "ammount": "300",
@@ -10469,11 +10469,11 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_6_apt_14": {
-            "ammount": "150",
-            "method": "Transfer"
+            "ammount": "450",
+            "method": "Check"
         },
         "month_6_apt_15": {
-            "ammount": "300",
+            "ammount": "450",
             "method": "Check"
         },
         "month_6_apt_16": {
@@ -10481,8 +10481,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_17": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_6_apt_18": {
             "ammount": "300",
@@ -10497,7 +10497,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_21": {
-            "ammount": "150",
+            "ammount": "450",
             "method": "Transfer"
         },
         "month_6_apt_22": {
@@ -10521,8 +10521,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_6_apt_28": {
             "ammount": "300",
@@ -10537,16 +10537,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_6_apt_32": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_6_apt_33": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_6_apt_34": {
             "ammount": "",
@@ -10561,8 +10561,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_37": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_6_apt_38": {
             "ammount": "",
