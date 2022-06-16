@@ -2,8 +2,12 @@
     direction: rtl;
 }
 
-.balanceRow {
-
+.titleRow {
+    font-size: 28px;
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    color: #3385c6;
 }
 
 .cashRow {
@@ -16,7 +20,13 @@
 }
 
 .excelRow {
-    margin-top: 7px;
+    margin-top: 55px;
+    text-align: center;
+    font-family: arial;
+}
+
+.excelLink {
+    text-decoration: none;
 }
 
 .title {
