@@ -37,6 +37,31 @@
             </div>
         </span>
     </script>
+
+    <script type="template" id="accountDetails">
+        <span>
+            <img src="https://tavori2.github.io/data/img/PAGI.png" />
+        </span>
+        <span>
+            <div>
+                <div class="titleRow">
+                    פרטי חשבון הבנק
+                </div>
+                <div class="bankRow">
+                    <span class="normalTitle">בנק:</span><span class="normalTitleValue">{{account.bank}}</span>
+                </div>
+                <div class="branchRow">
+                    <span class="normalTitle">סניף:</span><span class="normalTitleValue">{{account.branch}}</span>
+                </div>
+                <div class="accountRow">
+                    <span class="normalTitle">מס' חשבון:</span><span class="normalTitleValue">{{account.accountNum}}</span>
+                </div>
+                <div class="accountAddressRow">
+                    <span class="normalTitle">כתובת הסניף:</span><span class="normalTitleValue">{{account.branchAddress}}</span>
+                </div>
+            </div>
+        </span>
+    </script>
 </body>
 
 </html>
