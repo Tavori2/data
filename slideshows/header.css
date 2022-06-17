@@ -48,7 +48,7 @@
     }
 }
 
-@media (max-width: 440px) {
+@media (max-width: 450px) {
     .textTitle {
         top: 100px;
         font-size: 18px;
