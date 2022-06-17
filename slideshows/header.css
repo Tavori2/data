@@ -72,7 +72,6 @@
 }
 
 @keyframes fade {
-    0% {opacity: 1}
-    50% {opacity: .4}
+    0% {opacity: .4}
   100% {opacity: 1}
 }
