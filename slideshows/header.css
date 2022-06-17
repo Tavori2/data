@@ -17,39 +17,47 @@
 }
 
 .img2 {
-    object-position: 100% 30%;
+    object-position: 100% 20%;
 }
 
 .img3 {
     object-position: 100% 70%;
+    filter: sepia(5%) brightness(110%) saturate(3);
 }
 
 .img4 {
     object-position: 100% 50%;
+    filter: sepia(5%) brightness(105%) saturate(2);
 }
 
 .img5 {
     object-position: 100% 90%;
+    filter: saturate(1) contrast(120%);
 }
 
 .img6 {
     object-position: 100% 100%;
+    filter: contrast(120%) saturate(2);
 }
 
 .img7 {
     object-position: 100% 60%;
+    filter: saturate(2);
 }
 
 .img8 {
     object-position: 100% 10%;
+    filter: saturate(2);
 }
 
 .img9 {
     object-position: 100% 100%;
+    filter: saturate(2);
 }
 
 .img10 {
     object-position: 100% 60%;
+    filter: hue-rotate(0.5deg) saturate(2);
 }
 
 /* Hide the images by default */
