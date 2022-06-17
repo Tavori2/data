@@ -23,7 +23,7 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
-waitUntilElementLoaded('slideshow-container', 5000).then(function (element) {
+waitUntilElementLoaded('.slideshow-container', 5000).then(function (element) {
 	// element found and available
 	try {
 
@@ -73,7 +73,7 @@ waitUntilElementLoaded('slideshow-container', 5000).then(function (element) {
 	}
 }).catch(function () {
 	// element not found within 5000 milliseconds
-	console.log("Failed to find #slideshow-container for 5 sec");
+	console.log("Failed to find .slideshow-container for 5 sec");
 });
 
 
