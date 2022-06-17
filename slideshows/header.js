@@ -23,6 +23,8 @@ function waitUntilElementLoaded(selector) {
     });
 }
 
+let slideIndex = 1;
+
 // Next/previous controls
 function plusSlides(n) {
     showSlides(slideIndex += n);
@@ -53,8 +55,6 @@ function showSlides(n) {
 waitUntilElementLoaded('.slideshow-container', 5000).then(function (element) {
     // element found and available
     try {
-
-        let slideIndex = 1;
         showSlides(slideIndex);
     }
     catch (err) {
