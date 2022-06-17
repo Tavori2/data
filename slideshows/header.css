@@ -44,12 +44,6 @@
 
 @media (max-width: 540px) {
     .textTitle {
-        left: 18%;
-    }
-}
-
-@media (max-width: 450px) {
-    .textTitle {
         top: 100px;
         font-size: 18px;
         left: 12%;
