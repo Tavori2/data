@@ -23,7 +23,7 @@ function waitUntilElementLoaded(selector) {
 	});
 }
 
-waitUntilElementLoaded('#slideshow-container', 5000).then(function (element) {
+waitUntilElementLoaded('slideshow-container', 5000).then(function (element) {
 	// element found and available
 	try {
 
