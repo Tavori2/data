@@ -17,15 +17,15 @@
 }
 
 .img2 {
-    object-position: 100% 90%;
+    object-position: 100% 30%;
 }
 
 .img3 {
-    object-position: 100% 90%;
+    object-position: 100% 70%;
 }
 
 .img4 {
-    object-position: 100% 90%;
+    object-position: 100% 40%;
 }
 
 .img5 {
@@ -33,23 +33,23 @@
 }
 
 .img6 {
-    object-position: 100% 90%;
+    object-position: 100% 100%;
 }
 
 .img7 {
-    object-position: 100% 90%;
+    object-position: 100% 50%;
 }
 
 .img8 {
-    object-position: 100% 90%;
+    object-position: 100% 0%;
 }
 
 .img9 {
-    object-position: 100% 90%;
+    object-position: 100% 100%;
 }
 
 .img10 {
-    object-position: 100% 90%;
+    object-position: 100% 30%;
 }
 
 /* Hide the images by default */
