@@ -28,9 +28,13 @@
     text-align: center;
 }
 
+.textContainer {
+    justify-content: center;
+    display: flex;
+}
+
 @media (max-width: 1300px) {
     .textTitle {
-        left: 30%;
     }
 }
 
@@ -38,15 +42,13 @@
     .textTitle {
         padding-left: 50px;
         padding-right: 50px;
-        left: 15%;
     }
 }
 
 @media (max-width: 540px) {
     .textTitle {
         top: 100px;
-        font-size: 18px;
-        left: 12%;
+        font-size: 32px;
     }
 }
 
