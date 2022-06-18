@@ -72,7 +72,7 @@
     .progress-container {
         position: relative;
         top: 10px;
-        right: 140px;
+        right: 10px;
     }
 
 }
@@ -92,12 +92,25 @@
 
 }
 
-
-@media (min-width: 1001px) {
+@media (min-width: 1001px) and  (max-width: 1620px) {
     .box {
         width: 20%;
         text-align: center;
-        height: 250px;
+        height: 260px;
+    }
+
+    .progress-container {
+        position: relative;
+        top: 10px;
+        right: 80px;
+    }
+}
+
+@media (min-width: 1621px) {
+    .box {
+        width: 20%;
+        text-align: center;
+        height: 260px;
     }
 
     .progress-container {
@@ -106,7 +119,6 @@
         right: 120px;
     }
 }
-
 
 .progress-container {
     text-align: right;
