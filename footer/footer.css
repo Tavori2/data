@@ -18,7 +18,11 @@
     font-size: 18.0pt;
 }
 
-.emailAddress {}
+.emailAddress {
+    color: white;
+    text-decoration: underline;
+    font-weight: normal;    
+}
 
 .rightKey {
     color: #00ff00;
