@@ -25,6 +25,7 @@
     font-size: 52px;
     font-weight: 700;
     font-family: arial;
+    text-align: center;
 }
 
 @media (max-width: 1300px) {
