@@ -26,6 +26,11 @@
     font-weight: normal;    
 }
 
+.textBox {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
 .rightKey {
     color: #00ff00;
     font-size: 14pt;
