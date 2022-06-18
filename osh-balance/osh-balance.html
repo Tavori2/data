@@ -12,7 +12,7 @@
 </head>
 
 <body class="osh-balance">
-    <div class="osh-balance"></div>
+    <!--div class="osh-balance"></div>
     <script type="template" id="osh-balance-summary">
         <style>
             .progress::after {
@@ -82,7 +82,81 @@
 
 
         </div>
-    </script>
+    </script-->
+
+
+
+    <div class="osh-body">
+        <div class="osh-balance"></div>
+        <script type="template" id="osh-balance-summary">
+                <style>
+                .progress::after {
+                    border-radius: 3px;
+                    background-color: #2A265F;
+                    content: '';
+                    height: 5px;
+
+                    width: {{paiedAppartmentPercent}}px;
+                    position: absolute;
+                    /*top: 0;
+                    left: 0;*/
+                }
+            </style>
+            <div class="row1-container">
+                <!-- BLUE BOX -->
+                <div class="box blue">
+                    <h2>יתרת חשבון</h2>
+                    <p class="main-data blue-color">{{balance.current}}</p>
+                    <p class="subtext">יתרת חשבון הבנק נכון ל: {{updateDate}}</p>
+                </div>
+                <!-- ORANGE BOX -->
+                <div class="box orange">
+                    <h2>יתרת מזומן</h2>
+                    <p class="main-data orange-color">{{balance.cash}}</p>
+                    <div class="progress-container">
+                        <div class="progress"></div>
+                        <span class="progress-text">
+                            {{paiedAppartment}}/40 דיירים שילמו
+                        </span>
+                    </div>
+                </div>
+                <!-- GREEN BOX -->
+                <div class="box green">
+                    <h2>הכנסות</h2>
+                    <div>
+                        <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block; text-align: right;">ממסי
+                            ועד:</span>
+                        <span style="font-weight: normal; font-size: 28px; color: #47d52a;">{{income.tax}}</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block; text-align: right;">מאחרים:</span>
+                        <span style="font-weight: normal; font-size: 28px; color: #47d52a;">{{income.other}}</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block; text-align: right;">סה"כ:</span>
+                        <span style="font-weight: normal; font-size: 28px; color: #409b4f;">{{income.total}}</span>
+                    </div>
+                </div>
+                <!-- RED BOX -->
+                <div class="box red">
+                    <h2>הוצאות</h2>
+                    <div>
+                        <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block;">קבועות:</span>
+                        <span style="font-weight: normal; font-size: 28px; color: #ea5353;">{{expenses.fixed}}-</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block;">משתנות:</span>
+                        <span style="font-weight: normal; font-size: 28px; color: #ea5353;">{{expenses.unexpected}}-</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 22px; color: lightgray; width: 100px; display: inline-block;">סה"כ:</span>
+                        <span style="font-weight: normal; font-size: 28px; color: #ec1282;">{{expenses.total}}-</span>
+                    </div>
+                </div>
+            </div>
+        </script>
+    </div>
+
 </body>
 
 </html>
