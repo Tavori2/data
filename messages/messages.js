@@ -26,7 +26,7 @@ waitUntilElementLoaded('#msg-row-template', 5000).then(function (element) {
 				$strip.addClass("newsticker")
 				var stripHeight = 1;
 				$strip.find("li").each(function (i) {
-					stripHeight += 50; //jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+					stripHeight += /*50; //*/jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
 				});
 				var $mask = $strip.wrap("<div class='mask'></div>");
 				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");
@@ -39,7 +39,7 @@ waitUntilElementLoaded('#msg-row-template', 5000).then(function (element) {
 				}
 				scrollnews(totalTravel, defTiming);
 				$strip.hover(function () {
-					console.log("Stopped");
+					console.log("Stopped !");
 					jQuery(this).stop();
 				},
 					function () {
