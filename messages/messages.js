@@ -39,6 +39,7 @@ waitUntilElementLoaded('#msg-row-template', 5000).then(function (element) {
 				}
 				scrollnews(totalTravel, defTiming);
 				$strip.hover(function () {
+					console.log("Stopped");
 					jQuery(this).stop();
 				},
 					function () {
