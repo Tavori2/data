@@ -3,6 +3,7 @@
     background-size: cover;
     background-position: center center;
     background-image: url(https://lh4.googleusercontent.com/16XS9zWjNNn3amncGZz19vP2bePDEwdNa5R4b5J5-x5LJkH5Pwd_HvGDaZZbv1JgR87r8F4Rk0ksHfo0hHygKlE=w16383);
+    direction: rtl;
 }
 
 .footerTextTitle {
@@ -11,6 +12,7 @@
     font-size: 14pt;
     font-weight: bold;
     text-align: center;
+    display: flex;
 }
 
 .emailTitle {
