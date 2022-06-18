@@ -17,6 +17,28 @@
     width: 100%;
 }
 
+@media (max-width: 420px) {
+    .footerTextTitle {
+        display: block;
+    }
+
+    .rightText {
+        padding-top: 140px;
+        width: auto;
+    }
+    
+.centerText {
+    padding-top: 140px;
+    width: auto;
+}
+
+.leftText {
+    padding-top: 140px;
+    padding-bottom: 140px;
+    width: auto;
+}
+}
+
 .emailTitle {
     color: #854dff;
     font-size: 18.0pt;
