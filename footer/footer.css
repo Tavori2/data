@@ -13,6 +13,8 @@
     font-weight: bold;
     text-align: center;
     display: flex;
+    margin-top: 50px;
+    width: 100%;
 }
 
 .emailTitle {
@@ -28,7 +30,12 @@
 
 .textBox {
     margin-right: 10%;
-    margin-left: 10%;
+}
+
+/* Right Text */
+.rightText {
+    padding-top: 200px;
+    width: 30%;
 }
 
 .rightKey {
@@ -40,3 +47,14 @@
     font-size: 14pt;
 }
 
+/* Center Text */
+.centerText {
+    padding-top: 240px;
+    width: 30%;
+}
+
+/* Left Text */
+.leftText {
+    padding-top: 240px;
+    width: 30%;
+}
