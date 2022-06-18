@@ -3,6 +3,7 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://tavori2.github.io/data/main.js"></script>
 
     <!-- Messages -->
@@ -24,11 +25,16 @@
     <link rel="stylesheet" href="https://tavori2.github.io/data/tasks/tasks.css">
     </link>
 
+    <script>
+        $(function () {
+            $("#w3-include-html").load("https://tavori2.github.io/data/slideshows/header.html");
+        });
+    </script>
 </head>
 
 <body class="home-body">
     <!-- header banner -->
-    <div w3-include-html="https://tavori2.github.io/data/slideshows/header.html"></div>
+    <div id="w3-include-html"></div>
 
     <script>
         includeHTML();
