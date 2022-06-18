@@ -3,6 +3,8 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://tavori2.github.io/data/main.js"></script>
+
     <!-- Messages -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://tavori2.github.io/data/messages/messages.js"></script>
@@ -26,14 +28,18 @@
 
 <body class="home-body">
     <!-- header banner -->
-    <div w3-include-html="https://tavori2.github.io/data/slideshows/header.html"></div> 
+    <div w3-include-html="https://tavori2.github.io/data/slideshows/header.html"></div>
+
+    <script>
+        includeHTML();
+    </script>
 
     <!-- Video Header -->
     <video autoplay muted loop id="headerVideo">
         <source src="https://tavori2.github.io/data/img/header.mp4" type="video/mp4">
-      </video>
+    </video>
 
-    
+
     <!-- Messages -->
     <div class="container">
         <div class="holder">
