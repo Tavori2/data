@@ -4,7 +4,6 @@
 }
 
 .holder {
-  width: 95%;
   height: 100px;
   overflow: hidden;
   padding: 10px;
@@ -12,7 +11,7 @@
   direction: rtl;
   box-shadow: 0 2px 20px rgb(0 0 0/11%);
   border-radius: 10px 10px 10px 10px;
-  margin: 0 0 25px 0;
+  margin: 20px;
   background-color: rgba(255, 255, 255, .8705882352941177);
   transition: background 1s;
 }
