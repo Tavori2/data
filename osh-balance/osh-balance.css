@@ -16,7 +16,8 @@
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
-    margin: 20px;
+    margin-top: 22px;
+    margin-bottom: 22px;
     direction: rtl;
     font-family: "arial";
     font-size: 18px;
@@ -72,9 +73,10 @@
 
 @media (min-width: 671px) and  (max-width: 1000px) {
     .box {
-        width: 40%;
+        width: 45%;
         text-align: center;
         height: 250px;
+        margin-right: 20px;
     }
 }
 
@@ -83,6 +85,8 @@
         width: 20%;
         text-align: center;
         height: 260px;
+        margin-right: 22px;
+        margin-left: 22px;
     }
 }
 
@@ -91,6 +95,8 @@
         width: 20%;
         text-align: center;
         height: 260px;
+        margin-right: 37px;
+        margin-left: 37px;
     }
 }
 
