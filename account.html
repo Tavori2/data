@@ -5,19 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://tavori2.github.io/data/main.js"></script>
-
-    <!-- ###############   summary    ################# -->
-    <script src="https://shaybc.github.io/spam/test.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
-    <script src="https://tavori2.github.io/data/osh-balance/account.js"></script>
-    <script src="https://tavori2.github.io/data/account/summary.js"></script>
-    <link rel="stylesheet" href="https://tavori2.github.io/data/account/summary.css"></link>
-
-    <!-- ###############   income tables   ################# -->
-    <script src="https://tavori2.github.io/data/incomeTables/incomeTables.js"></script>
-    <script src="https://tavori2.github.io/data/incomeTables/incomeTablesJson.js"></script>
-    <link rel="stylesheet" href="https://tavori2.github.io/data/incomeTables/incomeTables.css">
-    </link>
 </head>
 
 <body class="osh-body">
@@ -30,6 +17,7 @@
         });
     </script>
 
+    <!-- Clear float behaviour -->
     <div style="clear:both;"></div>
 
     <!-- ###############   osh balance   ################# -->
@@ -40,60 +28,18 @@
         });
     </script>
     
+    <!-- Clear float behaviour -->
     <div style="clear:both;"></div>
 
     <!-- ###############   income tables   ################# -->
-    <div class="incomeTables-container">
-        <div class="yearSelectorWrapper">
-            <span class="selectTitle">הכנסות ממסי ועד לשנת:</span>
-            <span>
-                <select id="yearSelector" onchange="changeYear()">
-                </select>
-            </span>
-        </div>
-    </div>
-
-    <script type="template" id="incomeTables-template">
-            <table class="divTable blueTable year{{income-year}}">
-                <tbody class="divTableBody divTableBody{{income-year}}">
-                    <tr class="divTableRow">
-                        <td class="divTableHead">דירה</td>
-                        <td class="divTableHead">1</td>
-                        <td class="divTableHead">2</td>
-                        <td class="divTableHead">3</td>
-                        <td class="divTableHead">4</td>
-                        <td class="divTableHead">5</td>
-                        <td class="divTableHead">6</td>
-                        <td class="divTableHead">7</td>
-                        <td class="divTableHead">8</td>
-                        <td class="divTableHead">9</td>
-                        <td class="divTableHead">10</td>
-                        <td class="divTableHead">11</td>
-                        <td class="divTableHead">12</td>
-                    </tr>
-                    <!-- Table row for each appartment -->
-                </tbody>
-            </table>
+    <div id="income-tables-html"></div>
+    <script>
+        $(function () {
+            $("#income-tables-html").load("https://tavori2.github.io/data/incomeTables/incomeTables.html");
+        });
     </script>
 
-    <script type="template" id="incomeTablesRow-template">
-        <tr class="divTableRow">
-            <td class="divTableCell firstColumnCell">{{apt_x}}</div>
-            <td title="{{title1}}" class="divTableCell {{contentClass1}}">{{month_1_apt_x}}</td>
-            <td title="{{title2}}" class="divTableCell {{contentClass2}}">{{month_2_apt_x}}</td>
-            <td title="{{title3}}" class="divTableCell {{contentClass3}}">{{month_3_apt_x}}</td>
-            <td title="{{title4}}" class="divTableCell {{contentClass4}}">{{month_4_apt_x}}</td>
-            <td title="{{title5}}" class="divTableCell {{contentClass5}}">{{month_5_apt_x}}</td>
-            <td title="{{title6}}" class="divTableCell {{contentClass6}}">{{month_6_apt_x}}</td>
-            <td title="{{title7}}" class="divTableCell {{contentClass7}}">{{month_7_apt_x}}</td>
-            <td title="{{title8}}" class="divTableCell {{contentClass8}}">{{month_8_apt_x}}</td>
-            <td title="{{title9}}" class="divTableCell {{contentClass9}}">{{month_9_apt_x}}</td>
-            <td title="{{title10}}" class="divTableCell {{contentClass10}}">{{month_10_apt_x}}</td>
-            <td title="{{title11}}" class="divTableCell {{contentClass11}}">{{month_11_apt_x}}</td>
-            <td title="{{title12}}" class="divTableCell {{contentClass12}}">{{month_12_apt_x}}</td>
-        </tr>
-    </script>
-
+    <!-- Clear float behaviour -->
     <div style="clear:both;"></div>
 
     <!-- ###############   expenses tables image   ################# -->
@@ -105,6 +51,14 @@
         <p class="widgetTitle">ממוצע הוצאות השנה</p>
         <img src="https://tavori2.github.io/data/img/balance/expensesAvrages.png" style="width: 800px;" />
     </div>
+
+    <!-- Footer -->
+    <div id="footer-html"></div>
+    <script>
+        $(function () {
+            $("#footer-html").load("https://tavori2.github.io/data/footer/footer.html");
+        });
+    </script>
 </body>
 
 </html>
