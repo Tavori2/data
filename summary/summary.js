@@ -9,9 +9,9 @@ waitUntilElementLoaded('#balance', 5000).then(function (element) {
 		let populatedTemplate = document.getElementById('balance').innerHTML;
 		var oshContainer = document.querySelector('.osh-summary');
 
-		populatedTemplate = populatedTemplate.replaceAll('{{updateDate}}',accountJson.updateDate);
-		populatedTemplate = populatedTemplate.replaceAll('{{balance.current}}',accountJson.balance.current);
-		populatedTemplate = populatedTemplate.replaceAll('{{balance.cash}}',accountJson.balance.cash);
+		var currentTotalBalance = accountJson.balance.current + accountJson.balance.cash;
+		populatedTemplate = populatedTemplate.replaceAll('{{balance.opening}}',accountJson.balance.openning);
+		populatedTemplate = populatedTemplate.replaceAll('{{balance.current}}',currentTotalBalance);
 
 		populatedTemplate = populatedTemplate.replaceAll('{{account.bank}}',accountJson.account.bank);
 		populatedTemplate = populatedTemplate.replaceAll('{{account.bankName}}',accountJson.account.bankName);
