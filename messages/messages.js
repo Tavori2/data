@@ -28,11 +28,14 @@ waitUntilElementLoaded('#msg-row-template', 5000).then(function (element) {
 				$strip.find("li").each(function (i) {
 					stripHeight += 20; //jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
 				});
+				console.log("stripHeight: " + stripHeight);
 				var $mask = $strip.wrap("<div class='mask'></div>");
 				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");
-				var containerHeight = stripHeight * 1.5; //$strip.parent().parent().height();	//a.k.a. 'mask' width 	
+				var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
+				console.log("containerHeight: " + containerHeight);
 				$strip.height(stripHeight);
 				var totalTravel = stripHeight;
+				console.log("totalTravel: " + totalTravel);
 				var defTiming = totalTravel / settings.travelocity;	// thanks to Scott Waye		
 				function scrollnews(spazio, tempo) {
 					$strip.animate({ top: '-=' + spazio }, tempo, "linear", function () { $strip.css("top", containerHeight); scrollnews(totalTravel, defTiming); });
