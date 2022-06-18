@@ -7,7 +7,6 @@
     <script src="https://tavori2.github.io/data/main.js"></script>
 
     <!-- Messages -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://tavori2.github.io/data/messages/messages.js"></script>
     <script src="https://tavori2.github.io/data/messages/messagesJson.js"></script>
     <link rel="stylesheet" href="https://tavori2.github.io/data/messages/messages.css">
@@ -24,33 +23,24 @@
     <script src="https://tavori2.github.io/data/tasks/tasks.js"></script>
     <link rel="stylesheet" href="https://tavori2.github.io/data/tasks/tasks.css">
     </link>
-
-    <script>
-        $(function () {
-            $("#w3-include-html").load("https://tavori2.github.io/data/slideshows/header.html");
-        });
-    </script>
 </head>
 
 <body class="home-body">
     <!-- header banner -->
-    <div id="w3-include-html"></div>
-
+    <div id="header-html"></div>
     <script>
-        includeHTML();
+        $(function () {
+            $("#header-html").load("https://tavori2.github.io/data/slideshows/header.html");
+        });
     </script>
 
     <!-- Messages -->
-    <div class="container">
-        <div class="holder">
-            <ul id="ticker01">
-            </ul>
-        </div>
-    </div>
-    <script type="template" id="msg-row-template">
-        <li><span>{{messageTime}}</span><span class="message">{{messageText}}</span></li>
+    <div id="messages-html"></div>
+    <script>
+        $(function () {
+            $("#messages-html").load("https://tavori2.github.io/data/messages/messages.html");
+        });
     </script>
-
 
     <!-- Account -->
     <div class="osh-body">
