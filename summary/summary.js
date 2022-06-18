@@ -10,10 +10,14 @@ waitUntilElementLoaded('#balance', 5000).then(function (element) {
 		var oshContainer = document.querySelector('.osh-summary');
 
 		// parse current balance and cash balence and calculate the total current balance
-		var currentTotalBalance = parseInt(accountJson.balance.current.replace(/,/g, '')) + parseInt(accountJson.balance.cash.replace(/,/g, ''));
+		var currentBalanceInt = accountJson.balance.current.replace(/,/g, '');
+		var currentCashBalanceInt = accountJson.balance.cash.replace(/,/g, '');
+		var currentTotalBalance = parseInt(currentBalanceInt) + parseInt(currentCashBalanceInt);
+		// add thousands separator to result number
+		var currentTotalBalanceString = currentTotalBalance.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
 		populatedTemplate = populatedTemplate.replaceAll('{{balance.opening}}',accountJson.balance.openning);
-		populatedTemplate = populatedTemplate.replaceAll('{{balance.current}}',currentTotalBalance);
+		populatedTemplate = populatedTemplate.replaceAll('{{balance.current}}',currentTotalBalanceString);
 
 		populatedTemplate = populatedTemplate.replaceAll('{{account.bank}}',accountJson.account.bank);
 		populatedTemplate = populatedTemplate.replaceAll('{{account.bankName}}',accountJson.account.bankName);
