@@ -57,7 +57,7 @@
     color: var(--orange);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 670px) {
     .row1-container {
         justify-content: center;
         align-items: center;
@@ -70,7 +70,7 @@
     }
 }
 
-@media (min-width: 601px) and  (max-width: 1000px) {
+@media (min-width: 671px) and  (max-width: 1000px) {
     .box {
         width: 40%;
         text-align: center;
