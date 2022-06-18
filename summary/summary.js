@@ -9,7 +9,9 @@ waitUntilElementLoaded('#balance', 5000).then(function (element) {
 		let populatedTemplate = document.getElementById('balance').innerHTML;
 		var oshContainer = document.querySelector('.osh-summary');
 
-		var currentTotalBalance = parseInt(accountJson.balance.current) + parseInt(accountJson.balance.cash);
+		// parse current balance and cash balence and calculate the total current balance
+		var currentTotalBalance = parseInt(accountJson.balance.current.replace(/,/g, '')) + parseInt(accountJson.balance.cash.replace(/,/g, ''));
+
 		populatedTemplate = populatedTemplate.replaceAll('{{balance.opening}}',accountJson.balance.openning);
 		populatedTemplate = populatedTemplate.replaceAll('{{balance.current}}',currentTotalBalance);
 
