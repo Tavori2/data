@@ -18,7 +18,8 @@
         transform: scale(0.80);
         transform-origin: 100% 0% 0px;
         padding-top: 40px;
-        height: 900px;    }
+        height: 900px;
+    }
 }
 
 .checkMetod {
@@ -31,6 +32,19 @@
 
 .transferMetod {
     background-color: #3385c6;
+}
+
+.legend {
+
+}
+
+.legendCell {
+    padding: 3px;
+    color: white;
+    margin-left: 5px;
+    width: 55px;
+    display: inline-block;
+    text-align: center;
 }
 
 div.blueTable {
