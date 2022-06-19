@@ -1,5 +1,5 @@
 .footerTextContainer {
-    min-height: 618px;
+    min-height: 400px;
     background-size: cover;
     background-position: center center;
     background-image: url(https://tavori2.github.io/data/img/footer.jpg);
@@ -34,7 +34,7 @@
 
 /* Right Text */
 .rightText {
-    padding-top: 200px;
+    padding-top: 150px;
     width: 30%;
 }
 
@@ -49,13 +49,13 @@
 
 /* Center Text */
 .centerText {
-    padding-top: 240px;
+    padding-top: 180px;
     width: 30%;
 }
 
 /* Left Text */
 .leftText {
-    padding-top: 240px;
+    padding-top: 180px;
     width: 30%;
 }
 
