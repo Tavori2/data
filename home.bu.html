@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://tavori2.github.io/data/main.js"></script>
+</head>
+
+<body class="home-body">
+    <!-- header banner -->
+    <div id="header-html"></div>
+    <script>
+        $(function () {
+            $("#header-html").load("https://tavori2.github.io/data/slideshows/header.html");
+        });
+    </script>
+
+    <!-- Messages -->
+    <div id="messages-html"></div>
+    <script>
+        $(function () {
+            $("#messages-html").load("https://tavori2.github.io/data/messages/messages.html");
+        });
+    </script>
+
+    <!-- Account -->
+    <div id="account-html" style="margin: 20px;"></div>
+    <script>
+        $(function () {
+            $("#account-html").load("https://tavori2.github.io/data/osh-balance/osh-balance.html");
+        });
+    </script>
+
+    <!-- Tasks -->
+    <div id="tasks-html" style="margin: 20px;"></div>
+    <script>
+        $(function () {
+            $("#tasks-html").load("https://tavori2.github.io/data/tasks/tasksTable.html");
+        });
+    </script>
+
+    <!-- Footer -->
+    <div id="footer-html"></div>
+    <script>
+        $(function () {
+            $("#footer-html").load("https://tavori2.github.io/data/footer/footer.html");
+        });
+    </script>
+
+</body>
+
+</html>
