@@ -21,6 +21,7 @@
 .dateRow {
     padding-top: 5px;
     text-align: center;
+    font-family: arial;
 }
 
 .excelRow {
@@ -66,7 +67,7 @@
 
 .subtitle {
     color: #acacac;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .transparency {
