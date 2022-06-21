@@ -1920,6 +1920,126 @@ var incomeTables = `[
         "month_12_apt_40": {
             "ammount": "",
             "method": ""
+        },
+        "totalApt_1": {
+            "ammount": "200"
+        },
+        "totalApt_2": {
+            "ammount": "200"
+        },
+        "totalApt_3": {
+            "ammount": "0"
+        },
+        "totalApt_4": {
+            "ammount": "0"
+        },
+        "totalApt_5": {
+            "ammount": "0"
+        },
+        "totalApt_6": {
+            "ammount": "0"
+        },
+        "totalApt_7": {
+            "ammount": "0"
+        },
+        "totalApt_8": {
+            "ammount": "0"
+        },
+        "totalApt_9": {
+            "ammount": "0"
+        },
+        "totalApt_10": {
+            "ammount": "400"
+        },
+        "totalApt_11": {
+            "ammount": "0"
+        },
+        "totalApt_12": {
+            "ammount": "200"
+        },
+        "totalApt_13": {
+            "ammount": "0"
+        },
+        "totalApt_14": {
+            "ammount": "200"
+        },
+        "totalApt_15": {
+            "ammount": "400"
+        },
+        "totalApt_16": {
+            "ammount": "600"
+        },
+        "totalApt_17": {
+            "ammount": "200"
+        },
+        "totalApt_18": {
+            "ammount": "200"
+        },
+        "totalApt_19": {
+            "ammount": "200"
+        },
+        "totalApt_20": {
+            "ammount": "0"
+        },
+        "totalApt_21": {
+            "ammount": "600"
+        },
+        "totalApt_22": {
+            "ammount": "200"
+        },
+        "totalApt_23": {
+            "ammount": "200"
+        },
+        "totalApt_24": {
+            "ammount": "200"
+        },
+        "totalApt_25": {
+            "ammount": "1200"
+        },
+        "totalApt_26": {
+            "ammount": "0"
+        },
+        "totalApt_27": {
+            "ammount": "200"
+        },
+        "totalApt_28": {
+            "ammount": "0"
+        },
+        "totalApt_29": {
+            "ammount": "200"
+        },
+        "totalApt_30": {
+            "ammount": "0"
+        },
+        "totalApt_31": {
+            "ammount": "300"
+        },
+        "totalApt_32": {
+            "ammount": "0"
+        },
+        "totalApt_33": {
+            "ammount": "0"
+        },
+        "totalApt_34": {
+            "ammount": "0"
+        },
+        "totalApt_35": {
+            "ammount": "0"
+        },
+        "totalApt_36": {
+            "ammount": "0"
+        },
+        "totalApt_37": {
+            "ammount": "200"
+        },
+        "totalApt_38": {
+            "ammount": "0"
+        },
+        "totalApt_39": {
+            "ammount": "200"
+        },
+        "totalApt_40": {
+            "ammount": "0"
         }
     },
     {
@@ -3843,6 +3963,126 @@ var incomeTables = `[
         "month_12_apt_40": {
             "ammount": "900",
             "method": "Check"
+        },
+        "totalApt_1": {
+            "ammount": "0"
+        },
+        "totalApt_2": {
+            "ammount": "0"
+        },
+        "totalApt_3": {
+            "ammount": "0"
+        },
+        "totalApt_4": {
+            "ammount": "3440"
+        },
+        "totalApt_5": {
+            "ammount": "2100"
+        },
+        "totalApt_6": {
+            "ammount": "1500"
+        },
+        "totalApt_7": {
+            "ammount": "2500"
+        },
+        "totalApt_8": {
+            "ammount": "3350"
+        },
+        "totalApt_9": {
+            "ammount": "1200"
+        },
+        "totalApt_10": {
+            "ammount": "3250"
+        },
+        "totalApt_11": {
+            "ammount": "3150"
+        },
+        "totalApt_12": {
+            "ammount": "3400"
+        },
+        "totalApt_13": {
+            "ammount": "5370"
+        },
+        "totalApt_14": {
+            "ammount": "3990"
+        },
+        "totalApt_15": {
+            "ammount": "3450"
+        },
+        "totalApt_16": {
+            "ammount": "3050"
+        },
+        "totalApt_17": {
+            "ammount": "3850"
+        },
+        "totalApt_18": {
+            "ammount": "450"
+        },
+        "totalApt_19": {
+            "ammount": "3000"
+        },
+        "totalApt_20": {
+            "ammount": "1000"
+        },
+        "totalApt_21": {
+            "ammount": "3850"
+        },
+        "totalApt_22": {
+            "ammount": "2150"
+        },
+        "totalApt_23": {
+            "ammount": "3650"
+        },
+        "totalApt_24": {
+            "ammount": "3450"
+        },
+        "totalApt_25": {
+            "ammount": "5750"
+        },
+        "totalApt_26": {
+            "ammount": "0"
+        },
+        "totalApt_27": {
+            "ammount": "2250"
+        },
+        "totalApt_28": {
+            "ammount": "0"
+        },
+        "totalApt_29": {
+            "ammount": "1250"
+        },
+        "totalApt_30": {
+            "ammount": "0"
+        },
+        "totalApt_31": {
+            "ammount": "4250"
+        },
+        "totalApt_32": {
+            "ammount": "6940"
+        },
+        "totalApt_33": {
+            "ammount": "3000"
+        },
+        "totalApt_34": {
+            "ammount": "2350"
+        },
+        "totalApt_35": {
+            "ammount": "2480"
+        },
+        "totalApt_36": {
+            "ammount": "2350"
+        },
+        "totalApt_37": {
+            "ammount": "3250"
+        },
+        "totalApt_38": {
+            "ammount": "0"
+        },
+        "totalApt_39": {
+            "ammount": "3300"
+        },
+        "totalApt_40": {
+            "ammount": "4050"
         }
     },
     {
@@ -5766,6 +6006,126 @@ var incomeTables = `[
         "month_12_apt_40": {
             "ammount": "300",
             "method": "Check"
+        },
+        "totalApt_1": {
+            "ammount": "0"
+        },
+        "totalApt_2": {
+            "ammount": "0"
+        },
+        "totalApt_3": {
+            "ammount": "0"
+        },
+        "totalApt_4": {
+            "ammount": "900"
+        },
+        "totalApt_5": {
+            "ammount": "3600"
+        },
+        "totalApt_6": {
+            "ammount": "3600"
+        },
+        "totalApt_7": {
+            "ammount": "3600"
+        },
+        "totalApt_8": {
+            "ammount": "3600"
+        },
+        "totalApt_9": {
+            "ammount": "1350"
+        },
+        "totalApt_10": {
+            "ammount": "3600"
+        },
+        "totalApt_11": {
+            "ammount": "0"
+        },
+        "totalApt_12": {
+            "ammount": "0"
+        },
+        "totalApt_13": {
+            "ammount": "3600"
+        },
+        "totalApt_14": {
+            "ammount": "3600"
+        },
+        "totalApt_15": {
+            "ammount": "3600"
+        },
+        "totalApt_16": {
+            "ammount": "3600"
+        },
+        "totalApt_17": {
+            "ammount": "3600"
+        },
+        "totalApt_18": {
+            "ammount": "1200"
+        },
+        "totalApt_19": {
+            "ammount": "3600"
+        },
+        "totalApt_20": {
+            "ammount": "1800"
+        },
+        "totalApt_21": {
+            "ammount": "3600"
+        },
+        "totalApt_22": {
+            "ammount": "0"
+        },
+        "totalApt_23": {
+            "ammount": "3600"
+        },
+        "totalApt_24": {
+            "ammount": "3300"
+        },
+        "totalApt_25": {
+            "ammount": "3600"
+        },
+        "totalApt_26": {
+            "ammount": "0"
+        },
+        "totalApt_27": {
+            "ammount": "3600"
+        },
+        "totalApt_28": {
+            "ammount": "0"
+        },
+        "totalApt_29": {
+            "ammount": "0"
+        },
+        "totalApt_30": {
+            "ammount": "0"
+        },
+        "totalApt_31": {
+            "ammount": "4725"
+        },
+        "totalApt_32": {
+            "ammount": "3600"
+        },
+        "totalApt_33": {
+            "ammount": "3600"
+        },
+        "totalApt_34": {
+            "ammount": "3600"
+        },
+        "totalApt_35": {
+            "ammount": "3300"
+        },
+        "totalApt_36": {
+            "ammount": "3600"
+        },
+        "totalApt_37": {
+            "ammount": "3600"
+        },
+        "totalApt_38": {
+            "ammount": "2800"
+        },
+        "totalApt_39": {
+            "ammount": "3600"
+        },
+        "totalApt_40": {
+            "ammount": "3600"
         }
     },
     {
@@ -7689,6 +8049,126 @@ var incomeTables = `[
         "month_12_apt_40": {
             "ammount": "300",
             "method": "Transfer"
+        },
+        "totalApt_1": {
+            "ammount": "0"
+        },
+        "totalApt_2": {
+            "ammount": "0"
+        },
+        "totalApt_3": {
+            "ammount": "0"
+        },
+        "totalApt_4": {
+            "ammount": "3600"
+        },
+        "totalApt_5": {
+            "ammount": "3600"
+        },
+        "totalApt_6": {
+            "ammount": "3600"
+        },
+        "totalApt_7": {
+            "ammount": "3600"
+        },
+        "totalApt_8": {
+            "ammount": "3600"
+        },
+        "totalApt_9": {
+            "ammount": "3600"
+        },
+        "totalApt_10": {
+            "ammount": "3600"
+        },
+        "totalApt_11": {
+            "ammount": "0"
+        },
+        "totalApt_12": {
+            "ammount": "0"
+        },
+        "totalApt_13": {
+            "ammount": "3600"
+        },
+        "totalApt_14": {
+            "ammount": "3600"
+        },
+        "totalApt_15": {
+            "ammount": "3600"
+        },
+        "totalApt_16": {
+            "ammount": "3600"
+        },
+        "totalApt_17": {
+            "ammount": "3600"
+        },
+        "totalApt_18": {
+            "ammount": "3600"
+        },
+        "totalApt_19": {
+            "ammount": "3600"
+        },
+        "totalApt_20": {
+            "ammount": "3600"
+        },
+        "totalApt_21": {
+            "ammount": "3900"
+        },
+        "totalApt_22": {
+            "ammount": "0"
+        },
+        "totalApt_23": {
+            "ammount": "3600"
+        },
+        "totalApt_24": {
+            "ammount": "2700"
+        },
+        "totalApt_25": {
+            "ammount": "3600"
+        },
+        "totalApt_26": {
+            "ammount": "0"
+        },
+        "totalApt_27": {
+            "ammount": "3600"
+        },
+        "totalApt_28": {
+            "ammount": "900"
+        },
+        "totalApt_29": {
+            "ammount": "0"
+        },
+        "totalApt_30": {
+            "ammount": "0"
+        },
+        "totalApt_31": {
+            "ammount": "12900"
+        },
+        "totalApt_32": {
+            "ammount": "3600"
+        },
+        "totalApt_33": {
+            "ammount": "3600"
+        },
+        "totalApt_34": {
+            "ammount": "3600"
+        },
+        "totalApt_35": {
+            "ammount": "3600"
+        },
+        "totalApt_36": {
+            "ammount": "3600"
+        },
+        "totalApt_37": {
+            "ammount": "3600"
+        },
+        "totalApt_38": {
+            "ammount": "0"
+        },
+        "totalApt_39": {
+            "ammount": "3600"
+        },
+        "totalApt_40": {
+            "ammount": "3900"
         }
     },
     {
@@ -9612,6 +10092,126 @@ var incomeTables = `[
         "month_12_apt_40": {
             "ammount": "300",
             "method": "Transfer"
+        },
+        "totalApt_1": {
+            "ammount": "0"
+        },
+        "totalApt_2": {
+            "ammount": "0"
+        },
+        "totalApt_3": {
+            "ammount": "0"
+        },
+        "totalApt_4": {
+            "ammount": "900"
+        },
+        "totalApt_5": {
+            "ammount": "3600"
+        },
+        "totalApt_6": {
+            "ammount": "3800"
+        },
+        "totalApt_7": {
+            "ammount": "3600"
+        },
+        "totalApt_8": {
+            "ammount": "3900"
+        },
+        "totalApt_9": {
+            "ammount": "3900"
+        },
+        "totalApt_10": {
+            "ammount": "3600"
+        },
+        "totalApt_11": {
+            "ammount": "0"
+        },
+        "totalApt_12": {
+            "ammount": "0"
+        },
+        "totalApt_13": {
+            "ammount": "3800"
+        },
+        "totalApt_14": {
+            "ammount": "3900"
+        },
+        "totalApt_15": {
+            "ammount": "3900"
+        },
+        "totalApt_16": {
+            "ammount": "3600"
+        },
+        "totalApt_17": {
+            "ammount": "3900"
+        },
+        "totalApt_18": {
+            "ammount": "3900"
+        },
+        "totalApt_19": {
+            "ammount": "3600"
+        },
+        "totalApt_20": {
+            "ammount": "3900"
+        },
+        "totalApt_21": {
+            "ammount": "4400"
+        },
+        "totalApt_22": {
+            "ammount": "2700"
+        },
+        "totalApt_23": {
+            "ammount": "3900"
+        },
+        "totalApt_24": {
+            "ammount": "3800"
+        },
+        "totalApt_25": {
+            "ammount": "3900"
+        },
+        "totalApt_26": {
+            "ammount": "0"
+        },
+        "totalApt_27": {
+            "ammount": "3900"
+        },
+        "totalApt_28": {
+            "ammount": "3900"
+        },
+        "totalApt_29": {
+            "ammount": "0"
+        },
+        "totalApt_30": {
+            "ammount": "0"
+        },
+        "totalApt_31": {
+            "ammount": "1700"
+        },
+        "totalApt_32": {
+            "ammount": "3600"
+        },
+        "totalApt_33": {
+            "ammount": "3600"
+        },
+        "totalApt_34": {
+            "ammount": "3900"
+        },
+        "totalApt_35": {
+            "ammount": "3600"
+        },
+        "totalApt_36": {
+            "ammount": "3600"
+        },
+        "totalApt_37": {
+            "ammount": "3600"
+        },
+        "totalApt_38": {
+            "ammount": "0"
+        },
+        "totalApt_39": {
+            "ammount": "3900"
+        },
+        "totalApt_40": {
+            "ammount": "3900"
         }
     },
     {
@@ -11535,6 +12135,126 @@ var incomeTables = `[
         "month_12_apt_40": {
             "ammount": "",
             "method": ""
+        },
+        "totalApt_1": {
+            "ammount": "3750"
+        },
+        "totalApt_2": {
+            "ammount": "1950"
+        },
+        "totalApt_3": {
+            "ammount": "3035"
+        },
+        "totalApt_4": {
+            "ammount": "1650"
+        },
+        "totalApt_5": {
+            "ammount": "2350"
+        },
+        "totalApt_6": {
+            "ammount": "1950"
+        },
+        "totalApt_7": {
+            "ammount": "2250"
+        },
+        "totalApt_8": {
+            "ammount": "1950"
+        },
+        "totalApt_9": {
+            "ammount": "1950"
+        },
+        "totalApt_10": {
+            "ammount": "1950"
+        },
+        "totalApt_11": {
+            "ammount": "1650"
+        },
+        "totalApt_12": {
+            "ammount": "2250"
+        },
+        "totalApt_13": {
+            "ammount": "1950"
+        },
+        "totalApt_14": {
+            "ammount": "1950"
+        },
+        "totalApt_15": {
+            "ammount": "1950"
+        },
+        "totalApt_16": {
+            "ammount": "1950"
+        },
+        "totalApt_17": {
+            "ammount": "1950"
+        },
+        "totalApt_18": {
+            "ammount": "1950"
+        },
+        "totalApt_19": {
+            "ammount": "1650"
+        },
+        "totalApt_20": {
+            "ammount": "1950"
+        },
+        "totalApt_21": {
+            "ammount": "2660"
+        },
+        "totalApt_22": {
+            "ammount": "1800"
+        },
+        "totalApt_23": {
+            "ammount": "1650"
+        },
+        "totalApt_24": {
+            "ammount": "3750"
+        },
+        "totalApt_25": {
+            "ammount": "1650"
+        },
+        "totalApt_26": {
+            "ammount": "3750"
+        },
+        "totalApt_27": {
+            "ammount": "1950"
+        },
+        "totalApt_28": {
+            "ammount": "1950"
+        },
+        "totalApt_29": {
+            "ammount": "2250"
+        },
+        "totalApt_30": {
+            "ammount": "3600"
+        },
+        "totalApt_31": {
+            "ammount": "2250"
+        },
+        "totalApt_32": {
+            "ammount": "1950"
+        },
+        "totalApt_33": {
+            "ammount": "1950"
+        },
+        "totalApt_34": {
+            "ammount": "1950"
+        },
+        "totalApt_35": {
+            "ammount": "1990"
+        },
+        "totalApt_36": {
+            "ammount": "2250"
+        },
+        "totalApt_37": {
+            "ammount": "1950"
+        },
+        "totalApt_38": {
+            "ammount": "1950"
+        },
+        "totalApt_39": {
+            "ammount": "1950"
+        },
+        "totalApt_40": {
+            "ammount": "1950"
         }
     }
 ]`;
