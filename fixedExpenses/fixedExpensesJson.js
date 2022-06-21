@@ -1,6 +1,13 @@
 var fixedExpenses = `[
     {
-        "year": "2017",
+        "expense_1": "נקיון",
+        "expense_2": "מעליות",
+        "expense_3": "חשמל",
+        "expense_4": "מפיצי ריח",
+        "expense_5": "ביטוח",
+        "expense_6": "כיבוי אש",
+        "expense_7": "בזק",
+        "expense_8": "עמלות",
         "month_1_exp_1": "",
         "month_1_exp_2": "",
         "month_1_exp_3": "",
@@ -108,10 +115,18 @@ var fixedExpenses = `[
         "month_12_exp_6": "1,147",
         "month_12_exp_7": "",
         "month_12_exp_8": "13",
-        "month_12_exp_9": "1,160"
+        "month_12_exp_9": "1,160",
+        "year": "2017"
     },
     {
-        "year": "2018",
+        "expense_1": "נקיון",
+        "expense_2": "מעליות",
+        "expense_3": "חשמל",
+        "expense_4": "מפיצי ריח",
+        "expense_5": "ביטוח",
+        "expense_6": "כיבוי אש",
+        "expense_7": "בזק",
+        "expense_8": "עמלות",
         "month_1_exp_1": "1,290",
         "month_1_exp_2": "",
         "month_1_exp_3": "",
@@ -219,10 +234,18 @@ var fixedExpenses = `[
         "month_12_exp_6": "",
         "month_12_exp_7": "120",
         "month_12_exp_8": "29",
-        "month_12_exp_9": "11,923"
+        "month_12_exp_9": "11,923",
+        "year": "2018"
     },
     {
-        "year": "2019",
+        "expense_1": "נקיון",
+        "expense_2": "מעליות",
+        "expense_3": "חשמל",
+        "expense_4": "מפיצי ריח",
+        "expense_5": "ביטוח",
+        "expense_6": "כיבוי אש",
+        "expense_7": "בזק",
+        "expense_8": "עמלות",
         "month_1_exp_1": "3,000",
         "month_1_exp_2": "6,241",
         "month_1_exp_3": "2,360",
@@ -330,10 +353,18 @@ var fixedExpenses = `[
         "month_12_exp_6": "",
         "month_12_exp_7": "163",
         "month_12_exp_8": "23",
-        "month_12_exp_9": "9,285"
+        "month_12_exp_9": "9,285",
+        "year": "2019"
     },
     {
-        "year": "2020",
+        "expense_1": "נקיון",
+        "expense_2": "מעליות",
+        "expense_3": "חשמל",
+        "expense_4": "מפיצי ריח",
+        "expense_5": "ביטוח",
+        "expense_6": "כיבוי אש",
+        "expense_7": "בזק",
+        "expense_8": "עמלות",
         "month_1_exp_1": "2,500",
         "month_1_exp_2": "3,006",
         "month_1_exp_3": "1,539",
@@ -441,10 +472,18 @@ var fixedExpenses = `[
         "month_12_exp_6": "",
         "month_12_exp_7": "183",
         "month_12_exp_8": "",
-        "month_12_exp_9": "9,577"
+        "month_12_exp_9": "9,577",
+        "year": "2020"
     },
     {
-        "year": "2021",
+        "expense_1": "נקיון",
+        "expense_2": "מעליות",
+        "expense_3": "חשמל",
+        "expense_4": "מפיצי ריח",
+        "expense_5": "ביטוח",
+        "expense_6": "כיבוי אש",
+        "expense_7": "בזק",
+        "expense_8": "עמלות",
         "month_1_exp_1": "3,700",
         "month_1_exp_2": "2,738",
         "month_1_exp_3": "2,905",
@@ -552,10 +591,18 @@ var fixedExpenses = `[
         "month_12_exp_6": "",
         "month_12_exp_7": "220",
         "month_12_exp_8": "40",
-        "month_12_exp_9": "9,225"
+        "month_12_exp_9": "9,225",
+        "year": "2021"
     },
     {
-        "year": "2022",
+        "expense_1": "נקיון",
+        "expense_2": "מעליות",
+        "expense_3": "חשמל",
+        "expense_4": "מפיצי ריח",
+        "expense_5": "ביטוח",
+        "expense_6": "כיבוי אש",
+        "expense_7": "בזק",
+        "expense_8": "עמלות",
         "month_1_exp_1": "3,700",
         "month_1_exp_2": "2,858",
         "month_1_exp_3": "2,681",
@@ -663,6 +710,8 @@ var fixedExpenses = `[
         "month_12_exp_6": "",
         "month_12_exp_7": "",
         "month_12_exp_8": "",
-        "month_12_exp_9": ""
-    }
+        "month_12_exp_9": "",
+        "year": "2022"
+    },
+        "lastUpdate": "21/06/2022 18:59:39"
 ]`;
