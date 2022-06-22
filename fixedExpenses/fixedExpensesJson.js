@@ -712,5 +712,5 @@ var fixedExpenses = `[
         "month_12_exp_8": "",
         "month_12_exp_9": "",
         "year": "2022"
-    },
+    }
 ]`;
