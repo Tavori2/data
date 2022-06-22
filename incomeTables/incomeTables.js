@@ -66,7 +66,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				if(diff < 0) diffClass = "missingPayments";
 
 				rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', diffClass); // red or green or white
-				rowTemplate = rowTemplate.replaceAll('{{title13}}', diff); // how much is missing
+				rowTemplate = rowTemplate.replaceAll('{{title13}}', diff + "צריכים לשלם עוד: "); // how much is missing
 				rowTemplate = rowTemplate.replaceAll('{{month_13_apt_x}}', payedSoFar); // total payed so far
 
 				let newRow = document.createElement('tr');
