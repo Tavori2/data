@@ -3,7 +3,7 @@
     width: 450px;
 }
 
-@media (min-width: 420px) {
+@media (min-width: 630px) {
     .incomeTables-container {
         font-family: arial;
         direction: rtl;
@@ -11,14 +11,14 @@
     }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 630px) {
     .incomeTables-container {
         font-family: arial;
         direction: rtl;
         transform: scale(0.80);
         transform-origin: 100% 0% 0px;
         padding-top: 40px;
-        height: 960px;
+        height: 1960px;
     }
 }
 
@@ -100,7 +100,7 @@ div.blueTable {
     min-height: 35px;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 630px) {
     .divTable.blueTable .divTableCell,
     .divTable.blueTable .divTableHead {
         border: 1px solid #FFFFFF;
