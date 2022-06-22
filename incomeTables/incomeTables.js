@@ -66,11 +66,11 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				if(diff < 0)
 				{
 					diffClass = "missingPayments";
-					rowTemplate = rowTemplate.replaceAll('{{title13}}', diff + "צריכים לשלם עוד: "); // how much is missing
+					rowTemplate = rowTemplate.replaceAll('{{title13}}', "צריכים לשלם עוד: " + diff); // how much is missing
 				}
 				else if(diff > 0)
 				{
-					rowTemplate = rowTemplate.replaceAll('{{title13}}', diff + "קיימת יתרה של: "); // how much is extra
+					rowTemplate = rowTemplate.replaceAll('{{title13}}', "קיימת יתרה של: " + diff); // how much is extra
 				}
 				else
 				{
