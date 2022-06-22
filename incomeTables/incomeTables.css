@@ -22,6 +22,15 @@
     }
 }
 
+.missingPayments {
+    background-color: yellow;
+    color: black;
+}
+
+.extraPayments {
+    background-color: lightskyblue;
+}
+
 .checkMetod {
     background-color: #11a86b;
 }

@@ -61,10 +61,9 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				// add total per appartment entry totalApt_37
 				var payedSoFar = entry['totalApt_' + apartmentCounter].ammount;
 				var expectedSoFar = entry['totalApt_' + apartmentCounter].expectedSoFar;
-				var diff = parseInt(expectedSoFar) - parseInt(payedSoFar);
-				var diffClass = "#fff";
-				if(diff < 0) diffClass = "#f00";
-				if(diff > 0) diffClass = "#0f0";
+				var diff = parseInt(payedSoFar) - parseInt(expectedSoFar);
+				var diffClass = "extraPayments";
+				if(diff < 0) diffClass = "missingPayments";
 
 				rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', diffClass); // red or green or white
 				rowTemplate = rowTemplate.replaceAll('{{title13}}', diff); // how much is missing
