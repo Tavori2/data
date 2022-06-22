@@ -713,5 +713,5 @@ var fixedExpenses = `[
         "month_12_exp_9": "",
         "year": "2022"
     },
-    "lastUpdate": "22/06/2022 0:53:53"
+    "lastUpdate": "22/06/2022 18:47:55"
 ]`;

@@ -12497,5 +12497,4 @@ var incomeTables = `[
         },
         "year": "2022"
     },
-    "lastUpdate": "22/06/2022 0:53:53"
 ]`;
