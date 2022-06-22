@@ -63,10 +63,21 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				var expectedSoFar = entry['totalApt_' + apartmentCounter].expectedSoFar;
 				var diff = parseInt(payedSoFar) - parseInt(expectedSoFar);
 				var diffClass = "extraPayments";
-				if(diff < 0) diffClass = "missingPayments";
+				if(diff < 0)
+				{
+					diffClass = "missingPayments";
+					rowTemplate = rowTemplate.replaceAll('{{title13}}', diff + "צריכים לשלם עוד: "); // how much is missing
+				}
+				else if(diff > 0)
+				{
+					rowTemplate = rowTemplate.replaceAll('{{title13}}', diff + "קיימת יתרה של: "); // how much is extra
+				}
+				else
+				{
+					rowTemplate = rowTemplate.replaceAll('{{title13}}', "הכל שולם עד לחודש זה"); // payed exactly
+				}
 
 				rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', diffClass); // red or green or white
-				rowTemplate = rowTemplate.replaceAll('{{title13}}', diff + "צריכים לשלם עוד: "); // how much is missing
 				rowTemplate = rowTemplate.replaceAll('{{month_13_apt_x}}', payedSoFar); // total payed so far
 
 				let newRow = document.createElement('tr');
