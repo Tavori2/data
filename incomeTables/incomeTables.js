@@ -57,6 +57,19 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 					rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', payAmountClass);
 					rowTemplate = rowTemplate.replaceAll('{{title' + monthCounter + '}}', payTitle);
 				}
+
+				// add total per appartment entry totalApt_37
+				var payedSoFar = entry['totalApt_' + apartmentCounter].ammount;
+				var expectedSoFar = entry['totalApt_' + apartmentCounter].expectedSoFar;
+				var diff = parseInt(expectedSoFar) - parseInt(payedSoFar);
+				var diffClass = "#fff";
+				if(diff < 0) diffClass = "#f00";
+				if(diff > 0) diffClass = "#0f0";
+
+				rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', diffClass); // red or green or white
+				rowTemplate = rowTemplate.replaceAll('{{title13}}', diff); // how much is missing
+				rowTemplate = rowTemplate.replaceAll('{{month_13_apt_x}}', payedSoFar); // total payed so far
+
 				let newRow = document.createElement('tr');
 				newRow.innerHTML = rowTemplate;
 				divTableBody.appendChild(newRow);	
