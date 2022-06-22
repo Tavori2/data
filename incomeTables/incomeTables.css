@@ -94,7 +94,7 @@ div.blueTable {
 }
 
 .divTable.blueTable .divTableBody .divTableCell {
-    font-size: 13px;
+    font-size: 18px;
     color: #FFFFFF;
     width: 35px;
     min-height: 35px;
@@ -110,7 +110,7 @@ div.blueTable {
     }
 
     .divTable.blueTable .divTableBody .divTableCell {
-        font-size: 18px;
+        font-size: 13px;
         color: #FFFFFF;
         width: 35px;
         min-height: 35px;
