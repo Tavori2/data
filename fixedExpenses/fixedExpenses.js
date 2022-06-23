@@ -33,12 +33,19 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 				// get the template for an appartment (12 month)
 				let rowTemplate = document.getElementById('fixedExpensesRow-template').innerHTML;
 				// replace the first cell with appartment number
-				rowTemplate = rowTemplate.replaceAll('{{exp_x}}', apartmentCounter);
+				rowTemplate = rowTemplate.replaceAll('{{exp_x}}', entry['expense_' + apartmentCounter]);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
 					let currentEntryName = 'month_' + monthCounter + '_exp_' + apartmentCounter;
 					let currentValue = entry[currentEntryName];
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_exp_x}}', currentValue);
-					rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', "fixedExp");
+					if(currentValue != "")
+					{
+						rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', "fixedExp");
+					}
+					else
+					{
+						rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', "");
+					}
 				}
 
 				// // add total per appartment entry totalApt_37
