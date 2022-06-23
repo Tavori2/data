@@ -40,9 +40,9 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_exp_x}}', currentValue);
 				}
 
-				// add total per appartment entry totalApt_37
-				var payedSoFar = entry['totalExp_' + apartmentCounter].ammount;
-				rowTemplate = rowTemplate.replaceAll('{{month_13_exp_x}}', payedSoFar); // total payed so far
+				// // add total per appartment entry totalApt_37
+				// var payedSoFar = entry['totalExp_' + apartmentCounter].ammount;
+				// rowTemplate = rowTemplate.replaceAll('{{month_13_exp_x}}', payedSoFar); // total payed so far
 
 				let newRow = document.createElement('tr');
 				newRow.innerHTML = rowTemplate;
