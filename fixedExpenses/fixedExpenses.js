@@ -53,7 +53,7 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 				rowTemplate = rowTemplate.replaceAll('{{month_13_exp_x}}', payedSoFar); // total payed so far
 				if(payedSoFar != "")
 				{
-					rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', "fixedExp");
+					rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', "fixedExpTotal");
 				}
 				else
 				{
