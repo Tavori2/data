@@ -48,9 +48,17 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 					}
 				}
 
-				// // add total per appartment entry totalApt_37
-				// var payedSoFar = entry['totalExp_' + apartmentCounter].ammount;
-				// rowTemplate = rowTemplate.replaceAll('{{month_13_exp_x}}', payedSoFar); // total payed so far
+				// add total per appartment entry totalApt_37
+				var payedSoFar = entry['totalExp_' + apartmentCounter];
+				rowTemplate = rowTemplate.replaceAll('{{month_13_exp_x}}', payedSoFar); // total payed so far
+				if(payedSoFar != "")
+				{
+					rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', "fixedExp");
+				}
+				else
+				{
+					rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', "");
+				}
 
 				let newRow = document.createElement('tr');
 				newRow.innerHTML = rowTemplate;
