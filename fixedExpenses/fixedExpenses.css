@@ -1,0 +1,239 @@
+.yearSelectorWrapper {
+    text-align: center;
+    width: 450px;
+}
+
+@media (min-width: 630px) {
+    .incomeTables-container {
+        font-family: arial;
+        direction: rtl;
+        margin-top: 55px;
+    }
+}
+
+@media (max-width: 630px) {
+    .incomeTables-container {
+        font-family: arial;
+        direction: rtl;
+        transform: scale(0.80);
+        transform-origin: 100% 0% 0px;
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 360px) {
+    .incomeTables-container {
+        font-family: arial;
+        direction: rtl;
+        transform: scale(0.75);
+        transform-origin: 100% 0% 0px;
+        padding-top: 40px;
+    }
+}
+
+.missingPayments {
+    background-color: yellow;
+    color: black !important;
+}
+
+.extraPayments {
+    background-color: lightskyblue;
+}
+
+.checkMetod {
+    background-color: #11a86b;
+}
+
+.cashMetod {
+    background-color: #f58;
+}
+
+.transferMetod {
+    background-color: #3385c6;
+}
+
+.legendDiv {
+    margin-bottom: 3px;
+}
+
+.legend {
+    font-weight: 700;
+    padding-right: 65px;
+    padding-left: 5px;
+}
+
+.legendCell {
+    padding: 3px;
+    color: white;
+    margin-left: 5px;
+    width: 55px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.blueTable {
+    border: 1px solid #FFFFFF;
+    background-color: #eff8f9;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.firstColumnCell {
+    background: #36454f;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.divTableHead {
+    background: #36454f;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    height: 35px;
+    vertical-align: middle;
+}
+
+.divTable.blueTable .divTableCell,
+.divTable.blueTable .divTableHead {
+    border: 1px solid #FFFFFF;
+    padding: 3px 3px;
+    width: 75px;
+    height: 45px;
+}
+
+.divTable.blueTable .divTableBody .divTableCell {
+    font-size: 18px;
+    color: #FFFFFF;
+    width: 35px;
+    min-height: 35px;
+}
+
+@media (max-width: 630px) {
+    .divTable.blueTable .divTableCell,
+    .divTable.blueTable .divTableHead {
+        border: 1px solid #FFFFFF;
+        padding: 3px 3px;
+        width: 35px;
+        min-height: 35px;
+    }
+
+    .divTable.blueTable .divTableBody .divTableCell {
+        font-size: 13px;
+        color: #FFFFFF;
+        width: 35px;
+        min-height: 35px;
+    }
+}
+
+.divTable.blueTable .divTableHeading {
+    background: #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.divTable.blueTable .divTableHeading .divTableHead {
+    font-size: 16px;
+    font-weight: bold;
+    color: #369D9B;
+    border-left: 2px solid #FFFFFF;
+}
+
+.divTable.blueTable .divTableHeading .divTableHead:first-child {
+    border-left: none;
+}
+
+.blueTable .tableFootStyle {
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #D0E4F5;
+    background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    border-top: 2px solid #444444;
+}
+
+.blueTable .tableFootStyle {
+    font-size: 14px;
+}
+
+.blueTable .tableFootStyle .links {
+    text-align: right;
+}
+
+.blueTable .tableFootStyle .links a {
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+
+.blueTable.outerTableFooter {
+    border-top: none;
+}
+
+.blueTable.outerTableFooter .tableFootStyle {
+    padding: 3px 5px;
+}
+
+.divTable {
+    display: table;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableHeading {
+    display: table-header-group;
+}
+
+.divTableCell,
+.divTableHead {
+    display: table-cell;
+}
+
+.divTableHeading {
+    display: table-header-group;
+}
+
+
+.divTableBody {
+    display: table-row-group;
+}
+
+.selectTitle {
+    font-size: 28px;
+    font-weight: bold;
+    color: #3385c6;
+}
+
+select {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -webkit-padding-end: 20px;
+    -moz-padding-end: 20px;
+    -webkit-padding-start: 2px;
+    -moz-padding-start: 2px;
+    background-color: #19c4ff;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0px 4px 3px rgb(0 0 0 / 10%);
+    font-size: inherit;
+    overflow: hidden;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 35px;
+    color: white;
+    height: 40px;
+    margin-bottom: 7px;
+    margin-top: 5px;
+    margin-right: 18px;
+}
