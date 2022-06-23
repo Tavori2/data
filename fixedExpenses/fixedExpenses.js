@@ -6,7 +6,7 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 		// loop each year entry in the fixedExpenses json
 		data.forEach(entry => {
 			// add the year as option to the year selector
-			let yearSelector = document.getElementById('yearSelector');
+			let yearSelector = document.getElementById('expYearSelector');
 			let newOption = document.createElement('option');
 			newOption.value = entry.year;
 			newOption.textContent = entry.year;
@@ -59,10 +59,10 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 	console.log("Failed to find #fixedExpenses-template for 5 sec");
 });
 
-function changeYear()
+function changeExpYear()
 {
 	// get the selected year
-	var selectedYear = document.getElementById("yearSelector");
+	var selectedYear = document.getElementById("expYearSelector");
 	
 	// get all fixedExpenses for all years and hide them
 	const fixedExpensesYears = Array.from(document.getElementsByClassName('fixedExpensesYear'));
