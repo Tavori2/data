@@ -38,6 +38,7 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 					let currentEntryName = 'month_' + monthCounter + '_exp_' + apartmentCounter;
 					let currentValue = entry[currentEntryName];
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_exp_x}}', currentValue);
+					rowTemplate = rowTemplate.replaceAll('{{contentClass' + monthCounter + '}}', "fixedExp");
 				}
 
 				// // add total per appartment entry totalApt_37
