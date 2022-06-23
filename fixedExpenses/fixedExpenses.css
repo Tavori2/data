@@ -31,6 +31,10 @@
     }
 }
 
+.fixedExp {
+    background-color: #d973a8;
+}
+
 div.blueTable {
     border: 1px solid #FFFFFF;
     background-color: #eff8f9;
