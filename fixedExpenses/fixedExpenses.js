@@ -27,16 +27,16 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 			
 			// get the table inner body (after header) that we will populate with rows
 			let divTableBody = document.querySelector('.divTableBody' + entry.year);
+			let numOfFixedExpenses = parseInt(entry.numOfFixedExpenses);
 
-			for (let apartmentCounter = 1; apartmentCounter <= 40; apartmentCounter++) { 
+			for (let apartmentCounter = 1; apartmentCounter <= numOfFixedExpenses; apartmentCounter++) { 
 				// get the template for an appartment (12 month)
 				let rowTemplate = document.getElementById('fixedExpensesRow-template').innerHTML;
 				// replace the first cell with appartment number
 				rowTemplate = rowTemplate.replaceAll('{{exp_x}}', apartmentCounter);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
 					let currentEntryName = 'month_' + monthCounter + '_exp_' + apartmentCounter;
-					let currentValue = entry[currentEntryName].ammount;
-					let currentMethod = entry[currentEntryName].method;
+					let currentValue = entry[currentEntryName];
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_exp_x}}', currentValue);
 				}
 
