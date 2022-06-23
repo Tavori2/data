@@ -3,7 +3,7 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 
 	try {
 		let data = JSON.parse(fixedExpenses);
-		// loop each year entry in the income tables json
+		// loop each year entry in the fixedExpenses json
 		data.forEach(entry => {
 			// add the year as option to the year selector
 			let yearSelector = document.getElementById('yearSelector');
@@ -19,7 +19,7 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 			yearTemplate = yearTemplate.replaceAll('{{fixedExpenses-year}}', entry.year);	
 			let newTable = document.createElement('div');
 			newTable.id = "fixedExpenses" + entry.year;
-			newTable.className = "incomeTableYear";
+			newTable.className = "fixedExpensesYear";
 			newTable.style.display = "none";
 			if(entry.year == "2022") newTable.style.display = "block";
 			newTable.innerHTML = yearTemplate;
@@ -64,13 +64,13 @@ function changeYear()
 	// get the selected year
 	var selectedYear = document.getElementById("yearSelector");
 	
-	// get all income tables for all years and hide them
-	const incomeTableYears = Array.from(document.getElementsByClassName('fixedExpensesYear'));
-	incomeTableYears.forEach(currentIncomeTableYear => {
-    	currentIncomeTableYear.style.display = 'none';
+	// get all fixedExpenses for all years and hide them
+	const fixedExpensesYears = Array.from(document.getElementsByClassName('fixedExpensesYear'));
+	fixedExpensesYears.forEach(currentFixedExpensesYear => {
+    	currentFixedExpensesYear.style.display = 'none';
   	});
 
 	// show the selected year
-	var incomeTableYear = document.getElementById("fixedExpenses" + selectedYear.value);
-	incomeTableYear.style.display = "block";
+	var fixedExpensesYear = document.getElementById("fixedExpenses" + selectedYear.value);
+	fixedExpensesYear.style.display = "block";
 }
