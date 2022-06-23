@@ -115,15 +115,6 @@ var fixedExpenses = `[
         "totalExp_8": "79",
         "year": "2017"
     },
-        "totalExp_1": "3,600",
-        "totalExp_2": "",
-        "totalExp_3": "",
-        "totalExp_4": "",
-        "totalExp_5": "",
-        "totalExp_6": "",
-        "totalExp_7": "",
-        "totalExp_8": "",
-        "totalExp_9": "",
     {
         "numOfFixedExpenses": "8",
         "expense_1": "נקיון",
@@ -240,15 +231,6 @@ var fixedExpenses = `[
         "totalExp_8": "383",
         "year": "2018"
     },
-        "totalExp_1": "20,678",
-        "totalExp_2": "3,514",
-        "totalExp_3": "4,400",
-        "totalExp_4": "9,360",
-        "totalExp_5": "1,000",
-        "totalExp_6": "",
-        "totalExp_7": "",
-        "totalExp_8": "",
-        "totalExp_9": "",
     {
         "numOfFixedExpenses": "8",
         "expense_1": "נקיון",
@@ -365,15 +347,6 @@ var fixedExpenses = `[
         "totalExp_8": "290",
         "year": "2019"
     },
-        "totalExp_1": "5,618",
-        "totalExp_2": "2,076",
-        "totalExp_3": "",
-        "totalExp_4": "",
-        "totalExp_5": "1,844",
-        "totalExp_6": "1,287",
-        "totalExp_7": "4,885",
-        "totalExp_8": "2,340",
-        "totalExp_9": "",
     {
         "numOfFixedExpenses": "8",
         "expense_1": "נקיון",
@@ -490,15 +463,6 @@ var fixedExpenses = `[
         "totalExp_8": "338",
         "year": "2020"
     },
-        "totalExp_1": "1,601",
-        "totalExp_2": "1,004",
-        "totalExp_3": "11,425",
-        "totalExp_4": "",
-        "totalExp_5": "",
-        "totalExp_6": "1,404",
-        "totalExp_7": "4,454",
-        "totalExp_8": "2,574",
-        "totalExp_9": "",
     {
         "numOfFixedExpenses": "8",
         "expense_1": "נקיון",
@@ -615,15 +579,6 @@ var fixedExpenses = `[
         "totalExp_8": "457",
         "year": "2021"
     },
-        "totalExp_1": "",
-        "totalExp_2": "1,935",
-        "totalExp_3": "11,791",
-        "totalExp_4": "13,380",
-        "totalExp_5": "",
-        "totalExp_6": "",
-        "totalExp_7": "2,945",
-        "totalExp_8": "1,200",
-        "totalExp_9": "",
     {
         "numOfFixedExpenses": "8",
         "expense_1": "נקיון",
@@ -740,13 +695,4 @@ var fixedExpenses = `[
         "totalExp_8": "290",
         "year": "2022"
     }
-        "totalExp_1": "",
-        "totalExp_2": "1,793",
-        "totalExp_3": "1,287",
-        "totalExp_4": "",
-        "totalExp_5": "",
-        "totalExp_6": "995",
-        "totalExp_7": "",
-        "totalExp_8": "",
-        "totalExp_9": "4,700",
 ]`;
