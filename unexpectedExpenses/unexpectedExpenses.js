@@ -27,15 +27,15 @@ waitUntilElementLoaded('#unexpectedExpenses-template', 5000).then(function (elem
 			
 			// get the table inner body (after header) that we will populate with rows
 			let divTableBody = document.querySelector('.divTableBody' + entry.year);
-			let numOfFixedExpenses = parseInt(entry.numOfFixedExpenses);
+			let numOfUnexpectedExpenses = parseInt(entry.numOfUnexpectedExpenses);
 
-			for (let apartmentCounter = 1; apartmentCounter <= numOfFixedExpenses; apartmentCounter++) { 
+			for (let unexpectedExpensesCounter = 1; unexpectedExpensesCounter <= numOfUnexpectedExpenses; unexpectedExpensesCounter++) { 
 				// get the template for an appartment (12 month)
 				let rowTemplate = document.getElementById('unexpectedExpensesRow-template').innerHTML;
 				// replace the first cell with appartment number
-				rowTemplate = rowTemplate.replaceAll('{{unexp_x}}', entry['expense_' + apartmentCounter]);
+				rowTemplate = rowTemplate.replaceAll('{{unexp_x}}', entry['expense_' + unexpectedExpensesCounter]);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
-					let currentEntryName = 'month_' + monthCounter + '_exp_' + apartmentCounter;
+					let currentEntryName = 'month_' + monthCounter + '_exp_' + unexpectedExpensesCounter;
 					let currentValue = entry[currentEntryName];
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_exp_x}}', currentValue);
 					if(currentValue != "")
@@ -49,9 +49,9 @@ waitUntilElementLoaded('#unexpectedExpenses-template', 5000).then(function (elem
 				}
 
 				// add total per appartment entry totalApt_37
-				var payedSoFar = entry['totalExp_' + apartmentCounter];
-				rowTemplate = rowTemplate.replaceAll('{{month_13_exp_x}}', payedSoFar); // total payed so far
-				if(payedSoFar != "")
+				var totalExpenses = entry['totalExp_' + unexpectedExpensesCounter];
+				rowTemplate = rowTemplate.replaceAll('{{month_13_exp_x}}', totalExpenses); // total payed so far
+				if(totalExpenses != "")
 				{
 					rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', "unExpTotal");
 				}
@@ -81,12 +81,12 @@ function changeUnExpYear()
 	var selectedYear = document.getElementById("unexpYearSelector");
 	
 	// get all unexpectedExpenses for all years and hide them
-	const fixedExpensesYears = Array.from(document.getElementsByClassName('unexpectedExpensesYear'));
-	fixedExpensesYears.forEach(currentFixedExpensesYear => {
-    	currentFixedExpensesYear.style.display = 'none';
+	const unexpectedExpensesYears = Array.from(document.getElementsByClassName('unexpectedExpensesYear'));
+	unexpectedExpensesYears.forEach(currentUnexpectedExpensesYear => {
+    	currentUnexpectedExpensesYear.style.display = 'none';
   	});
 
 	// show the selected year
-	var fixedExpensesYear = document.getElementById("unexpectedExpenses" + selectedYear.value);
-	fixedExpensesYear.style.display = "block";
+	var unexpectedExpensesYear = document.getElementById("unexpectedExpenses" + selectedYear.value);
+	unexpectedExpensesYear.style.display = "block";
 }
