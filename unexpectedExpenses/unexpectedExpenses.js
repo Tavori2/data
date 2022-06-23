@@ -35,7 +35,7 @@ waitUntilElementLoaded('#unexpectedExpenses-template', 5000).then(function (elem
 				// replace the first cell with appartment number
 				rowTemplate = rowTemplate.replaceAll('{{unexp_x}}', entry['expense_' + unexpectedExpensesCounter]);
 				for (let monthCounter = 1; monthCounter <= 12; monthCounter++) {
-					let currentEntryName = 'month_' + monthCounter + '_unexp_' + unexpectedExpensesCounter;
+					let currentEntryName = 'month_' + monthCounter + '_exp_' + unexpectedExpensesCounter;
 					let currentValue = entry[currentEntryName];
 					rowTemplate = rowTemplate.replaceAll('{{month_' + monthCounter + '_unexp_x}}', currentValue);
 					if(currentValue != "")
