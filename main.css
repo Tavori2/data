@@ -1,0 +1,10 @@
+.banner {
+    border-radius: .4em;
+}
+
+@media (max-width: 630px) {
+    .banner {
+        transform: scale(0.54);
+        transform-origin: 100% 0% 0px;
+    }
+}
