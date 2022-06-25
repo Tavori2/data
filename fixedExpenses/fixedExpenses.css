@@ -15,8 +15,10 @@
     .fixedExpenses-container {
         font-family: arial;
         direction: rtl;
-        transform: scale(0.80);
-        transform-origin: 100% 0% 0px;
+        overflow: auto;
+        overflow-y: hidden;
+        /* transform: scale(0.80);
+        transform-origin: 100% 0% 0px; */
         padding-top: 40px;
     }
 }
@@ -25,8 +27,10 @@
     .fixedExpenses-container {
         font-family: arial;
         direction: rtl;
-        transform: scale(0.75);
-        transform-origin: 100% 0% 0px;
+        overflow: auto;
+        overflow-y: hidden;
+        /* transform: scale(0.75);
+        transform-origin: 100% 0% 0px; */
         padding-top: 40px;
     }
 }
@@ -78,6 +82,7 @@ div.blueTable {
 }
 
 @media (max-width: 630px) {
+
     .divTable.blueTable .divTableCell,
     .divTable.blueTable .divTableHead {
         border: 1px solid #FFFFFF;
