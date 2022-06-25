@@ -26,7 +26,7 @@ waitUntilElementLoaded('#fixedExpenses-template', 5000).then(function (element) 
 			container.appendChild(newTable);
 			
 			// get the table inner body (after header) that we will populate with rows
-			let divTableBody = document.querySelector('.divTableBody' + entry.year);
+			let divTableBody = document.querySelector('.fixedExpensesTB' + entry.year);
 			let numOfFixedExpenses = parseInt(entry.numOfFixedExpenses);
 
 			for (let apartmentCounter = 1; apartmentCounter <= numOfFixedExpenses; apartmentCounter++) { 

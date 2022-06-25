@@ -26,7 +26,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			container.appendChild(newTable);
 			
 			// get the table inner body (after header) that we will populate with rows
-			let divTableBody = document.querySelector('.divTableBody' + entry.year);
+			let divTableBody = document.querySelector('.incomeTablesTB' + entry.year);
 
 			for (let apartmentCounter = 1; apartmentCounter <= 40; apartmentCounter++) { 
 				// get the template for an appartment (12 month)

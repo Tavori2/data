@@ -26,7 +26,7 @@ waitUntilElementLoaded('#unexpectedExpenses-template', 5000).then(function (elem
 			container.appendChild(newTable);
 			
 			// get the table inner body (after header) that we will populate with rows
-			let divTableBody = document.querySelector('.divTableBody' + entry.year);
+			let divTableBody = document.querySelector('.unexpectedExpensesTB' + entry.year);
 			let numOfUnexpectedExpenses = parseInt(entry.numOfUnexpectedExpenses);
 
 			for (let unexpectedExpensesCounter = 1; unexpectedExpensesCounter <= numOfUnexpectedExpenses; unexpectedExpensesCounter++) { 
