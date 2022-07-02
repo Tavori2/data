@@ -1922,163 +1922,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_2": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_3": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_4": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_5": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_6": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_7": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_8": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_9": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_10": {
             "ammount": "400",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_11": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_12": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_13": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_14": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_15": {
             "ammount": "400",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_16": {
             "ammount": "600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_17": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_18": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_19": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_20": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_21": {
             "ammount": "600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_22": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_23": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_24": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_25": {
             "ammount": "1200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_26": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_27": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_28": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_29": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_30": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_31": {
             "ammount": "300",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_32": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_33": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_34": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_35": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_36": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_37": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_38": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_39": {
             "ammount": "200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_40": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "year": "2017"
     },
@@ -4005,163 +4005,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "0",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_2": {
             "ammount": "0",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_3": {
             "ammount": "0",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_4": {
             "ammount": "3440",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_5": {
             "ammount": "2100",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_6": {
             "ammount": "1500",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_7": {
             "ammount": "2500",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_8": {
             "ammount": "3350",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_9": {
             "ammount": "1200",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_10": {
             "ammount": "3250",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_11": {
             "ammount": "3150",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_12": {
             "ammount": "3400",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_13": {
             "ammount": "5370",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_14": {
             "ammount": "3990",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_15": {
             "ammount": "3450",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_16": {
             "ammount": "3050",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_17": {
             "ammount": "3850",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_18": {
             "ammount": "450",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_19": {
             "ammount": "3000",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_20": {
             "ammount": "1000",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_21": {
             "ammount": "3850",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_22": {
             "ammount": "2150",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_23": {
             "ammount": "3650",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_24": {
             "ammount": "3450",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_25": {
             "ammount": "5750",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_26": {
             "ammount": "0",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_27": {
             "ammount": "2250",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_28": {
             "ammount": "0",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_29": {
             "ammount": "1250",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_30": {
             "ammount": "0",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_31": {
             "ammount": "4250",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_32": {
             "ammount": "6940",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_33": {
             "ammount": "3000",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_34": {
             "ammount": "2350",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_35": {
             "ammount": "2480",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_36": {
             "ammount": "2350",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_37": {
             "ammount": "3250",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_38": {
             "ammount": "0",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_39": {
             "ammount": "3300",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "totalApt_40": {
             "ammount": "4050",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2550"
         },
         "year": "2018"
     },
@@ -6088,163 +6088,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_2": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_3": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_4": {
             "ammount": "900",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_5": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_6": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_7": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_8": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_9": {
             "ammount": "1350",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_10": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_11": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_12": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_13": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_14": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_15": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_16": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_17": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_18": {
             "ammount": "1200",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_19": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_20": {
             "ammount": "1800",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_21": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_22": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_23": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_24": {
             "ammount": "3300",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_25": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_26": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_27": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_28": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_29": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_30": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_31": {
             "ammount": "4725",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_32": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_33": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_34": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_35": {
             "ammount": "3300",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_36": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_37": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_38": {
             "ammount": "2800",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_39": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_40": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "year": "2019"
     },
@@ -8171,163 +8171,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_2": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_3": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_4": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_5": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_6": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_7": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_8": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_9": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_10": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_11": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_12": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_13": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_14": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_15": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_16": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_17": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_18": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_19": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_20": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_21": {
             "ammount": "3900",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_22": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_23": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_24": {
             "ammount": "2700",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_25": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_26": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_27": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_28": {
             "ammount": "900",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_29": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_30": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_31": {
             "ammount": "12900",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_32": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_33": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_34": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_35": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_36": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_37": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_38": {
             "ammount": "0",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_39": {
             "ammount": "3600",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "totalApt_40": {
             "ammount": "3900",
-            "expectedSoFar": "1800"
+            "expectedSoFar": "2100"
         },
         "year": "2020"
     },
@@ -10254,163 +10254,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_2": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_3": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_4": {
             "ammount": "900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_5": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_6": {
             "ammount": "3800",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_7": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_8": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_9": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_10": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_11": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_12": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_13": {
             "ammount": "3800",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_14": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_15": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_16": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_17": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_18": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_19": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_20": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_21": {
             "ammount": "4400",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_22": {
             "ammount": "2700",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_23": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_24": {
             "ammount": "3800",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_25": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_26": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_27": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_28": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_29": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_30": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_31": {
             "ammount": "1700",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_32": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_33": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_34": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_35": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_36": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_37": {
             "ammount": "3600",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_38": {
             "ammount": "0",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_39": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "totalApt_40": {
             "ammount": "3900",
-            "expectedSoFar": "2100"
+            "expectedSoFar": "2400"
         },
         "year": "2021"
     },
@@ -11296,7 +11296,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_21": {
-            "ammount": "450",
+            "ammount": "665",
             "method": "Transfer"
         },
         "month_6_apt_22": {
@@ -11532,8 +11532,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_8_apt_1": {
             "ammount": "",
@@ -12337,163 +12337,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "3750",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_2": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_3": {
             "ammount": "3850",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_4": {
             "ammount": "2550",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_5": {
             "ammount": "2700",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_6": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_7": {
             "ammount": "2250",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_8": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_9": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_10": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_11": {
             "ammount": "1650",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_12": {
             "ammount": "2250",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_13": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_14": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_15": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_16": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_17": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_18": {
             "ammount": "2070",
-            "expectedSoFar": "2070"
+            "expectedSoFar": "2550"
         },
         "totalApt_19": {
             "ammount": "1650",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_20": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_21": {
-            "ammount": "2660",
-            "expectedSoFar": "2660"
+            "ammount": "2875",
+            "expectedSoFar": "3175"
         },
         "totalApt_22": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_23": {
             "ammount": "1650",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_24": {
             "ammount": "3750",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_25": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_26": {
             "ammount": "3750",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_27": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_28": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_29": {
             "ammount": "2250",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_30": {
             "ammount": "3750",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_31": {
             "ammount": "2250",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_32": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_33": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_34": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_35": {
             "ammount": "1990",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_36": {
             "ammount": "2250",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_37": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_38": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_39": {
             "ammount": "1950",
-            "expectedSoFar": "1950"
+            "expectedSoFar": "2250"
         },
         "totalApt_40": {
-            "ammount": "1950",
-            "expectedSoFar": "1950"
+            "ammount": "2250",
+            "expectedSoFar": "2250"
         },
         "year": "2022"
     }
