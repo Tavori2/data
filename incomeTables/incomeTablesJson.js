@@ -12385,7 +12385,7 @@ var incomeTables = `[
         },
         "totalApt_13": {
             "ammount": "2250",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2255"
         },
         "totalApt_14": {
             "ammount": "1950",
@@ -12421,7 +12421,7 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "ammount": "1950",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2255"
         },
         "totalApt_23": {
             "ammount": "1650",
@@ -12433,7 +12433,7 @@ var incomeTables = `[
         },
         "totalApt_25": {
             "ammount": "1950",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2265"
         },
         "totalApt_26": {
             "ammount": "3750",
@@ -12445,7 +12445,7 @@ var incomeTables = `[
         },
         "totalApt_28": {
             "ammount": "1950",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2255"
         },
         "totalApt_29": {
             "ammount": "2250",
@@ -12493,7 +12493,7 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "ammount": "2250",
-            "expectedSoFar": "2250"
+            "expectedSoFar": "2265"
         },
         "year": "2022"
     }
