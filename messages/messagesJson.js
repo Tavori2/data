@@ -1,5 +1,9 @@
 var messagesJson = `[
 	{
+		"messageTime": "05.07.22",
+		"messageText": "נרשמנו לשירות SmartBee להוצאת קבלות דיגיטאליות"
+	},
+	{
 		"messageTime": "03.07.22",
 		"messageText": "קודדו כל הצ'יפים והחלה חלוקתם לדיירים"
 	},
