@@ -1,5 +1,6 @@
 .banner {
     border-radius: .4em;
+    max-width: 500px;
 }
 
 .bannerContainer {
