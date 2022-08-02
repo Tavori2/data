@@ -687,12 +687,12 @@ var fixedExpenses = `[
         "month_5_exp_8": "78",
         "month_6_exp_8": "43",
         "month_7_exp_8": "58",
-        "month_8_exp_8": "",
+        "month_8_exp_8": "45",
         "month_9_exp_8": "",
         "month_10_exp_8": "",
         "month_11_exp_8": "",
         "month_12_exp_8": "",
-        "totalExp_8": "348",
+        "totalExp_8": "393",
         "year": "2022"
     }
 ]`;
