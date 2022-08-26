@@ -11604,7 +11604,7 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_8_apt_18": {
-            "ammount": "180",
+            "ammount": "416",
             "method": "Transfer"
         },
         "month_8_apt_19": {
@@ -11612,11 +11612,11 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_20": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_8_apt_21": {
-            "ammount": "300",
+            "ammount": "632",
             "method": "Transfer"
         },
         "month_8_apt_22": {
@@ -11636,8 +11636,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_26": {
-            "ammount": "",
-            "method": ""
+            "ammount": "130",
+            "method": "Cash"
         },
         "month_8_apt_27": {
             "ammount": "300",
@@ -12404,20 +12404,20 @@ var incomeTables = `[
             "expectedSoFar": "2550"
         },
         "totalApt_18": {
-            "ammount": "2550",
-            "expectedSoFar": "2850"
+            "ammount": "2786",
+            "expectedSoFar": "3086"
         },
         "totalApt_19": {
             "ammount": "2250",
             "expectedSoFar": "2550"
         },
         "totalApt_20": {
-            "ammount": "2250",
+            "ammount": "2550",
             "expectedSoFar": "2550"
         },
         "totalApt_21": {
-            "ammount": "3475",
-            "expectedSoFar": "3475"
+            "ammount": "3807",
+            "expectedSoFar": "3807"
         },
         "totalApt_22": {
             "ammount": "2550",
@@ -12436,8 +12436,8 @@ var incomeTables = `[
             "expectedSoFar": "2565"
         },
         "totalApt_26": {
-            "ammount": "3750",
-            "expectedSoFar": "2550"
+            "ammount": "3880",
+            "expectedSoFar": "2680"
         },
         "totalApt_27": {
             "ammount": "2550",
