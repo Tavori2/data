@@ -24,6 +24,7 @@ waitUntilElementLoaded('#balance', 5000).then(function (element) {
 		populatedTemplate = populatedTemplate.replaceAll('{{account.branch}}',account.account.branch);
 		populatedTemplate = populatedTemplate.replaceAll('{{account.accountNum}}',account.account.accountNum);
 		populatedTemplate = populatedTemplate.replaceAll('{{account.branchAddress}}',account.account.branchAddress);
+		populatedTemplate = populatedTemplate.replaceAll('{{account.branchPhone}}',account.account.branchPhone);
 		
 
 		oshContainer.innerHTML = populatedTemplate;
