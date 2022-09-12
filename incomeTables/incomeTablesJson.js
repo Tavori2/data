@@ -11732,8 +11732,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_10": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_11": {
             "ammount": "",
@@ -11776,8 +11776,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_21": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_22": {
             "ammount": "",
@@ -11804,8 +11804,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_28": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_29": {
             "ammount": "",
@@ -11832,8 +11832,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_35": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_36": {
             "ammount": "350",
@@ -12372,7 +12372,7 @@ var incomeTables = `[
             "expectedSoFar": "2855"
         },
         "totalApt_10": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_11": {
@@ -12416,7 +12416,7 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_21": {
-            "ammount": "3807",
+            "ammount": "4107",
             "expectedSoFar": "4107"
         },
         "totalApt_22": {
@@ -12444,7 +12444,7 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_28": {
-            "ammount": "2555",
+            "ammount": "2855",
             "expectedSoFar": "2855"
         },
         "totalApt_29": {
@@ -12472,7 +12472,7 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_35": {
-            "ammount": "2590",
+            "ammount": "2890",
             "expectedSoFar": "2850"
         },
         "totalApt_36": {
