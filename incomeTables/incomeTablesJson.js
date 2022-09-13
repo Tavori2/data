@@ -11716,16 +11716,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_6": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_7": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_9_apt_8": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_9": {
             "ammount": "",
@@ -11736,8 +11736,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_11": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_12": {
             "ammount": "",
@@ -11748,20 +11748,20 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_9_apt_14": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_15": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_17": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_18": {
             "ammount": "",
@@ -11780,8 +11780,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_22": {
-            "ammount": "",
-            "method": ""
+            "ammount": "600",
+            "method": "Check"
         },
         "month_9_apt_23": {
             "ammount": "",
@@ -11800,8 +11800,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_28": {
             "ammount": "300",
@@ -11820,12 +11820,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_32": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_33": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_34": {
             "ammount": "",
@@ -11840,8 +11840,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_9_apt_37": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_38": {
             "ammount": "",
@@ -12356,15 +12356,15 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_6": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_7": {
-            "ammount": "2950",
+            "ammount": "3300",
             "expectedSoFar": "2850"
         },
         "totalApt_8": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_9": {
@@ -12376,7 +12376,7 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_11": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_12": {
@@ -12388,11 +12388,11 @@ var incomeTables = `[
             "expectedSoFar": "2855"
         },
         "totalApt_14": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_15": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_16": {
@@ -12400,7 +12400,7 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_17": {
-            "ammount": "2700",
+            "ammount": "3000",
             "expectedSoFar": "2850"
         },
         "totalApt_18": {
@@ -12420,7 +12420,7 @@ var incomeTables = `[
             "expectedSoFar": "4107"
         },
         "totalApt_22": {
-            "ammount": "2550",
+            "ammount": "3150",
             "expectedSoFar": "2855"
         },
         "totalApt_23": {
@@ -12440,7 +12440,7 @@ var incomeTables = `[
             "expectedSoFar": "2980"
         },
         "totalApt_27": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_28": {
@@ -12460,11 +12460,11 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_32": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_33": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_34": {
@@ -12480,7 +12480,7 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_37": {
-            "ammount": "2550",
+            "ammount": "2850",
             "expectedSoFar": "2850"
         },
         "totalApt_38": {
