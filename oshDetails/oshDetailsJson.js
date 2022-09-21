@@ -77,7 +77,7 @@
     "date": "18/08/2017",
     "credit": "200.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -473,7 +473,7 @@
     "date": "31/01/2018",
     "credit": "",
     "debit": "5.40",
-    "description": "עמלת פעולה ע"י פקיד (3 פעולות)",
+    "description": "עמלת פעולה ע`י פקיד (3 פעולות)",
     "remarks": " "
 },
 {
@@ -662,7 +662,7 @@
     "date": "28/02/2018",
     "credit": "",
     "debit": "3.60",
-    "description": "עמלת פעולה ע"י פקיד (2 פעולות)",
+    "description": "עמלת פעולה ע`י פקיד (2 פעולות)",
     "remarks": " "
 },
 {
@@ -752,7 +752,7 @@
     "date": "11/03/2018",
     "credit": "400.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -761,7 +761,7 @@
     "date": "11/03/2018",
     "credit": "900.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -968,7 +968,7 @@
     "date": "30/04/2018",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -1158,7 +1158,7 @@
     "credit": "",
     "debit": "1,320.33",
     "description": "משיכת שיק 1421224",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "מס ועד",
@@ -1211,7 +1211,7 @@
     "date": "30/05/2018",
     "credit": "400.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -1256,7 +1256,7 @@
     "date": "31/05/2018",
     "credit": "",
     "debit": "5.40",
-    "description": "עמלת פעולה ע"י פקיד (3 פעולות)",
+    "description": "עמלת פעולה ע`י פקיד (3 פעולות)",
     "remarks": " "
 },
 {
@@ -1347,7 +1347,7 @@
     "credit": "",
     "debit": "4,680.00",
     "description": "משיכת שיק 1421227",
-    "remarks": "טבע הדברות בע"מ "
+    "remarks": "טבע הדברות בע`מ "
 },
 {
     "category": "מס ועד",
@@ -1410,7 +1410,7 @@
     "credit": "",
     "debit": "1,325.60",
     "description": "משיכת שיק 1421229",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "מס ועד",
@@ -1482,7 +1482,7 @@
     "credit": "",
     "debit": "1,320.33",
     "description": "משיכת שיק 1421231",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "מס ועד",
@@ -1536,7 +1536,7 @@
     "credit": "",
     "debit": "4,680.00",
     "description": "משיכת שיק 1421228",
-    "remarks": "טבע הדברות בע"מ "
+    "remarks": "טבע הדברות בע`מ "
 },
 {
     "category": "מס ועד",
@@ -1571,7 +1571,7 @@
     "date": "23/07/2018",
     "credit": "250.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -1598,7 +1598,7 @@
     "date": "30/07/2018",
     "credit": "",
     "debit": "2,648.44",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -1734,7 +1734,7 @@
     "credit": "",
     "debit": "1,000.00",
     "description": "משיכת שיק 1421236",
-    "remarks": "קרוגר בע"מ - גנרטורים "
+    "remarks": "קרוגר בע`מ - גנרטורים "
 },
 {
     "category": "מס ועד",
@@ -1751,7 +1751,7 @@
     "date": "16/08/2018",
     "credit": "720.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -1814,7 +1814,7 @@
     "date": "28/08/2018",
     "credit": "",
     "debit": "2,666.99",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -1931,7 +1931,7 @@
     "date": "27/09/2018",
     "credit": "",
     "debit": "1,553.53",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -1940,7 +1940,7 @@
     "date": "27/09/2018",
     "credit": "",
     "debit": "2,666.99",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -2067,7 +2067,7 @@
     "credit": "",
     "debit": "877.50",
     "description": "משיכת שיק 1421245",
-    "remarks": "בדיקת מז"ח (מכשיר מונע זרימה חוזרת) "
+    "remarks": "בדיקת מז`ח (מכשיר מונע זרימה חוזרת) "
 },
 {
     "category": "מס ועד",
@@ -2084,7 +2084,7 @@
     "date": "29/10/2018",
     "credit": "",
     "debit": "2,438.19",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -2192,7 +2192,7 @@
     "date": "28/11/2018",
     "credit": "",
     "debit": "2,591.60",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -2219,7 +2219,7 @@
     "date": "10/12/2018",
     "credit": "",
     "debit": "2,591.60",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -2354,7 +2354,7 @@
     "date": "30/12/2018",
     "credit": "",
     "debit": "3,639.64",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -2426,7 +2426,7 @@
     "date": "06/01/2019",
     "credit": "",
     "debit": "3,639.64",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -2444,7 +2444,7 @@
     "date": "06/01/2019",
     "credit": "225.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -2553,7 +2553,7 @@
     "credit": "",
     "debit": "2,601.80",
     "description": "משיכת שיק 1495708",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "חשמל",
@@ -2579,7 +2579,7 @@
     "date": "31/01/2019",
     "credit": "",
     "debit": "3.60",
-    "description": "עמלת פעולה ע"י פקיד (2 פעולות)",
+    "description": "עמלת פעולה ע`י פקיד (2 פעולות)",
     "remarks": " "
 },
 {
@@ -2634,7 +2634,7 @@
     "credit": "",
     "debit": "2,601.80",
     "description": "משיכת שיק 1495713",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "גנרטור",
@@ -2643,7 +2643,7 @@
     "credit": "",
     "debit": "620.00",
     "description": "משיכת שיק 1495710",
-    "remarks": "מ. בר תחזוקה בע"מ "
+    "remarks": "מ. בר תחזוקה בע`מ "
 },
 {
     "category": "בזק",
@@ -2661,7 +2661,7 @@
     "credit": "",
     "debit": "1,287.00",
     "description": "משיכת שיק 1495712",
-    "remarks": "טל אנטנה בע"מ "
+    "remarks": "טל אנטנה בע`מ "
 },
 {
     "category": "מס ועד",
@@ -2787,7 +2787,7 @@
     "credit": "",
     "debit": "2,601.80",
     "description": "משיכת שיק 1495718",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "עמלות",
@@ -2904,7 +2904,7 @@
     "credit": "",
     "debit": "2,601.80",
     "description": "משיכת שיק 1495723",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "עמלות",
@@ -2976,7 +2976,7 @@
     "credit": "",
     "debit": "2,601.80",
     "description": "משיכת שיק 1495725",
-    "remarks": "קונה בע"מ "
+    "remarks": "קונה בע`מ "
 },
 {
     "category": "בזק",
@@ -3056,7 +3056,7 @@
     "date": "05/06/2019",
     "credit": "",
     "debit": "2,607.42",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -3129,7 +3129,7 @@
     "credit": "",
     "debit": "1,018.00",
     "description": "משיכת שיק 1495726",
-    "remarks": "פסי האטה (שרפים מערכות מיגון בע"מ) "
+    "remarks": "פסי האטה (שרפים מערכות מיגון בע`מ) "
 },
 {
     "category": "מעליות",
@@ -3245,7 +3245,7 @@
     "date": "10/07/2019",
     "credit": "",
     "debit": "2,625.57",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -3344,7 +3344,7 @@
     "date": "05/08/2019",
     "credit": "",
     "debit": "2,625.57",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -3416,7 +3416,7 @@
     "date": "30/08/2019",
     "credit": "",
     "debit": "1.80",
-    "description": "עמלת פעולה ע"י פקיד (1 פעולות)",
+    "description": "עמלת פעולה ע`י פקיד (1 פעולות)",
     "remarks": " "
 },
 {
@@ -3497,7 +3497,7 @@
     "date": "05/09/2019",
     "credit": "",
     "debit": "2,625.57",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -3605,7 +3605,7 @@
     "date": "10/10/2019",
     "credit": "",
     "debit": "2,625.57",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -3704,7 +3704,7 @@
     "date": "05/11/2019",
     "credit": "",
     "debit": "2,625.57",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -3741,7 +3741,7 @@
     "credit": "",
     "debit": "1,224.00",
     "description": "משיכת שיק 1495748",
-    "remarks": "קרוגר בע"מ - גנרטורים "
+    "remarks": "קרוגר בע`מ - גנרטורים "
 },
 {
     "category": "בזק",
@@ -3803,7 +3803,7 @@
     "date": "05/12/2019",
     "credit": "",
     "debit": "2,993.96",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -3965,7 +3965,7 @@
     "date": "10/01/2020",
     "credit": "",
     "debit": "3,005.94",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -4019,7 +4019,7 @@
     "date": "17/01/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4109,7 +4109,7 @@
     "date": "10/02/2020",
     "credit": "",
     "debit": "3,005.94",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -4127,7 +4127,7 @@
     "date": "10/02/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4244,7 +4244,7 @@
     "date": "11/03/2020",
     "credit": "",
     "debit": "3,005.94",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -4253,7 +4253,7 @@
     "date": "11/03/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4262,7 +4262,7 @@
     "date": "13/03/2020",
     "credit": "900.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4370,7 +4370,7 @@
     "date": "10/04/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4406,7 +4406,7 @@
     "date": "16/04/2020",
     "credit": "",
     "debit": "3,005.94",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -4496,7 +4496,7 @@
     "date": "04/05/2020",
     "credit": "900.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4550,7 +4550,7 @@
     "date": "10/05/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4568,7 +4568,7 @@
     "date": "15/05/2020",
     "credit": "",
     "debit": "3,005.94",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -4640,7 +4640,7 @@
     "date": "05/06/2020",
     "credit": "",
     "debit": "3,005.94",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -4703,7 +4703,7 @@
     "date": "10/06/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4865,7 +4865,7 @@
     "date": "10/07/2020",
     "credit": "",
     "debit": "2,737.66",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -4874,7 +4874,7 @@
     "date": "10/07/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -4973,7 +4973,7 @@
     "date": "31/07/2020",
     "credit": "",
     "debit": "1.80",
-    "description": "עמלת פעולה ע"י פקיד (1 פעולות)",
+    "description": "עמלת פעולה ע`י פקיד (1 פעולות)",
     "remarks": " "
 },
 {
@@ -5063,7 +5063,7 @@
     "date": "10/08/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -5117,7 +5117,7 @@
     "date": "16/08/2020",
     "credit": "",
     "debit": "2,737.66",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -5198,7 +5198,7 @@
     "date": "04/09/2020",
     "credit": "12,000.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -5208,7 +5208,7 @@
     "credit": "",
     "debit": "1,404.00",
     "description": "משיכת שיק 1628558",
-    "remarks": "טל אנטנה בע"מ "
+    "remarks": "טל אנטנה בע`מ "
 },
 {
     "category": "מס ועד",
@@ -5243,7 +5243,7 @@
     "date": "10/09/2020",
     "credit": "",
     "debit": "2,737.66",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -5252,7 +5252,7 @@
     "date": "10/09/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -5396,7 +5396,7 @@
     "date": "11/10/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -5441,7 +5441,7 @@
     "date": "15/10/2020",
     "credit": "",
     "debit": "2,737.66",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -5531,7 +5531,7 @@
     "date": "05/11/2020",
     "credit": "",
     "debit": "2,737.66",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -5576,7 +5576,7 @@
     "date": "10/11/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -5738,7 +5738,7 @@
     "date": "10/12/2020",
     "credit": "",
     "debit": "2,737.66",
-    "description": "קונה בע"מ",
+    "description": "קונה בע`מ",
     "remarks": " "
 },
 {
@@ -5765,7 +5765,7 @@
     "date": "10/12/2020",
     "credit": "300.00",
     "debit": "",
-    "description": "זיכוי מבל"ל",
+    "description": "זיכוי מבל`ל",
     "remarks": " "
 },
 {
@@ -6495,7 +6495,7 @@
     "credit": " ",
     "debit": "1,200.00",
     "description": "1685837 משיכת שיק",
-    "remarks": "מ. בר תחזוקה בע"מ C:\Users\shaybc\Documents\ועד 2022\היסטוריה\צקים\נמשכו מהחשבון\תצלומים\2021\04\1685837.pdf"
+    "remarks": "מ. בר תחזוקה בע`מ C:\Users\shaybc\Documents\ועד 2022\היסטוריה\צקים\נמשכו מהחשבון\תצלומים\2021\04\1685837.pdf"
 },
 {
     "category": "מס ועד",
@@ -8889,7 +8889,7 @@
     "credit": " ",
     "debit": "995.00",
     "description": "1771302 משיכת שיק",
-    "remarks": "טל אנטנה בע"מ C:\Users\shaybc\Documents\ועד 2022\היסטוריה\צקים\נמשכו מהחשבון\תצלומים\2022\1771302.pdf"
+    "remarks": "טל אנטנה בע`מ C:\Users\shaybc\Documents\ועד 2022\היסטוריה\צקים\נמשכו מהחשבון\תצלומים\2022\1771302.pdf"
 },
 {
     "category": "מס ועד",
