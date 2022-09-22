@@ -34,7 +34,11 @@ waitUntilElementLoaded('#oshDetails-row-template', 5000).then(function (element)
 });
 
 
-function filterFunction() {
+function myFunction() {
+	document.getElementById("myDropdown").classList.toggle("show");
+  }
+  
+  function filterFunction() {
 	var input, filter, ul, li, a, i;
 	input = document.getElementById("myInput");
 	filter = input.value.toUpperCase();
@@ -49,7 +53,7 @@ function filterFunction() {
 	  }
 	}
   }
-  
+	
 
 function filterByCategory() {
 	// Declare variables
