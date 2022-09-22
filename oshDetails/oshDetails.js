@@ -40,6 +40,9 @@ function filterByCategory(filter) {
 		}
 	  }
 	}
+
+	// close the filter dropdown
+	myFunction();
   }
 
 
