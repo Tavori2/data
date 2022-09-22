@@ -131,11 +131,14 @@ h1 {
 
 
 .dropbtn {
+  background-color: #46637f;
+  color: yellow;
   cursor: pointer;
 }
 
 .dropbtn:hover, .dropbtn:focus {
-  background-color: #3e8e41;
+  background-color: yellow;
+  color: #46637f;
 }
 
 #myInput {
