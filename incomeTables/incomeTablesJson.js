@@ -11816,8 +11816,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_32": {
             "ammount": "300",
@@ -12456,7 +12456,7 @@ var incomeTables = `[
             "expectedSoFar": "2850"
         },
         "totalApt_31": {
-            "ammount": "2850",
+            "ammount": "3150",
             "expectedSoFar": "2850"
         },
         "totalApt_32": {
