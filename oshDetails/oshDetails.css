@@ -134,6 +134,7 @@ h1 {
   background-color: #46637f;
   color: yellow;
   cursor: pointer;
+  border: none;
 }
 
 .dropbtn:hover, .dropbtn:focus {
