@@ -13,9 +13,23 @@
 </head>
 
 <body class="oshDetails-body">
-    <table class="rwd-table">
+    <table class="rwd-table" id="oshDetails-table">
         <tr class="header-row">
-            <th>קטגוריה</th>
+            <th>
+                <div class="dropdown">
+                    <span onclick="myFunction()">קטגוריה</span>
+                    <div id="myDropdown" class="dropdown-content">
+                      <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+                      <a href="#about">About</a>
+                      <a href="#base">Base</a>
+                      <a href="#blog">Blog</a>
+                      <a href="#contact">Contact</a>
+                      <a href="#custom">Custom</a>
+                      <a href="#support">Support</a>
+                      <a href="#tools">Tools</a>
+                    </div>
+                  </div>
+            </th>
             <th>יתרה</th>
             <th>תאריך</th>
             <th>זכות</th>
