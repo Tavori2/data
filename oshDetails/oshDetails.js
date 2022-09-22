@@ -1,6 +1,5 @@
 
-function myFunction() {
-	console.log("Show/Hide Category dropdown");
+function showHideCategoryFilter() {
 	document.getElementById("myDropdown").classList.toggle("show");
 }
   
@@ -42,7 +41,23 @@ function filterByCategory(filter) {
 	}
 
 	// close the filter dropdown
-	myFunction();
+	showHideCategoryFilter();
+  }
+
+  function clearCategoryFilter() {
+	// Declare variables
+	var input, filter, table, tr, td, i, txtValue;
+
+	table = document.getElementById("oshDetails-table");
+	tr = table.getElementsByTagName("tr");
+  
+	// Loop through all table rows, and hide those who don't match the search query
+	for (i = 0; i < tr.length; i++) {
+		tr[i].style.display = "";
+	}
+
+	// close the filter dropdown
+	showHideCategoryFilter();
   }
 
 
