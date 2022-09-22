@@ -32,3 +32,45 @@ waitUntilElementLoaded('#oshDetails-row-template', 5000).then(function (element)
 	// element not found within 5000 milliseconds
 	console.log("Failed to find #row-template for 5 sec");
 });
+
+
+function filterFunction() {
+	var input, filter, ul, li, a, i;
+	input = document.getElementById("myInput");
+	filter = input.value.toUpperCase();
+	div = document.getElementById("myDropdown");
+	a = div.getElementsByTagName("a");
+	for (i = 0; i < a.length; i++) {
+	  txtValue = a[i].textContent || a[i].innerText;
+	  if (txtValue.toUpperCase().indexOf(filter) > -1) {
+		a[i].style.display = "";
+	  } else {
+		a[i].style.display = "none";
+	  }
+	}
+  }
+  
+
+function filterByCategory() {
+	// Declare variables
+	var input, filter, table, tr, td, i, txtValue;
+
+	categoryDropdown = document.getElementById("categoryDropdown");
+	filter = categoryDropdown.value.toUpperCase();
+
+	table = document.getElementById("oshDetails-table");
+	tr = table.getElementsByTagName("tr");
+  
+	// Loop through all table rows, and hide those who don't match the search query
+	for (i = 0; i < tr.length; i++) {
+	  td = tr[i].getElementsByTagName("td")[0];
+	  if (td) {
+		txtValue = td.textContent || td.innerText;
+		if (txtValue.toUpperCase().indexOf(filter) > -1) {
+		  tr[i].style.display = "";
+		} else {
+		  tr[i].style.display = "none";
+		}
+	  }
+	}
+  }
