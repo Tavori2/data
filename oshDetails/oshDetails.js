@@ -1,5 +1,6 @@
 
 function myFunction() {
+	console.log("Show/Hide Category dropdown");
 	document.getElementById("myDropdown").classList.toggle("show");
 }
   
