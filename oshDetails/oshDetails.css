@@ -83,6 +83,7 @@ h1 {
   color: #fff;
   border-radius: .4em;
   overflow: hidden;
+  padding-bottom: 35px;
 }
 
 .rwd-table tr {
@@ -98,7 +99,7 @@ h1 {
 
   .rwd-table th,
   .rwd-table td {
-    padding: 1em !important;
+    padding: 7px !important;
   }
 }
 
