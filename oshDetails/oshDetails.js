@@ -1,44 +1,9 @@
-waitUntilElementLoaded('#oshDetails-row-template', 5000).then(function (element) {
-	// element found and available
-	let template = document.getElementById('oshDetails-row-template').innerHTML;
-	let container = document.querySelector('.containerTable');
-
-	try {
-		// decrypt the json and parse it
-		var decrypted = CryptoJS.AES.decrypt(oshDetails, encSecret);
-		let decryptedUTF8 = decrypted.toString(CryptoJS.enc.Utf8);
-		
-		console.log("element found and available");
-		let data = JSON.parse(decryptedUTF8);
-		data.forEach(entry => {
-			let jParsed = template;
-			for (attr in entry) {
-				jParsed = jParsed.replaceAll('{{' + attr + '}}', entry[attr]);
-			}
-
-			let newRow =  document.createElement('tr');
-			newRow.innerHTML = jParsed;
-			container.appendChild(newRow);
-		});
-	}
-	catch (err) {
-		// error occurred
-		console.log("Failed to create oshDetails row due to: " + err);
-	}
-
-	// scroll page to the end to show the latest transaction
-	window.scrollTo(0, document.body.scrollHeight);
-}).catch(function () {
-	// element not found within 5000 milliseconds
-	console.log("Failed to find #row-template for 5 sec");
-});
-
 
 function myFunction() {
 	document.getElementById("myDropdown").classList.toggle("show");
-  }
+}
   
-  function filterFunction() {
+function filterFunction() {
 	var input, filter, ul, li, a, i;
 	input = document.getElementById("myInput");
 	filter = input.value.toUpperCase();
@@ -78,3 +43,40 @@ function filterByCategory() {
 	  }
 	}
   }
+
+
+  waitUntilElementLoaded('#oshDetails-row-template', 5000).then(function (element) {
+	// element found and available
+	let template = document.getElementById('oshDetails-row-template').innerHTML;
+	let container = document.querySelector('.containerTable');
+
+	try {
+		// decrypt the json and parse it
+		var decrypted = CryptoJS.AES.decrypt(oshDetails, encSecret);
+		let decryptedUTF8 = decrypted.toString(CryptoJS.enc.Utf8);
+		
+		console.log("element found and available");
+		let data = JSON.parse(decryptedUTF8);
+		data.forEach(entry => {
+			let jParsed = template;
+			for (attr in entry) {
+				jParsed = jParsed.replaceAll('{{' + attr + '}}', entry[attr]);
+			}
+
+			let newRow =  document.createElement('tr');
+			newRow.innerHTML = jParsed;
+			container.appendChild(newRow);
+		});
+	}
+	catch (err) {
+		// error occurred
+		console.log("Failed to create oshDetails row due to: " + err);
+	}
+
+	// scroll page to the end to show the latest transaction
+	window.scrollTo(0, document.body.scrollHeight);
+}).catch(function () {
+	// element not found within 5000 milliseconds
+	console.log("Failed to find #row-template for 5 sec");
+});
+
