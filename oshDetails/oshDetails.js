@@ -25,6 +25,9 @@ waitUntilElementLoaded('#oshDetails-row-template', 5000).then(function (element)
 		// error occurred
 		console.log("Failed to create oshDetails row due to: " + err);
 	}
+
+	// scroll page to the end to show the latest transaction
+	window.scrollTo(0, document.body.scrollHeight);
 }).catch(function () {
 	// element not found within 5000 milliseconds
 	console.log("Failed to find #row-template for 5 sec");
