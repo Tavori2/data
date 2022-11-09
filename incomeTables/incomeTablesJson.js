@@ -12405,7 +12405,7 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "ammount": "3904",
-            "expectedSoFar": "4204"
+            "expectedSoFar": "4391"
         },
         "totalApt_19": {
             "ammount": "2850",
