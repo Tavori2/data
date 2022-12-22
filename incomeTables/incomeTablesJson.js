@@ -11284,7 +11284,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_18": {
-            "ammount": "420",
+            "ammount": "421",
             "method": "Cash"
         },
         "month_6_apt_19": {
@@ -12404,7 +12404,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_18": {
-            "ammount": "4910",
+            "ammount": "4911",
             "expectedSoFar": "5161"
         },
         "totalApt_19": {
