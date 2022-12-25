@@ -12224,7 +12224,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_13": {
-            "ammount": "300",
+            "ammount": "550",
             "method": "Check"
         },
         "month_12_apt_14": {
@@ -12256,7 +12256,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_21": {
-            "ammount": "508",
+            "ammount": "758",
             "method": "Transfer"
         },
         "month_12_apt_22": {
@@ -12264,7 +12264,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_23": {
-            "ammount": "300",
+            "ammount": "550",
             "method": "Transfer"
         },
         "month_12_apt_24": {
@@ -12284,7 +12284,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_12_apt_28": {
-            "ammount": "300",
+            "ammount": "650",
             "method": "Transfer"
         },
         "month_12_apt_29": {
@@ -12304,8 +12304,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_12_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "550",
+            "method": "Cash"
         },
         "month_12_apt_34": {
             "ammount": "",
@@ -12320,7 +12320,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_12_apt_37": {
-            "ammount": "300",
+            "ammount": "550",
             "method": "Check"
         },
         "month_12_apt_38": {
@@ -12332,7 +12332,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_40": {
-            "ammount": "300",
+            "ammount": "550",
             "method": "Transfer"
         },
         "totalApt_1": {
@@ -12384,7 +12384,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_13": {
-            "ammount": "3750",
+            "ammount": "4000",
             "expectedSoFar": "4005"
         },
         "totalApt_14": {
@@ -12416,7 +12416,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_21": {
-            "ammount": "5573",
+            "ammount": "5823",
             "expectedSoFar": "5823"
         },
         "totalApt_22": {
@@ -12424,7 +12424,7 @@ var incomeTables = `[
             "expectedSoFar": "4005"
         },
         "totalApt_23": {
-            "ammount": "3750",
+            "ammount": "4000",
             "expectedSoFar": "4000"
         },
         "totalApt_24": {
@@ -12444,7 +12444,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_28": {
-            "ammount": "3755",
+            "ammount": "4105",
             "expectedSoFar": "4005"
         },
         "totalApt_29": {
@@ -12464,7 +12464,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_33": {
-            "ammount": "3750",
+            "ammount": "4000",
             "expectedSoFar": "4000"
         },
         "totalApt_34": {
@@ -12480,7 +12480,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_37": {
-            "ammount": "3750",
+            "ammount": "4000",
             "expectedSoFar": "4000"
         },
         "totalApt_38": {
@@ -12492,7 +12492,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_40": {
-            "ammount": "3765",
+            "ammount": "4015",
             "expectedSoFar": "4015"
         },
         "year": "2022"
