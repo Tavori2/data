@@ -12200,16 +12200,16 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_12_apt_7": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Cash"
         },
         "month_12_apt_8": {
-            "ammount": "300",
+            "ammount": "550",
             "method": "Check"
         },
         "month_12_apt_9": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Transfer"
         },
         "month_12_apt_10": {
             "ammount": "300",
@@ -12240,7 +12240,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "300",
+            "ammount": "550",
             "method": "Check"
         },
         "month_12_apt_18": {
@@ -12328,7 +12328,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_39": {
-            "ammount": "550",
+            "ammount": "800",
             "method": "Transfer"
         },
         "month_12_apt_40": {
@@ -12360,20 +12360,20 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_7": {
-            "ammount": "3650",
+            "ammount": "4000",
             "expectedSoFar": "4000"
         },
         "totalApt_8": {
-            "ammount": "3750",
+            "ammount": "4000",
             "expectedSoFar": "4000"
         },
         "totalApt_9": {
-            "ammount": "3755",
+            "ammount": "4255",
             "expectedSoFar": "4005"
         },
         "totalApt_10": {
             "ammount": "3750",
-            "expectedSoFar": "4000"
+            "expectedSoFar": "3750"
         },
         "totalApt_11": {
             "ammount": "3750",
@@ -12400,7 +12400,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_17": {
-            "ammount": "3900",
+            "ammount": "4150",
             "expectedSoFar": "4000"
         },
         "totalApt_18": {
@@ -12488,8 +12488,8 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_39": {
-            "ammount": "4000",
-            "expectedSoFar": "4000"
+            "ammount": "4250",
+            "expectedSoFar": "4250"
         },
         "totalApt_40": {
             "ammount": "4015",
