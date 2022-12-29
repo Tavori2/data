@@ -2220,8 +2220,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_35": {
-            "ammount": "",
-            "method": ""
+            "ammount": "900",
+            "method": "Check"
         },
         "month_1_apt_36": {
             "ammount": "",
@@ -4140,7 +4140,7 @@ var incomeTables = `[
             "expectedSoFar": "3450"
         },
         "totalApt_35": {
-            "ammount": "2480",
+            "ammount": "3380",
             "expectedSoFar": "3450"
         },
         "totalApt_36": {
@@ -12312,7 +12312,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_35": {
-            "ammount": "260",
+            "ammount": "510",
             "method": "Transfer"
         },
         "month_12_apt_36": {
@@ -12472,7 +12472,7 @@ var incomeTables = `[
             "expectedSoFar": "4000"
         },
         "totalApt_35": {
-            "ammount": "3750",
+            "ammount": "4000",
             "expectedSoFar": "4000"
         },
         "totalApt_36": {
