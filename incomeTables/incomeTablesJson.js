@@ -10516,7 +10516,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_26": {
-            "ammount": "3600",
+            "ammount": "3435",
             "method": "Cash"
         },
         "month_1_apt_27": {
@@ -12436,7 +12436,7 @@ var incomeTables = `[
             "expectedSoFar": "4015"
         },
         "totalApt_26": {
-            "ammount": "3880",
+            "ammount": "3715",
             "expectedSoFar": "4000"
         },
         "totalApt_27": {
