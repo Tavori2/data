@@ -10436,7 +10436,7 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_1_apt_6": {
-            "ammount": "550",
+            "ammount": "300",
             "method": "Check"
         },
         "month_1_apt_7": {
@@ -10572,7 +10572,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_40": {
-            "ammount": "600",
+            "ammount": "300",
             "method": "Transfer"
         },
         "month_2_apt_1": {
@@ -12356,7 +12356,7 @@ var incomeTables = `[
             "expectedSoFar": "700"
         },
         "totalApt_6": {
-            "ammount": "4000",
+            "ammount": "3750",
             "expectedSoFar": "700"
         },
         "totalApt_7": {
@@ -12492,7 +12492,7 @@ var incomeTables = `[
             "expectedSoFar": "700"
         },
         "totalApt_40": {
-            "ammount": "4315",
+            "ammount": "4015",
             "expectedSoFar": "700"
         },
         "year": "2022"
@@ -12519,8 +12519,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_6": {
-            "ammount": "",
-            "method": ""
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_1_apt_7": {
             "ammount": "",
@@ -12655,8 +12655,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_2_apt_1": {
             "ammount": "",
@@ -14439,7 +14439,7 @@ var incomeTables = `[
             "expectedSoFar": "0"
         },
         "totalApt_6": {
-            "ammount": "0",
+            "ammount": "250",
             "expectedSoFar": "0"
         },
         "totalApt_7": {
@@ -14575,7 +14575,7 @@ var incomeTables = `[
             "expectedSoFar": "0"
         },
         "totalApt_40": {
-            "ammount": "0",
+            "ammount": "300",
             "expectedSoFar": "0"
         },
         "year": "2023"
