@@ -64,7 +64,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				var aptName = entry['totalApt_' + apartmentCounter].aptName;
 				var diff = parseInt(remainToPay);
 				var diffClass = "extraPayments"; 
-				if(diff < 0)
+				if(diff < 0) 
 				{
 					diffClass = "missingPayments";
 					rowTemplate = rowTemplate.replaceAll('{{title13}}', "צריכים לשלם עוד: " + diff); // how much is missing
