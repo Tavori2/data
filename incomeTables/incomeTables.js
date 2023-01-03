@@ -62,7 +62,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				var payedSoFar = entry['totalApt_' + apartmentCounter].ammount;
 				var remainToPay = entry['totalApt_' + apartmentCounter].remainToPay;
 				var diff = parseInt(remainToPay);
-				var diffClass = "extraPayments";
+				var diffClass = "extraPayments"; 
 				if(diff < 0)
 				{
 					diffClass = "missingPayments";
