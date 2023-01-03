@@ -12337,163 +12337,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_2": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_3": {
             "ammount": "4285",
-            "remainToPay": ""
+            "remainToPay": "285"
         },
         "totalApt_4": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_5": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_6": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_7": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_8": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_9": {
             "ammount": "4255",
-            "remainToPay": ""
+            "remainToPay": "250"
         },
         "totalApt_10": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_11": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_12": {
             "ammount": "4900",
-            "remainToPay": ""
+            "remainToPay": "900"
         },
         "totalApt_13": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "-5"
         },
         "totalApt_14": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_15": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_16": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_17": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_18": {
             "ammount": "4911",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_19": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_20": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_21": {
             "ammount": "5823",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_22": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "-5"
         },
         "totalApt_23": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_24": {
             "ammount": "4010",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_25": {
             "ammount": "4015",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_26": {
             "ammount": "3880",
-            "remainToPay": ""
+            "remainToPay": "-120"
         },
         "totalApt_27": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_28": {
             "ammount": "4105",
-            "remainToPay": ""
+            "remainToPay": "100"
         },
         "totalApt_29": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_30": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_31": {
             "ammount": "4300",
-            "remainToPay": ""
+            "remainToPay": "300"
         },
         "totalApt_32": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_33": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_34": {
             "ammount": "3750",
-            "remainToPay": ""
+            "remainToPay": "-250"
         },
         "totalApt_35": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_36": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_37": {
             "ammount": "4000",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_38": {
             "ammount": "3950",
-            "remainToPay": ""
+            "remainToPay": "-50"
         },
         "totalApt_39": {
             "ammount": "4250",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_40": {
             "ammount": "4015",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "year": "2022"
     },
@@ -14420,163 +14420,163 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_2": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_3": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-15"
         },
         "totalApt_4": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_5": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_6": {
             "ammount": "250",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_7": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_8": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_9": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-60"
         },
         "totalApt_10": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_11": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_12": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "600"
         },
         "totalApt_13": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-305"
         },
         "totalApt_14": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_15": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_16": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_17": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_18": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_19": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_20": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_21": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_22": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-305"
         },
         "totalApt_23": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_24": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_25": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_26": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-420"
         },
         "totalApt_27": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_28": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-200"
         },
         "totalApt_29": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_30": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_31": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "totalApt_32": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_33": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_34": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-550"
         },
         "totalApt_35": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_36": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_37": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_38": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-350"
         },
         "totalApt_39": {
             "ammount": "0",
-            "remainToPay": ""
+            "remainToPay": "-300"
         },
         "totalApt_40": {
             "ammount": "300",
-            "remainToPay": ""
+            "remainToPay": "0"
         },
         "year": "2023"
     }
