@@ -61,6 +61,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				// add total per appartment entry totalApt_37
 				var payedSoFar = entry['totalApt_' + apartmentCounter].ammount;
 				var remainToPay = entry['totalApt_' + apartmentCounter].remainToPay;
+				var aptName = entry['totalApt_' + apartmentCounter].aptName;
 				var diff = parseInt(remainToPay);
 				var diffClass = "extraPayments"; 
 				if(diff < 0)
@@ -76,6 +77,9 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 				{
 					rowTemplate = rowTemplate.replaceAll('{{title13}}', "הכל שולם עד לחודש זה"); // payed exactly
 				}
+
+				rowTemplate = rowTemplate.replaceAll('{{aptName}}', aptName); // apartment name
+				
 
 				rowTemplate = rowTemplate.replaceAll('{{contentClass13}}', diffClass); // red or green or white
 				rowTemplate = rowTemplate.replaceAll('{{month_13_apt_x}}', payedSoFar); // total payed so far
