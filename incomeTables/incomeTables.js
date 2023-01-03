@@ -10,7 +10,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			let newOption = document.createElement('option');
 			newOption.value = entry.year;
 			newOption.textContent = entry.year;
-			if(entry.year == "2022") newOption.selected = true;
+			if(entry.year == "2023") newOption.selected = true;
 			yearSelector.appendChild(newOption);
 
 			// get the year table template
@@ -21,7 +21,7 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 			newTable.id = "incomeTable" + entry.year;
 			newTable.className = "incomeTableYear";
 			newTable.style.display = "none";
-			if(entry.year == "2022") newTable.style.display = "block";
+			if(entry.year == "2023") newTable.style.display = "block";
 			newTable.innerHTML = yearTemplate;
 			container.appendChild(newTable);
 			
