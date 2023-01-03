@@ -60,8 +60,8 @@ waitUntilElementLoaded('#incomeTables-template', 5000).then(function (element) {
 
 				// add total per appartment entry totalApt_37
 				var payedSoFar = entry['totalApt_' + apartmentCounter].ammount;
-				var expectedSoFar = entry['totalApt_' + apartmentCounter].expectedSoFar;
-				var diff = parseInt(payedSoFar) - parseInt(expectedSoFar);
+				var remainToPay = entry['totalApt_' + apartmentCounter].remainToPay;
+				var diff = parseInt(remainToPay);
 				var diffClass = "extraPayments";
 				if(diff < 0)
 				{
