@@ -12751,8 +12751,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_4": {
-            "ammount": "",
-            "method": ""
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_1_apt_5": {
             "ammount": "",
@@ -12775,8 +12775,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_10": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_1_apt_11": {
             "ammount": "",
@@ -12799,8 +12799,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_16": {
-            "ammount": "",
-            "method": ""
+            "ammount": "2050",
+            "method": "Transfer"
         },
         "month_1_apt_17": {
             "ammount": "",
@@ -12895,7 +12895,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_40": {
-            "ammount": "300",
+            "ammount": "550",
             "method": "Transfer"
         },
         "month_2_apt_1": {
@@ -14675,8 +14675,8 @@ var incomeTables = `[
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
-            "ammount": "0",
-            "remainToPay": "-550"
+            "ammount": "250",
+            "remainToPay": "-300"
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
@@ -14705,8 +14705,8 @@ var incomeTables = `[
         },
         "totalApt_10": {
             "aptName": "לירון ותומר אברמוביץ'",
-            "ammount": "0",
-            "remainToPay": "-300"
+            "ammount": "300",
+            "remainToPay": "0"
         },
         "totalApt_11": {
             "aptName": "אלה ויקטור יעקובנקו",
@@ -14735,8 +14735,8 @@ var incomeTables = `[
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
-            "ammount": "0",
-            "remainToPay": "-550"
+            "ammount": "2050",
+            "remainToPay": "1500"
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
@@ -14855,8 +14855,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "300",
-            "remainToPay": "0"
+            "ammount": "550",
+            "remainToPay": "250"
         },
         "year": "2023"
     }
