@@ -14801,7 +14801,7 @@ var incomeTables = `[
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
             "ammount": "0",
-            "remainToPay": "-550"
+            "remainToPay": "-300"
         },
         "totalApt_30": {
             "aptName": "בורוך קאיליאקוב",
@@ -14856,7 +14856,7 @@ var incomeTables = `[
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
             "ammount": "550",
-            "remainToPay": "250"
+            "remainToPay": "0"
         },
         "year": "2023"
     }
