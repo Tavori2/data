@@ -12847,8 +12847,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_28": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_1_apt_29": {
             "ammount": "",
@@ -12891,8 +12891,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_39": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_1_apt_40": {
             "ammount": "550",
@@ -14795,8 +14795,8 @@ var incomeTables = `[
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
-            "ammount": "0",
-            "remainToPay": "-200"
+            "ammount": "300",
+            "remainToPay": "100"
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
@@ -14850,8 +14850,8 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "0",
-            "remainToPay": "-300"
+            "ammount": "300",
+            "remainToPay": "0"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
