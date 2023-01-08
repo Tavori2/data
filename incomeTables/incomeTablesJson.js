@@ -12855,8 +12855,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_30": {
-            "ammount": "",
-            "method": ""
+            "ammount": "3400",
+            "method": "Cash"
         },
         "month_1_apt_31": {
             "ammount": "",
@@ -14805,8 +14805,8 @@ var incomeTables = `[
         },
         "totalApt_30": {
             "aptName": "בורוך קאיליאקוב",
-            "ammount": "0",
-            "remainToPay": "-550"
+            "ammount": "3400",
+            "remainToPay": "2850"
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
