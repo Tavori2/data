@@ -2066,7 +2066,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_30": {
-            "aptName": "בורוך קאיליאקוב",
+            "aptName": "ברוך קאיליאקוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -4189,7 +4189,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_30": {
-            "aptName": "בורוך קאיליאקוב",
+            "aptName": "ברוך קאיליאקוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -6312,7 +6312,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_30": {
-            "aptName": "בורוך קאיליאקוב",
+            "aptName": "ברוך קאיליאקוב",
             "ammount": "3750",
             "remainToPay": ""
         },
@@ -8435,7 +8435,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_30": {
-            "aptName": "בורוך קאיליאקוב",
+            "aptName": "ברוך קאיליאקוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -10558,7 +10558,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_30": {
-            "aptName": "בורוך קאיליאקוב",
+            "aptName": "ברוך קאיליאקוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -12681,7 +12681,7 @@ var incomeTables = `[
             "remainToPay": "-250"
         },
         "totalApt_30": {
-            "aptName": "בורוך קאיליאקוב",
+            "aptName": "ברוך קאיליאקוב",
             "ammount": "3750",
             "remainToPay": "-250"
         },
@@ -12855,7 +12855,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_30": {
-            "ammount": "3400",
+            "ammount": "3600",
             "method": "Cash"
         },
         "month_1_apt_31": {
@@ -14804,9 +14804,9 @@ var incomeTables = `[
             "remainToPay": "-300"
         },
         "totalApt_30": {
-            "aptName": "בורוך קאיליאקוב",
-            "ammount": "3400",
-            "remainToPay": "2850"
+            "aptName": "ברוך קאיליאקוב",
+            "ammount": "3600",
+            "remainToPay": "3050"
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
