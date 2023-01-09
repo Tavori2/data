@@ -12807,8 +12807,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_18": {
-            "ammount": "",
-            "method": ""
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_1_apt_19": {
             "ammount": "",
@@ -14745,8 +14745,8 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "0",
-            "remainToPay": "-550"
+            "ammount": "250",
+            "remainToPay": "-300"
         },
         "totalApt_19": {
             "aptName": "נירה שפייזר",
