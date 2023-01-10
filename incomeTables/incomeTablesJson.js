@@ -12747,7 +12747,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_3": {
-            "ammount": "3315",
+            "ammount": "4165",
             "method": "Cash"
         },
         "month_1_apt_4": {
@@ -12831,8 +12831,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_24": {
-            "ammount": "",
-            "method": ""
+            "ammount": "3600",
+            "method": "Transfer"
         },
         "month_1_apt_25": {
             "ammount": "",
@@ -14670,8 +14670,8 @@ var incomeTables = `[
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
-            "ammount": "3315",
-            "remainToPay": "3300"
+            "ammount": "4165",
+            "remainToPay": "4150"
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
@@ -14775,8 +14775,8 @@ var incomeTables = `[
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "0",
-            "remainToPay": "-300"
+            "ammount": "3600",
+            "remainToPay": "3300"
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
