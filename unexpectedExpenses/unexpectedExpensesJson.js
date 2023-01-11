@@ -782,7 +782,7 @@ var unexpectedExpenses = `[
     {
         "numOfUnexpectedExpenses": "9",
         "expense_1": "השקעות",
-        "month_1_exp_1": "8",
+        "month_1_exp_1": "2,611",
         "month_2_exp_1": "",
         "month_3_exp_1": "",
         "month_4_exp_1": "",
@@ -794,7 +794,7 @@ var unexpectedExpenses = `[
         "month_10_exp_1": "",
         "month_11_exp_1": "",
         "month_12_exp_1": "",
-        "totalExp_1": "8",
+        "totalExp_1": "2,611",
         "expense_2": "כיבוי אש",
         "month_1_exp_2": "1,500",
         "month_2_exp_2": "",

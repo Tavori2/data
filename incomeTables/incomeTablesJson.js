@@ -12819,12 +12819,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_21": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_1_apt_22": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_1_apt_23": {
             "ammount": "300",
@@ -14760,13 +14760,13 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "יוני ועדיאל לוי",
-            "ammount": "0",
-            "remainToPay": "-300"
+            "ammount": "300",
+            "remainToPay": "0"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "0",
-            "remainToPay": "-305"
+            "ammount": "300",
+            "remainToPay": "-5"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
