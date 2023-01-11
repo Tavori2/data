@@ -12851,8 +12851,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_29": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_1_apt_30": {
             "ammount": "3600",
@@ -14800,8 +14800,8 @@ var incomeTables = `[
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
-            "ammount": "0",
-            "remainToPay": "-300"
+            "ammount": "300",
+            "remainToPay": "0"
         },
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
