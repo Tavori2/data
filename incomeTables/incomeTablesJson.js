@@ -12835,8 +12835,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_25": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_1_apt_26": {
             "ammount": "3720",
@@ -14780,8 +14780,8 @@ var incomeTables = `[
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
-            "ammount": "0",
-            "remainToPay": "-300"
+            "ammount": "300",
+            "remainToPay": "0"
         },
         "totalApt_26": {
             "aptName": "שמעון מצליח",
