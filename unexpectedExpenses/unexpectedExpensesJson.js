@@ -908,5 +908,5 @@ var unexpectedExpenses = `[
         "month_12_exp_9": "",
         "totalExp_9": "",
         "year": "2023"
-    }
+    },
 ]`;

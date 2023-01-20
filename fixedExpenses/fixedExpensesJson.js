@@ -908,5 +908,5 @@ var fixedExpenses = `[
         "month_12_exp_9": "",
         "totalExp_9": "76",
         "year": "2023"
-    }
+    },
 ]`;
