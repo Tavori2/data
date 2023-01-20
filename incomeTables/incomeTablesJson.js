@@ -12747,7 +12747,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_3": {
-            "ammount": "4165",
+            "ammount": "3315",
             "method": "Cash"
         },
         "month_1_apt_4": {
@@ -14670,8 +14670,8 @@ var incomeTables = `[
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
-            "ammount": "4165",
-            "remainToPay": "4150"
+            "ammount": "3315",
+            "remainToPay": "3300"
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
