@@ -12911,8 +12911,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_4": {
-            "ammount": "",
-            "method": ""
+            "ammount": "900",
+            "method": "Transfer"
         },
         "month_2_apt_5": {
             "ammount": "",
@@ -13043,8 +13043,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_37": {
-            "ammount": "",
-            "method": ""
+            "ammount": "600",
+            "method": "Transfer"
         },
         "month_2_apt_38": {
             "ammount": "",
@@ -14675,8 +14675,8 @@ var incomeTables = `[
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
-            "ammount": "250",
-            "remainToPay": "-600"
+            "ammount": "1150",
+            "remainToPay": "300"
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
@@ -14840,8 +14840,8 @@ var incomeTables = `[
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "0",
-            "remainToPay": "-600"
+            "ammount": "600",
+            "remainToPay": "0"
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
