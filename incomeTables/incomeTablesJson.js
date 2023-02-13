@@ -13031,8 +13031,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_34": {
-            "ammount": "1200",
-            "method": "Transfer"
+            "ammount": "1450",
+            "method": "Cash"
         },
         "month_2_apt_35": {
             "ammount": "300",
@@ -14825,8 +14825,8 @@ var incomeTables = `[
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
-            "ammount": "1200",
-            "remainToPay": "350"
+            "ammount": "1450",
+            "remainToPay": "600"
         },
         "totalApt_35": {
             "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
