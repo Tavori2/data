@@ -12927,8 +12927,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_2_apt_8": {
-            "ammount": "",
-            "method": ""
+            "ammount": "900",
+            "method": "Transfer"
         },
         "month_2_apt_9": {
             "ammount": "",
@@ -13019,8 +13019,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_2_apt_32": {
             "ammount": "300",
@@ -14695,8 +14695,8 @@ var incomeTables = `[
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "0",
-            "remainToPay": "-600"
+            "ammount": "900",
+            "remainToPay": "300"
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
@@ -14810,8 +14810,8 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "300",
-            "remainToPay": "0"
+            "ammount": "600",
+            "remainToPay": "300"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
