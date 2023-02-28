@@ -13039,8 +13039,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_36": {
-            "ammount": "",
-            "method": ""
+            "ammount": "600",
+            "method": "Check"
         },
         "month_2_apt_37": {
             "ammount": "600",
@@ -14835,8 +14835,8 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "0",
-            "remainToPay": "-600"
+            "ammount": "600",
+            "remainToPay": "0"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
