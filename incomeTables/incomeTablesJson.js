@@ -14666,7 +14666,7 @@ var incomeTables = `[
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
             "ammount": "865",
-            "remainToPay": "-285"
+            "remainToPay": "-300"
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
