@@ -13127,8 +13127,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_18": {
-            "ammount": "",
-            "method": ""
+            "ammount": "894",
+            "method": "Transfer"
         },
         "month_3_apt_19": {
             "ammount": "",
@@ -13139,7 +13139,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_21": {
-            "ammount": "600",
+            "ammount": "918",
             "method": "Transfer"
         },
         "month_3_apt_22": {
@@ -13215,7 +13215,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_40": {
-            "ammount": "3828",
+            "ammount": "4446",
             "method": "Cash"
         },
         "month_4_apt_1": {
@@ -14745,8 +14745,8 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "828",
-            "remainToPay": "-894"
+            "ammount": "1722",
+            "remainToPay": "0"
         },
         "totalApt_19": {
             "aptName": "נירה שפייזר",
@@ -14760,8 +14760,8 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "יוני ועדיאל לוי",
-            "ammount": "1193",
-            "remainToPay": "-318"
+            "ammount": "1511",
+            "remainToPay": "0"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
@@ -14855,8 +14855,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "4678",
-            "remainToPay": "3528"
+            "ammount": "5296",
+            "remainToPay": "4146"
         },
         "year": "2023"
     }
