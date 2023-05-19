@@ -1,1 +1,28 @@
-var oshBalance = "U2FsdGVkX1/MDJqZ1t+Vbdp4yDhV7tL8sEoGc6GHCjZASeS5+P27gFqkiFTQJE9QefJHbsB8kiWvbpYL6+ikofDEeng9jQqBacF0Z7hBKKDseuvjREoh+J5tOsfMpt7WlUWH2eA6lvmsUobONfngIAoY/BRKyuKZRBvP0qTGRAUbo276hOBHMD0qTGUlthq0GdZ+H0xhHzy9YR/wa0vwsKCtfYah+yWXMi2nsxwXdBbfSBPolOAl7ka60w3+ggXkQ0Q+MxRinhWlKQED4IHHVCL4gV0ujB/u/TT7rAwO2bdGS/yYsGzPSUsBU/EGj76MPq3sisqYiWyUnNhqww+gZtqphNMcdzwHNVmDt/5oJ5zUeiN5bfk0WCPMPih7+46Ra9yfsHo8HEK6t8NcjngbaZRBrPphyRVXyIghvV/Kx4sQVyZd6B9gf6wj+YNPwLBW2OGT6AoF1h6tn5M5intG5jj0OW+kuWhKzN3RC/t7f5k3N1ElSPhd3BQpPUNJUqRK2LkxpUAvSVsz+yJm0EumXhOoxP9JJAJT2on3jnu1wgcBjNFclSLbbpfvMbFf0ubLIONERu1VXVTVTr8AdoINsHYcIwQXO65fLNR7MrJd/2S7/ZHtN7GBXMDEu+dvQ5uc/tl+dIpprU+YAeEOrA4SS03piSTXvOXeuVcWDJDn7YKddphdYe4a9krNR8LB1cpJ5I7pLhcVa5i4zXl6c6hKPZE+L6FKoqYxfrRp/fPbGav7bpxmKNyqbm8RXKXoyAJ4xOjT6l0j1lEcLODxew8hBAHzWlVGN+YTDcvN03qvbevCafNeYToXMTY/5UzgmlXTs26HvgZLRFnVz2k6BgL4PL345urFJm7s8wQg32rHu67LhFuyFJCEdEmJB+IeHHD4aZv167OB1NHUwOcJFKl7jrW0RbVQFpDeX+cZPgJj/cs6gTiPNYgppTgzBRxfNvLACB5+1kzFo5Pwjfq18s9fl/XiLgau/MbBfyt35AFNe4Mgb9l+pCAdwzie3wSHBB1ARPtwQoSTWkaUT2u2+Yak2Ww420iEllG88Pdc7qHa7v5/McYXUlFo18vlWwpWJCrtjyLB7FBneqFh0V1PtrH9nDYXuTMFjooLkvN1ll/++f0=";
+{
+    "updateDate": "18/05/2023",
+    "balance": {
+        "openning": "6,826",
+        "current": "3,664",
+        "cash": "1,521"
+    },
+    "account": {
+        "bank": "52",
+        "bankName": "(פאגי - בנק פועלי אגודת ישראל)",
+        "branch": "181",
+        "accountNum": "199082",
+        "branchAddress": "מרכז קרסו, ישעיהו משורר 11 פ\"ת 4931946",
+        "branchPhone": "03-9114200"
+    },
+    "income": {
+        "tax": "78,705",
+        "other": "1,276",
+        "total": "79,981"
+    },
+    "expenses": {
+        "fixed": "-55,647",
+        "unexpected": "-34,312",
+        "total": "-89,959"
+    },
+    "paiedAppartment": "35",
+    "unpaiedAppartmentsNumbers": "11, 17, 20, 21, 27"
+}
