@@ -14761,7 +14761,7 @@ var incomeTables = `[
         "totalApt_21": {
             "aptName": "יוני ועדיאל לוי",
             "ammount": "2197",
-            "remainToPay": "-35"
+            "remainToPay": "-300.2"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
