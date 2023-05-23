@@ -13459,8 +13459,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_21": {
-            "ammount": "",
-            "method": ""
+            "ammount": "265",
+            "method": "Transfer"
         },
         "month_5_apt_22": {
             "ammount": "305",
@@ -14760,8 +14760,8 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "יוני ועדיאל לוי",
-            "ammount": "1932",
-            "remainToPay": "-300"
+            "ammount": "2197",
+            "remainToPay": "-35"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
