@@ -2021,7 +2021,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_21": {
-            "aptName": "יוני ועדיאל לוי",
+            "aptName": "מתן וערן ברלינר",
             "ammount": "600",
             "remainToPay": ""
         },
@@ -4144,7 +4144,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_21": {
-            "aptName": "יוני ועדיאל לוי",
+            "aptName": "מתן וערן ברלינר",
             "ammount": "3850",
             "remainToPay": ""
         },
@@ -6267,7 +6267,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_21": {
-            "aptName": "יוני ועדיאל לוי",
+            "aptName": "מתן וערן ברלינר",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -8390,7 +8390,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_21": {
-            "aptName": "יוני ועדיאל לוי",
+            "aptName": "מתן וערן ברלינר",
             "ammount": "3900",
             "remainToPay": ""
         },
@@ -10513,7 +10513,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_21": {
-            "aptName": "יוני ועדיאל לוי",
+            "aptName": "מתן וערן ברלינר",
             "ammount": "4400",
             "remainToPay": ""
         },
@@ -12636,7 +12636,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_21": {
-            "aptName": "יוני ועדיאל לוי",
+            "aptName": "מתן וערן ברלינר",
             "ammount": "5823",
             "remainToPay": "0"
         },
@@ -14759,7 +14759,7 @@ var incomeTables = `[
             "remainToPay": "-900"
         },
         "totalApt_21": {
-            "aptName": "יוני ועדיאל לוי",
+            "aptName": "מתן וערן ברלינר",
             "ammount": "2497",
             "remainToPay": "-300.2"
         },
@@ -14856,7 +14856,7 @@ var incomeTables = `[
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
             "ammount": "8066",
-            "remainToPay": "6016"
+            "remainToPay": "4516"
         },
         "year": "2023"
     }
