@@ -14791,7 +14791,7 @@ var incomeTables = `[
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
             "ammount": "1800",
-            "remainToPay": "-675.32"
+            "remainToPay": "-1094.32"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
