@@ -79,7 +79,7 @@ function clearSearchFilter() {
 // this function filters the table by the search input
 function filterBySearch() {
 	// Declare variables
-	var input, filter, table, tr, td, i, txtValue, remarksTD, remarks, showRow = false;
+	var input, filter, table, tr, td, i, txtValue, remarksTD, remarks, showRow;
 	
 	input = document.getElementById("searchInput");
 	filter = input.value.toUpperCase();
@@ -89,6 +89,8 @@ function filterBySearch() {
 
 	// Loop through all table rows, and hide those who don't match the search query
 	for (i = 0; i < tr.length; i++) {
+		showRow = false;
+
 		// get the action text
 		td = tr[i].getElementsByTagName("td")[5];
 		if (td) {
