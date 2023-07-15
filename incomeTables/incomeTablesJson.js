@@ -13803,8 +13803,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "",
-            "method": ""
+            "ammount": "794.3",
+            "method": "Transfer"
         },
         "month_7_apt_28": {
             "ammount": "300",
@@ -14790,8 +14790,8 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "1800",
-            "remainToPay": "-1094.32"
+            "ammount": "2594.32",
+            "remainToPay": "-300"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
