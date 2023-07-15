@@ -8,6 +8,7 @@
   min-width: 300px;
   direction: rtl;
   width: 100%;
+  table-layout: fixed;
 }
 
 .rwd-table tr {
