@@ -13703,7 +13703,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_2": {
-            "ammount": "300",
+            "ammount": "350",
             "method": "Cash"
         },
         "month_7_apt_3": {
@@ -14665,8 +14665,8 @@ var incomeTables = `[
         },
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
-            "ammount": "2365",
-            "remainToPay": "0"
+            "ammount": "2415",
+            "remainToPay": "50"
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
