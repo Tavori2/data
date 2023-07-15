@@ -2041,7 +2041,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_25": {
-            "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
             "ammount": "1200",
             "remainToPay": ""
         },
@@ -2091,7 +2091,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_35": {
-            "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -4164,7 +4164,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_25": {
-            "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
             "ammount": "5750",
             "remainToPay": ""
         },
@@ -4214,7 +4214,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_35": {
-            "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
             "ammount": "3380",
             "remainToPay": ""
         },
@@ -6287,7 +6287,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_25": {
-            "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -6337,7 +6337,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_35": {
-            "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
             "ammount": "3300",
             "remainToPay": ""
         },
@@ -8410,7 +8410,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_25": {
-            "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -8460,7 +8460,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_35": {
-            "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -10533,7 +10533,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_25": {
-            "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
             "ammount": "3900",
             "remainToPay": ""
         },
@@ -10583,7 +10583,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_35": {
-            "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -12656,7 +12656,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_25": {
-            "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
             "ammount": "4015",
             "remainToPay": "0"
         },
@@ -12706,7 +12706,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_35": {
-            "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
             "ammount": "4000",
             "remainToPay": "0"
         },
@@ -14779,7 +14779,7 @@ var incomeTables = `[
             "remainToPay": "1500"
         },
         "totalApt_25": {
-            "aptName": "מרינה ואלכסנדר סירוטה\דרקץ",
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
             "ammount": "2100",
             "remainToPay": "0"
         },
@@ -14829,7 +14829,7 @@ var incomeTables = `[
             "remainToPay": "300"
         },
         "totalApt_35": {
-            "aptName": "ליאת ומקסים ינובר-לבהר\שחר",
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
             "ammount": "2100",
             "remainToPay": "0"
         },
