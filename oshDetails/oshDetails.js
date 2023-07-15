@@ -71,7 +71,7 @@ function filterByCategory(filter) {
 		var decrypted = CryptoJS.AES.decrypt(oshDetails, encSecret);
 		let decryptedUTF8 = decrypted.toString(CryptoJS.enc.Utf8);
 		
-		console.log("element found and available : " + decryptedUTF8);
+		console.log("element found and available");
 		let data = JSON.parse(decryptedUTF8);
 		data.forEach(entry => {
 			let jParsed = template;
