@@ -79,7 +79,7 @@ function clearSearchFilter() {
 // this function filters the table by the search input
 function filterBySearch() {
 	// Declare variables
-	var input, filter, table, tr, td, i, txtValue, remarksTD, remarks;
+	var input, filter, table, tr, td, i, txtValue, remarksTD, remarks, showRow = false;
 	
 	input = document.getElementById("searchInput");
 	filter = input.value.toUpperCase();
@@ -93,16 +93,22 @@ function filterBySearch() {
 		td = tr[i].getElementsByTagName("td")[5];
 		if (td) {
 			txtValue = td.textContent || td.innerText;
+			if (txtValue.toUpperCase().indexOf(filter) > -1) {
+				showRow = true;
+			}
 		}
 
 		// get the remarks text
 		remarksTD = tr[i].getElementsByTagName("td")[6];
 		if(remarksTD) {
 			remarks = remarksTD.textContent || remarksTD.innerText;
+			if (remarks.toUpperCase().indexOf(filter) > -1) {
+				showRow = true;
+			}
 		}
 		
 		// if one of the texts contains the search input, show the row
-		if (txtValue.toUpperCase().indexOf(filter) > -1 || remarks.toUpperCase().indexOf(filter) > -1) {
+		if (showRow) {
 			tr[i].style.display = "";
 		} else {
 			tr[i].style.display = "none";
