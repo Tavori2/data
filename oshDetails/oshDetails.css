@@ -132,21 +132,8 @@ h1 {
   direction: ltr;
 }
 
-.dropbtn {
-  background-color: #46637f;
-  color: yellow;
-  cursor: pointer;
-  border: none;
-  font-weight: bold;
-}
-
 .filterLine:hover {
   background: yellow;
-}
-
-.dropbtn:hover, .dropbtn:focus {
-  background-color: yellow;
-  color: #46637f;
 }
 
 #myInput {
@@ -162,16 +149,42 @@ h1 {
 
 #myInput:focus {outline: 3px solid #ddd;}
 
-.dropdown {
-  position: relative;
-  display: inline-block;
+.searchbtn {
+  background: #46637f;
+  color: yellow;
+  cursor: pointer;
+  border: none;
+  font-weight: bold;
+}
+
+.searchbtn:hover, .searchbtn:focus {
+  background: yellow;
+  color: #46637f;
 }
 
 .searchFilter {
-  display: none;
+  display: inline-block;
   position: relative;
-  float: left;
-  margin-left: 10px;
+}
+
+
+/* Dropdown button and Content style */
+.dropbtn {
+  background-color: #46637f;
+  color: yellow;
+  cursor: pointer;
+  border: none;
+  font-weight: bold;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: yellow;
+  color: #46637f;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
 }
 
 .dropdown-content {
