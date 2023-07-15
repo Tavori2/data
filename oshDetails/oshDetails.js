@@ -111,6 +111,7 @@ function filterBySearch() {
 		if (filter == "") {
 			tr[i].style.display = "";
 		}
+	}
 }
 
 function showHideSearchFilter() {
