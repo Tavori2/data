@@ -128,7 +128,9 @@ h1 {
 
 
 
-
+.containerTable {
+  direction: ltr;
+}
 
 .dropbtn {
   background-color: #46637f;
