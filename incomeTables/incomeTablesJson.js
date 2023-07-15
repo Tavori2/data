@@ -14761,7 +14761,7 @@ var incomeTables = `[
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
             "ammount": "3097",
-            "remainToPay": "-0.199999999999818"
+            "remainToPay": "0"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
