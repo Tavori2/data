@@ -88,16 +88,29 @@ function filterBySearch() {
 
 	// Loop through all table rows, and hide those who don't match the search query
 	for (i = 0; i < tr.length; i++) {
-		td = tr[i].getElementsByTagName("td")[0];
+		// get the action text
+		td = tr[i].getElementsByTagName("td")[5];
 		if (td) {
 			txtValue = td.textContent || td.innerText;
-			if (txtValue.toUpperCase().indexOf(filter) > -1) {
-				tr[i].style.display = "";
-			} else {
-				tr[i].style.display = "none";
-			}
 		}
-	}
+
+		// get the remarks text
+		remarksTD = tr[i].getElementsByTagName("td")[6];
+		if(remarksTD) {
+			remarks = remarksTD.textContent || remarksTD.innerText;
+		}
+		
+		// if one of the texts contains the search input, show the row
+		if (txtValue.toUpperCase().indexOf(filter) > -1 || remarks.toUpperCase().indexOf(filter) > -1) {
+			tr[i].style.display = "";
+		} else {
+			tr[i].style.display = "none";
+		}
+
+		// if the search input is empty, show all rows
+		if (filter == "") {
+			tr[i].style.display = "";
+		}
 }
 
 function showHideSearchFilter() {
