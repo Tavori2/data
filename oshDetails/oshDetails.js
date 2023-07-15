@@ -2,7 +2,7 @@
 function showHideCategoryFilter() {
 	document.getElementById("myDropdown").classList.toggle("show");
 }
-  
+
 function filterFunction() {
 	var input, filter, ul, li, a, i;
 	input = document.getElementById("myInput");
@@ -10,15 +10,15 @@ function filterFunction() {
 	div = document.getElementById("myDropdown");
 	a = div.getElementsByTagName("a");
 	for (i = 0; i < a.length; i++) {
-	  txtValue = a[i].textContent || a[i].innerText;
-	  if (txtValue.toUpperCase().indexOf(filter) > -1) {
-		a[i].style.display = "";
-	  } else {
-		a[i].style.display = "none";
-	  }
+		txtValue = a[i].textContent || a[i].innerText;
+		if (txtValue.toUpperCase().indexOf(filter) > -1) {
+			a[i].style.display = "";
+		} else {
+			a[i].style.display = "none";
+		}
 	}
-  }
-	
+}
+
 
 function filterByCategory(filter) {
 	// Declare variables
@@ -26,31 +26,31 @@ function filterByCategory(filter) {
 
 	table = document.getElementById("oshDetails-table");
 	tr = table.getElementsByTagName("tr");
-  
+
 	// Loop through all table rows, and hide those who don't match the search query
 	for (i = 0; i < tr.length; i++) {
-	  td = tr[i].getElementsByTagName("td")[0];
-	  if (td) {
-		txtValue = td.textContent || td.innerText;
-		if (txtValue.toUpperCase().indexOf(filter.toUpperCase()) > -1) {
-		  tr[i].style.display = "";
-		} else {
-		  tr[i].style.display = "none";
+		td = tr[i].getElementsByTagName("td")[0];
+		if (td) {
+			txtValue = td.textContent || td.innerText;
+			if (txtValue.toUpperCase().indexOf(filter.toUpperCase()) > -1) {
+				tr[i].style.display = "";
+			} else {
+				tr[i].style.display = "none";
+			}
 		}
-	  }
 	}
 
 	// close the filter dropdown
 	showHideCategoryFilter();
-  }
+}
 
-  function clearCategoryFilter() {
+function clearCategoryFilter() {
 	// Declare variables
 	var input, filter, table, tr, td, i, txtValue;
 
 	table = document.getElementById("oshDetails-table");
 	tr = table.getElementsByTagName("tr");
-  
+
 	// Loop through all table rows, and hide those who don't match the search query
 	for (i = 0; i < tr.length; i++) {
 		tr[i].style.display = "";
@@ -58,10 +58,53 @@ function filterByCategory(filter) {
 
 	// close the filter dropdown
 	showHideCategoryFilter();
-  }
+}
 
+function clearSearchFilter() {
+	// Declare variables
+	var table, tr, i;
 
-  waitUntilElementLoaded('#oshDetails-row-template', 5000).then(function (element) {
+	table = document.getElementById("oshDetails-table");
+	tr = table.getElementsByTagName("tr");
+
+	// clear the search input
+	document.getElementById("searchInput").value = "";
+
+	// Loop through all table rows, and hide those who don't match the search query
+	for (i = 0; i < tr.length; i++) {
+		tr[i].style.display = "";
+	}
+}
+
+// this function filters the table by the search input
+function filterBySearch() {
+	// Declare variables
+	var input, filter, table, tr, td, i, txtValue;
+	input = document.getElementById("searchInput");
+	filter = input.value.toUpperCase();
+
+	table = document.getElementById("oshDetails-table");
+	tr = table.getElementsByTagName("tr");
+
+	// Loop through all table rows, and hide those who don't match the search query
+	for (i = 0; i < tr.length; i++) {
+		td = tr[i].getElementsByTagName("td")[0];
+		if (td) {
+			txtValue = td.textContent || td.innerText;
+			if (txtValue.toUpperCase().indexOf(filter) > -1) {
+				tr[i].style.display = "";
+			} else {
+				tr[i].style.display = "none";
+			}
+		}
+	}
+}
+
+function showHideSearchFilter() {
+	document.getElementById("searchFilter").classList.toggle("show");
+}
+
+waitUntilElementLoaded('#oshDetails-row-template', 5000).then(function (element) {
 	// element found and available
 	let template = document.getElementById('oshDetails-row-template').innerHTML;
 	let container = document.querySelector('.containerTable');
@@ -70,7 +113,7 @@ function filterByCategory(filter) {
 		// decrypt the json and parse it
 		var decrypted = CryptoJS.AES.decrypt(oshDetails, encSecret);
 		let decryptedUTF8 = decrypted.toString(CryptoJS.enc.Utf8);
-		
+
 		console.log("element found and available");
 		let data = JSON.parse(decryptedUTF8);
 		data.forEach(entry => {
@@ -79,7 +122,7 @@ function filterByCategory(filter) {
 				jParsed = jParsed.replaceAll('{{' + attr + '}}', entry[attr]);
 			}
 
-			let newRow =  document.createElement('tr');
+			let newRow = document.createElement('tr');
 			newRow.innerHTML = jParsed;
 			container.appendChild(newRow);
 		});

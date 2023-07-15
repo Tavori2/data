@@ -167,6 +167,13 @@ h1 {
   display: inline-block;
 }
 
+.searchFilter {
+  display: none;
+  position: relative;
+  float: left;
+  margin-left: 10px;
+}
+
 .dropdown-content {
   display: none;
   position: fixed;
