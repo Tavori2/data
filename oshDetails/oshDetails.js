@@ -79,7 +79,7 @@ function clearSearchFilter() {
 // this function filters the table by the search input
 function filterBySearch() {
 	// Declare variables
-	var input, filter, table, tr, td, i, txtValue;
+	var input, filter, table, tr, td, i, txtValue, remarksTD, remarks;
 	input = document.getElementById("searchInput");
 	filter = input.value.toUpperCase();
 
