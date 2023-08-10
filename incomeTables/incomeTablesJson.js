@@ -14666,7 +14666,7 @@ var incomeTables = `[
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
             "ammount": "2415",
-            "remainToPay": "-250"
+            "remainToPay": "-255"
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
@@ -14811,7 +14811,7 @@ var incomeTables = `[
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
             "ammount": "2100",
-            "remainToPay": "0"
+            "remainToPay": "-5"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
@@ -14821,7 +14821,7 @@ var incomeTables = `[
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
             "ammount": "2100",
-            "remainToPay": "-300"
+            "remainToPay": "-305"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
