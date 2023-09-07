@@ -7770,7 +7770,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_31": {
-            "ammount": "12000",
+            "ammount": "####",
             "method": "Transfer"
         },
         "month_9_apt_32": {
@@ -13447,7 +13447,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_18": {
-            "ammount": "784.7",
+            "ammount": "785",
             "method": "Transfer"
         },
         "month_5_apt_19": {
