@@ -14701,7 +14701,7 @@ var incomeTables = `[
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
             "ammount": "2465",
-            "remainToPay": "5"
+            "remainToPay": "0"
         },
         "totalApt_10": {
             "aptName": "לירון ותומר אברמוביץ'",
