@@ -14721,7 +14721,7 @@ var incomeTables = `[
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
             "ammount": "2705",
-            "remainToPay": "0"
+            "remainToPay": "-5"
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
@@ -14766,7 +14766,7 @@ var incomeTables = `[
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
             "ammount": "2405",
-            "remainToPay": "-300"
+            "remainToPay": "-305"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
