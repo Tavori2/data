@@ -14023,8 +14023,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_2": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_3": {
             "ammount": "",
@@ -14123,8 +14123,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "",
-            "method": ""
+            "ammount": "545",
+            "method": "Transfer"
         },
         "month_9_apt_28": {
             "ammount": "300",
@@ -14665,8 +14665,8 @@ var incomeTables = `[
         },
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
-            "ammount": "2665",
-            "remainToPay": "-305"
+            "ammount": "2965",
+            "remainToPay": "-5"
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
@@ -14790,8 +14790,8 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "3194.32",
-            "remainToPay": "-845.05"
+            "ammount": "3739.37",
+            "remainToPay": "-300"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
