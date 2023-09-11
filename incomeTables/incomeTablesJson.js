@@ -14087,8 +14087,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_18": {
-            "ammount": "",
-            "method": ""
+            "ammount": "852.5",
+            "method": "Transfer"
         },
         "month_9_apt_19": {
             "ammount": "",
@@ -14103,8 +14103,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_22": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_23": {
             "ammount": "300",
@@ -14131,8 +14131,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_29": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_9_apt_30": {
             "ammount": "",
@@ -14151,27 +14151,27 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_34": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1200",
+            "method": "Transfer"
         },
         "month_9_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_9_apt_36": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Check"
         },
         "month_9_apt_37": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_38": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1500",
+            "method": "Cash"
         },
         "month_9_apt_39": {
-            "ammount": "300",
+            "ammount": "1200",
             "method": "Transfer"
         },
         "month_9_apt_40": {
@@ -14745,8 +14745,8 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "3506.65",
-            "remainToPay": "-852.53"
+            "ammount": "4359.18",
+            "remainToPay": "0"
         },
         "totalApt_19": {
             "aptName": "נירה שפייזר",
@@ -14765,8 +14765,8 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "2405",
-            "remainToPay": "-305"
+            "ammount": "2705",
+            "remainToPay": "-5"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
@@ -14800,8 +14800,8 @@ var incomeTables = `[
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
-            "ammount": "2400",
-            "remainToPay": "-300"
+            "ammount": "2700",
+            "remainToPay": "0"
         },
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
@@ -14825,8 +14825,8 @@ var incomeTables = `[
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
-            "ammount": "2650",
-            "remainToPay": "-300"
+            "ammount": "3850",
+            "remainToPay": "900"
         },
         "totalApt_35": {
             "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
@@ -14835,8 +14835,8 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "2400",
-            "remainToPay": "-300"
+            "ammount": "2700",
+            "remainToPay": "0"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
@@ -14845,13 +14845,13 @@ var incomeTables = `[
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
-            "ammount": "1550",
-            "remainToPay": "-1200"
+            "ammount": "3050",
+            "remainToPay": "300"
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "2700",
-            "remainToPay": "0"
+            "ammount": "3600",
+            "remainToPay": "900"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
