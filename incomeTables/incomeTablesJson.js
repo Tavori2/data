@@ -12688,7 +12688,7 @@ var incomeTables = `[
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
             "ammount": "4300",
-            "remainToPay": "300"
+            "remainToPay": "0"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
@@ -14811,7 +14811,7 @@ var incomeTables = `[
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
             "ammount": "2700",
-            "remainToPay": "295"
+            "remainToPay": "-5"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
