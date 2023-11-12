@@ -14806,7 +14806,7 @@ var incomeTables = `[
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
             "ammount": "3850",
-            "remainToPay": "-100"
+            "remainToPay": "150"
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
