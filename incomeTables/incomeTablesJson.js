@@ -2011,7 +2011,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "נירה שפייזר",
+            "aptName": "אילי בן חיים",
             "ammount": "200",
             "remainToPay": ""
         },
@@ -4134,7 +4134,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "נירה שפייזר",
+            "aptName": "אילי בן חיים",
             "ammount": "3000",
             "remainToPay": ""
         },
@@ -6257,7 +6257,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "נירה שפייזר",
+            "aptName": "אילי בן חיים",
             "ammount": "4350",
             "remainToPay": ""
         },
@@ -8380,7 +8380,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "נירה שפייזר",
+            "aptName": "אילי בן חיים",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -10503,7 +10503,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "נירה שפייזר",
+            "aptName": "אילי בן חיים",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -12626,7 +12626,7 @@ var incomeTables = `[
             "remainToPay": "-250"
         },
         "totalApt_19": {
-            "aptName": "נירה שפייזר",
+            "aptName": "אילי בן חיים",
             "ammount": "4000",
             "remainToPay": "0"
         },
@@ -14251,8 +14251,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_19": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_10_apt_20": {
             "ammount": "",
@@ -14411,8 +14411,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_19": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_11_apt_20": {
             "ammount": "150",
@@ -14431,8 +14431,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_24": {
-            "ammount": "",
-            "method": ""
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_11_apt_25": {
             "ammount": "300",
@@ -14749,9 +14749,9 @@ var incomeTables = `[
             "remainToPay": "-150"
         },
         "totalApt_19": {
-            "aptName": "נירה שפייזר",
-            "ammount": "2700",
-            "remainToPay": "-750"
+            "aptName": "אילי בן חיים",
+            "ammount": "3300",
+            "remainToPay": "-150"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
@@ -14775,8 +14775,8 @@ var incomeTables = `[
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "4250",
-            "remainToPay": "800"
+            "ammount": "4400",
+            "remainToPay": "950"
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
