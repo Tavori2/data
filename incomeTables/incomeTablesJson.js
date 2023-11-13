@@ -5203,8 +5203,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_6_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "400",
+            "method": "Cash"
         },
         "month_7_apt_1": {
             "ammount": "",
@@ -5363,8 +5363,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_7_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "943",
+            "method": "Cash"
         },
         "month_8_apt_1": {
             "ammount": "",
@@ -5683,8 +5683,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_9_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "695",
+            "method": "Cash"
         },
         "month_10_apt_1": {
             "ammount": "",
@@ -5843,8 +5843,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_10_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "930",
+            "method": "Cash"
         },
         "month_11_apt_1": {
             "ammount": "",
@@ -6003,8 +6003,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_11_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "540",
+            "method": "Cash"
         },
         "month_12_apt_1": {
             "ammount": "",
@@ -6163,8 +6163,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_12_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "772",
+            "method": "Cash"
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
@@ -6363,7 +6363,7 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "3600",
+            "ammount": "6080",
             "remainToPay": ""
         },
         "year": "2019"
@@ -11572,8 +11572,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_40": {
-            "ammount": "300",
-            "method": "Transfer"
+            "ammount": "400",
+            "method": "Cash"
         },
         "month_7_apt_1": {
             "ammount": "",
@@ -11732,8 +11732,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_40": {
-            "ammount": "315",
-            "method": "Transfer"
+            "ammount": "958",
+            "method": "Cash"
         },
         "month_8_apt_1": {
             "ammount": "",
@@ -12052,8 +12052,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_40": {
-            "ammount": "300",
-            "method": "Transfer"
+            "ammount": "695",
+            "method": "Cash"
         },
         "month_10_apt_1": {
             "ammount": "",
@@ -12212,8 +12212,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_40": {
-            "ammount": "300",
-            "method": "Transfer"
+            "ammount": "930",
+            "method": "Cash"
         },
         "month_11_apt_1": {
             "ammount": "",
@@ -12372,8 +12372,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_40": {
-            "ammount": "300",
-            "method": "Transfer"
+            "ammount": "540",
+            "method": "Cash"
         },
         "month_12_apt_1": {
             "ammount": "",
@@ -12532,8 +12532,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_40": {
-            "ammount": "550",
-            "method": "Transfer"
+            "ammount": "1022",
+            "method": "Cash"
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
@@ -12732,8 +12732,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "4015",
-            "remainToPay": "0"
+            "ammount": "6495",
+            "remainToPay": "2480"
         },
         "year": "2022"
     },
@@ -12895,8 +12895,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_40": {
-            "ammount": "550",
-            "method": "Transfer"
+            "ammount": "668",
+            "method": "Cash"
         },
         "month_2_apt_1": {
             "ammount": "",
@@ -13055,8 +13055,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_40": {
-            "ammount": "300",
-            "method": "Transfer"
+            "ammount": "1231",
+            "method": "Cash"
         },
         "month_3_apt_1": {
             "ammount": "",
@@ -13215,7 +13215,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_40": {
-            "ammount": "4316",
+            "ammount": "788",
             "method": "Cash"
         },
         "month_4_apt_1": {
@@ -14855,8 +14855,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "9701.44",
-            "remainToPay": "4501.44"
+            "ammount": "7222.44",
+            "remainToPay": "4502.44"
         },
         "year": "2023"
     }
