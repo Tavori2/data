@@ -822,7 +822,7 @@ var unexpectedExpenses = `[
         "month_10_exp_3": "360",
         "month_11_exp_3": "",
         "month_12_exp_3": "",
-        "totalExp_3": "6,289",
+        "totalExp_3": "6,290",
         "expense_4": "הדברה",
         "month_1_exp_4": "",
         "month_2_exp_4": "",
