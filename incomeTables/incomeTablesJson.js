@@ -12895,7 +12895,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_40": {
-            "ammount": "668",
+            "ammount": "667.4",
             "method": "Cash"
         },
         "month_2_apt_1": {
@@ -13215,7 +13215,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_40": {
-            "ammount": "788",
+            "ammount": "787.8",
             "method": "Cash"
         },
         "month_4_apt_1": {
@@ -14175,7 +14175,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_40": {
-            "ammount": "368",
+            "ammount": "368.4",
             "method": "Cash"
         },
         "month_10_apt_1": {
@@ -14855,8 +14855,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "7222",
-            "remainToPay": "4502"
+            "ammount": "7221.64",
+            "remainToPay": "4501.64"
         },
         "year": "2023"
     }
