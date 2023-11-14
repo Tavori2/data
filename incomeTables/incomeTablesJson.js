@@ -12895,7 +12895,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_40": {
-            "ammount": "553",
+            "ammount": "668",
             "method": "Cash"
         },
         "month_2_apt_1": {
@@ -13055,7 +13055,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_40": {
-            "ammount": "304",
+            "ammount": "1231",
             "method": "Cash"
         },
         "month_3_apt_1": {
@@ -13215,7 +13215,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_40": {
-            "ammount": "302",
+            "ammount": "788",
             "method": "Cash"
         },
         "month_4_apt_1": {
@@ -13535,7 +13535,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_40": {
-            "ammount": "301",
+            "ammount": "800",
             "method": "Cash"
         },
         "month_6_apt_1": {
@@ -13855,7 +13855,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_40": {
-            "ammount": "301",
+            "ammount": "453",
             "method": "Cash"
         },
         "month_8_apt_1": {
@@ -14015,7 +14015,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_40": {
-            "ammount": "301",
+            "ammount": "454",
             "method": "Cash"
         },
         "month_9_apt_1": {
@@ -14175,7 +14175,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_40": {
-            "ammount": "2",
+            "ammount": "368",
             "method": "Cash"
         },
         "month_10_apt_1": {
@@ -14335,7 +14335,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_40": {
-            "ammount": "1",
+            "ammount": "360",
             "method": "Cash"
         },
         "month_11_apt_1": {
@@ -14855,8 +14855,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "4165",
-            "remainToPay": "1445"
+            "ammount": "7222",
+            "remainToPay": "4502"
         },
         "year": "2023"
     }
