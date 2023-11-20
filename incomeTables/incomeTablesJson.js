@@ -14467,7 +14467,7 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_11_apt_33": {
-            "ammount": "300",
+            "ammount": "450",
             "method": "Check"
         },
         "month_11_apt_34": {
@@ -14820,8 +14820,8 @@ var incomeTables = `[
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "3300",
-            "remainToPay": "-155"
+            "ammount": "3450",
+            "remainToPay": "-5"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
