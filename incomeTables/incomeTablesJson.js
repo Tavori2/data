@@ -14851,7 +14851,7 @@ var incomeTables = `[
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
             "ammount": "4050",
-            "remainToPay": "600"
+            "remainToPay": "300"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
