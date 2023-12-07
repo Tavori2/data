@@ -807,8 +807,8 @@ var fixedExpenses = `[
         "month_9_exp_2": "2,662",
         "month_10_exp_2": "2,675",
         "month_11_exp_2": "2,672",
-        "month_12_exp_2": "",
-        "totalExp_2": "28,556",
+        "month_12_exp_2": "1,484",
+        "totalExp_2": "30,040",
         "expense_3": "חשמל",
         "month_1_exp_3": "3,148",
         "month_2_exp_3": "3,502",
@@ -905,8 +905,8 @@ var fixedExpenses = `[
         "month_9_exp_9": "47",
         "month_10_exp_9": "116",
         "month_11_exp_9": "49",
-        "month_12_exp_9": "",
-        "totalExp_9": "799",
+        "month_12_exp_9": "86",
+        "totalExp_9": "886",
         "year": "2023"
     }
 ]`;
