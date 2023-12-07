@@ -14355,8 +14355,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_5": {
-            "ammount": "",
-            "method": ""
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_11_apt_6": {
             "ammount": "450",
@@ -14680,8 +14680,8 @@ var incomeTables = `[
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
-            "ammount": "3600",
-            "remainToPay": "-150"
+            "ammount": "3750",
+            "remainToPay": "0"
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
