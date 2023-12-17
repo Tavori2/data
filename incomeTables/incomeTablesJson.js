@@ -14567,8 +14567,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_12_apt_18": {
-            "ammount": "",
-            "method": ""
+            "ammount": "548",
+            "method": "Transfer"
         },
         "month_12_apt_19": {
             "ammount": "",
@@ -14579,8 +14579,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_21": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_12_apt_22": {
             "ammount": "300",
@@ -14599,8 +14599,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_26": {
-            "ammount": "",
-            "method": ""
+            "ammount": "4200",
+            "method": "Cash"
         },
         "month_12_apt_27": {
             "ammount": "1158",
@@ -14647,12 +14647,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_38": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1350",
+            "method": "Cash"
         },
         "month_12_apt_39": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1350",
+            "method": "Transfer"
         },
         "month_12_apt_40": {
             "ammount": "",
@@ -14745,8 +14745,8 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "5225.18",
-            "remainToPay": "-450"
+            "ammount": "5773.18",
+            "remainToPay": "98"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
@@ -14760,8 +14760,8 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
-            "ammount": "4447",
-            "remainToPay": "-300"
+            "ammount": "4747",
+            "remainToPay": "0"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
@@ -14785,8 +14785,8 @@ var incomeTables = `[
         },
         "totalApt_26": {
             "aptName": "שמעון מצליח",
-            "ammount": "3870",
-            "remainToPay": "0"
+            "ammount": "8070",
+            "remainToPay": "4200"
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
@@ -14845,12 +14845,12 @@ var incomeTables = `[
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
-            "ammount": "2450",
-            "remainToPay": "-1350"
+            "ammount": "3800",
+            "remainToPay": "0"
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "4050",
+            "ammount": "5400",
             "remainToPay": "0"
         },
         "totalApt_40": {
