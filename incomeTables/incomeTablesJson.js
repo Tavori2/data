@@ -14655,8 +14655,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "416",
+            "method": "Cash"
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
@@ -14855,8 +14855,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "7221.64",
-            "remainToPay": "4050.89"
+            "ammount": "7637.64",
+            "remainToPay": "4466.89"
         },
         "year": "2023"
     }
