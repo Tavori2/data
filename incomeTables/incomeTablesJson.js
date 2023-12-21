@@ -14499,7 +14499,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_1": {
-            "ammount": "300",
+            "ammount": "450",
             "method": "Check"
         },
         "month_12_apt_2": {
@@ -14523,7 +14523,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_7": {
-            "ammount": "300",
+            "ammount": "450",
             "method": "Check"
         },
         "month_12_apt_8": {
@@ -14567,7 +14567,7 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_12_apt_18": {
-            "ammount": "548",
+            "ammount": "698",
             "method": "Transfer"
         },
         "month_12_apt_19": {
@@ -14660,8 +14660,8 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
-            "ammount": "3850",
-            "remainToPay": "-150"
+            "ammount": "4000",
+            "remainToPay": "0"
         },
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
@@ -14690,8 +14690,8 @@ var incomeTables = `[
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "3600",
-            "remainToPay": "-150"
+            "ammount": "3750",
+            "remainToPay": "0"
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
@@ -14745,8 +14745,8 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "5773.18",
-            "remainToPay": "-150"
+            "ammount": "5923.18",
+            "remainToPay": "0"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
