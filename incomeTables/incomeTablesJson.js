@@ -2011,7 +2011,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "אילי בן חיים",
+            "aptName": "הילי בן חיים",
             "ammount": "200",
             "remainToPay": ""
         },
@@ -4134,7 +4134,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "אילי בן חיים",
+            "aptName": "הילי בן חיים",
             "ammount": "3000",
             "remainToPay": ""
         },
@@ -6257,7 +6257,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "אילי בן חיים",
+            "aptName": "הילי בן חיים",
             "ammount": "4350",
             "remainToPay": ""
         },
@@ -8380,7 +8380,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "אילי בן חיים",
+            "aptName": "הילי בן חיים",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -10503,7 +10503,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_19": {
-            "aptName": "אילי בן חיים",
+            "aptName": "הילי בן חיים",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -12626,7 +12626,7 @@ var incomeTables = `[
             "remainToPay": "-250"
         },
         "totalApt_19": {
-            "aptName": "אילי בן חיים",
+            "aptName": "הילי בן חיים",
             "ammount": "4000",
             "remainToPay": "0"
         },
@@ -14746,10 +14746,10 @@ var incomeTables = `[
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
             "ammount": "5923.18",
-            "remainToPay": "0"
+            "remainToPay": "4.54747350886464E-13"
         },
         "totalApt_19": {
-            "aptName": "אילי בן חיים",
+            "aptName": "הילי בן חיים",
             "ammount": "3750",
             "remainToPay": "0"
         },
@@ -14859,5 +14859,2128 @@ var incomeTables = `[
             "remainToPay": "4466.89"
         },
         "year": "2023"
+    },
+    {
+        "month_1_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_3": {
+            "ammount": "3000",
+            "method": "Cash"
+        },
+        "month_1_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_5": {
+            "ammount": "4200",
+            "method": "Cash"
+        },
+        "month_1_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_8": {
+            "ammount": "1050",
+            "method": "Transfer"
+        },
+        "month_1_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_10": {
+            "ammount": "350",
+            "method": "Transfer"
+        },
+        "month_1_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_12": {
+            "ammount": "1400",
+            "method": "Transfer"
+        },
+        "month_1_apt_13": {
+            "ammount": "350",
+            "method": "Transfer"
+        },
+        "month_1_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_19": {
+            "ammount": "350",
+            "method": "Transfer"
+        },
+        "month_1_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_22": {
+            "ammount": "150",
+            "method": "Transfer"
+        },
+        "month_1_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_30": {
+            "ammount": "4200",
+            "method": "Cash"
+        },
+        "month_1_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_1_apt_39": {
+            "ammount": "300",
+            "method": "Transfer"
+        },
+        "month_1_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_2_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_3_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_4_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_5_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_6_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_7_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_8_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_9_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_10_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_11_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_1": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_2": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_3": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_4": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_5": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_6": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_7": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_8": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_9": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_10": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_11": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_12": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_13": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_14": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_15": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_16": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_17": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_18": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_19": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_20": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_21": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_22": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_23": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_24": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_25": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_26": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_27": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_28": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_29": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_30": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_31": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_32": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_33": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_34": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_35": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_36": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_37": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_38": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_39": {
+            "ammount": "",
+            "method": ""
+        },
+        "month_12_apt_40": {
+            "ammount": "",
+            "method": ""
+        },
+        "totalApt_1": {
+            "aptName": "יעל ומשיח שמש",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_2": {
+            "aptName": "זהבה וארול אוסמן",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_3": {
+            "aptName": "רונית וסאסי זוארץ",
+            "ammount": "3000",
+            "remainToPay": "2650"
+        },
+        "totalApt_4": {
+            "aptName": "הדר ומוטי יהוד",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_5": {
+            "aptName": "יוסי אבורוס",
+            "ammount": "4200",
+            "remainToPay": "3850"
+        },
+        "totalApt_6": {
+            "aptName": "דפנה בן-חיים",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_7": {
+            "aptName": "נלי ועובדיה שלום",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_8": {
+            "aptName": "הדס וחיים אביטן",
+            "ammount": "1050",
+            "remainToPay": "700"
+        },
+        "totalApt_9": {
+            "aptName": "איריס ויהונתן מנצור",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_10": {
+            "aptName": "לירון ותומר אברמוביץ'",
+            "ammount": "350",
+            "remainToPay": "0"
+        },
+        "totalApt_11": {
+            "aptName": "אלה ויקטור יעקובנקו",
+            "ammount": "0",
+            "remainToPay": "-800"
+        },
+        "totalApt_12": {
+            "aptName": "מיכל ולוי שבתאי",
+            "ammount": "1400",
+            "remainToPay": "1050"
+        },
+        "totalApt_13": {
+            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "ammount": "350",
+            "remainToPay": "-5"
+        },
+        "totalApt_14": {
+            "aptName": "לימור ותומר וויזמן",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_15": {
+            "aptName": "שלומית וגבי זילברט",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_16": {
+            "aptName": "אופירה דימיטשטיין",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_17": {
+            "aptName": "מאיה וזיו מסלתי",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_18": {
+            "aptName": "כרמית ורפי רפאל",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_19": {
+            "aptName": "הילי בן חיים",
+            "ammount": "350",
+            "remainToPay": "0"
+        },
+        "totalApt_20": {
+            "aptName": "יפעת ודוד בן-שושן",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_21": {
+            "aptName": "מתן וערן ברלינר",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_22": {
+            "aptName": "אליס וגבריאל מנסור",
+            "ammount": "150",
+            "remainToPay": "-355"
+        },
+        "totalApt_23": {
+            "aptName": "סנדי ועומרי בן-שושן",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_24": {
+            "aptName": "יפעת ומייק סולימני",
+            "ammount": "0",
+            "remainToPay": "300"
+        },
+        "totalApt_25": {
+            "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_26": {
+            "aptName": "שמעון מצליח",
+            "ammount": "0",
+            "remainToPay": "3850"
+        },
+        "totalApt_27": {
+            "aptName": "מישל ואהוד כהן",
+            "ammount": "0",
+            "remainToPay": "-60.8900000000003"
+        },
+        "totalApt_28": {
+            "aptName": "ריקי קקון",
+            "ammount": "0",
+            "remainToPay": "-250"
+        },
+        "totalApt_29": {
+            "aptName": "יוכי וערן דוד",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_30": {
+            "aptName": "ברוך קאיליאקוב",
+            "ammount": "4200",
+            "remainToPay": "3700"
+        },
+        "totalApt_31": {
+            "aptName": "אוסנת ויוסי יחזקאל",
+            "ammount": "0",
+            "remainToPay": "-355"
+        },
+        "totalApt_32": {
+            "aptName": "ימית ואסף כהן",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_33": {
+            "aptName": "דריה ותמיר כצמן",
+            "ammount": "0",
+            "remainToPay": "-355"
+        },
+        "totalApt_34": {
+            "aptName": "ליטל וסיני דוד",
+            "ammount": "0",
+            "remainToPay": "-500"
+        },
+        "totalApt_35": {
+            "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_36": {
+            "aptName": "גלית ואורן אוזן",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_37": {
+            "aptName": "גלי ומיכאל קנטורז'י",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_38": {
+            "aptName": "עדי ושי ארונוב",
+            "ammount": "0",
+            "remainToPay": "-350"
+        },
+        "totalApt_39": {
+            "aptName": "זוהר ודותן סיגלר",
+            "ammount": "300",
+            "remainToPay": "-50"
+        },
+        "totalApt_40": {
+            "aptName": "רותי ושי בר-כליפה",
+            "ammount": "0",
+            "remainToPay": "4116.89"
+        },
+        "year": "2024"
     }
 ]`;
