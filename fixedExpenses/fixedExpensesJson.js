@@ -1024,7 +1024,7 @@ var fixedExpenses = `[
         "month_12_exp_8": "",
         "totalExp_8": "",
         "expense_9": "עמלות",
-        "month_1_exp_9": "70",
+        "month_1_exp_9": "69.78",
         "month_2_exp_9": "",
         "month_3_exp_9": "",
         "month_4_exp_9": "",
