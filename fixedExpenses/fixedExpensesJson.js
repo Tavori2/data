@@ -912,7 +912,7 @@ var fixedExpenses = `[
     {
         "numOfFixedExpenses": "9",
         "expense_1": "נקיון",
-        "month_1_exp_1": "",
+        "month_1_exp_1": "3,500",
         "month_2_exp_1": "",
         "month_3_exp_1": "",
         "month_4_exp_1": "",
@@ -924,7 +924,7 @@ var fixedExpenses = `[
         "month_10_exp_1": "",
         "month_11_exp_1": "",
         "month_12_exp_1": "",
-        "totalExp_1": "",
+        "totalExp_1": "3,500",
         "expense_2": "מעליות",
         "month_1_exp_2": "",
         "month_2_exp_2": "",

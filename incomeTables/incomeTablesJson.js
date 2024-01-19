@@ -14942,8 +14942,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_21": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_1_apt_22": {
             "ammount": "450",
@@ -14954,8 +14954,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_24": {
-            "ammount": "",
-            "method": ""
+            "ammount": "3550",
+            "method": "Transfer"
         },
         "month_1_apt_25": {
             "ammount": "350",
@@ -16883,8 +16883,8 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
-            "ammount": "0",
-            "remainToPay": "-350"
+            "ammount": "350",
+            "remainToPay": "0"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
@@ -16898,8 +16898,8 @@ var incomeTables = `[
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "0",
-            "remainToPay": "300"
+            "ammount": "3550",
+            "remainToPay": "3850"
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
