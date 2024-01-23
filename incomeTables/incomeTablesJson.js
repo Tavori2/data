@@ -14886,8 +14886,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_7": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_1_apt_8": {
             "ammount": "1050",
@@ -14986,12 +14986,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_32": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_1_apt_33": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_1_apt_34": {
             "ammount": "",
@@ -15002,8 +15002,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_36": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_1_apt_37": {
             "ammount": "350",
@@ -16813,8 +16813,8 @@ var incomeTables = `[
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "0",
-            "remainToPay": "-350"
+            "ammount": "350",
+            "remainToPay": "0"
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
@@ -16938,13 +16938,13 @@ var incomeTables = `[
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "0",
-            "remainToPay": "-350"
+            "ammount": "350",
+            "remainToPay": "0"
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "0",
-            "remainToPay": "-355"
+            "ammount": "350",
+            "remainToPay": "-5"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
@@ -16958,8 +16958,8 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "0",
-            "remainToPay": "-350"
+            "ammount": "350",
+            "remainToPay": "0"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
