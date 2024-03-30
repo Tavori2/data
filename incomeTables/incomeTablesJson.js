@@ -14766,7 +14766,7 @@ var incomeTables = `[
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
             "ammount": "3605",
-            "remainToPay": "-155"
+            "remainToPay": "-150"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
@@ -16889,7 +16889,7 @@ var incomeTables = `[
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
             "ammount": "1050",
-            "remainToPay": "-155"
+            "remainToPay": "-150"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
