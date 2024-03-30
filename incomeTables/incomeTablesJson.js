@@ -15142,8 +15142,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_2_apt_32": {
             "ammount": "",
@@ -15302,8 +15302,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_3_apt_32": {
             "ammount": "700",
@@ -16933,8 +16933,8 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "350",
-            "remainToPay": "-705"
+            "ammount": "1050",
+            "remainToPay": "-5"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
