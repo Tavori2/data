@@ -14862,8 +14862,8 @@ var incomeTables = `[
     },
     {
         "month_1_apt_1": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Cash"
         },
         "month_1_apt_2": {
             "ammount": "350",
@@ -16783,8 +16783,8 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
-            "ammount": "0",
-            "remainToPay": "-1400"
+            "ammount": "500",
+            "remainToPay": "-900"
         },
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
