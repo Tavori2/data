@@ -1028,7 +1028,7 @@ var fixedExpenses = `[
         "month_2_exp_9": "54",
         "month_3_exp_9": "41",
         "month_4_exp_9": "56",
-        "month_5_exp_9": "",
+        "month_5_exp_9": "50",
         "month_6_exp_9": "",
         "month_7_exp_9": "",
         "month_8_exp_9": "",
@@ -1036,7 +1036,7 @@ var fixedExpenses = `[
         "month_10_exp_9": "",
         "month_11_exp_9": "",
         "month_12_exp_9": "",
-        "totalExp_9": "221",
+        "totalExp_9": "271",
         "year": "2024"
     }
 ]`;
