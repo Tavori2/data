@@ -5043,8 +5043,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_5_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "382.2",
+            "method": "Cash"
         },
         "month_6_apt_1": {
             "ammount": "",
@@ -6363,7 +6363,7 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "6079.25",
+            "ammount": "6161.43",
             "remainToPay": ""
         },
         "year": "2019"
@@ -11412,8 +11412,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_40": {
-            "ammount": "450",
-            "method": "Transfer"
+            "ammount": "532.2",
+            "method": "Cash"
         },
         "month_6_apt_1": {
             "ammount": "",
@@ -12732,8 +12732,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "6494.25",
-            "remainToPay": "2479.25"
+            "ammount": "6576.43",
+            "remainToPay": "2561.43"
         },
         "year": "2022"
     },
@@ -14856,7 +14856,7 @@ var incomeTables = `[
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
             "ammount": "7693.84",
-            "remainToPay": "4523.09"
+            "remainToPay": "4605.27"
         },
         "year": "2023"
     },
@@ -15658,8 +15658,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "258.6",
+            "method": "Cash"
         },
         "month_6_apt_1": {
             "ammount": "",
@@ -16978,8 +16978,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "0",
-            "remainToPay": "2773.09"
+            "ammount": "258.6",
+            "remainToPay": "3113.87"
         },
         "year": "2024"
     }
