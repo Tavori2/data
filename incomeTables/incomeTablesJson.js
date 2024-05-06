@@ -15522,8 +15522,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_6": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_5_apt_7": {
             "ammount": "",
@@ -15574,8 +15574,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_19": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_5_apt_20": {
             "ammount": "4200",
@@ -15590,8 +15590,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_23": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_5_apt_24": {
             "ammount": "",
@@ -15654,8 +15654,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_39": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_5_apt_40": {
             "ammount": "258.6",
@@ -16808,8 +16808,8 @@ var incomeTables = `[
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "1400",
-            "remainToPay": "-350"
+            "ammount": "1750",
+            "remainToPay": "0"
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
@@ -16873,8 +16873,8 @@ var incomeTables = `[
         },
         "totalApt_19": {
             "aptName": "הילי בן חיים",
-            "ammount": "1400",
-            "remainToPay": "-350"
+            "ammount": "1750",
+            "remainToPay": "0"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
@@ -16893,8 +16893,8 @@ var incomeTables = `[
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "1400",
-            "remainToPay": "-350"
+            "ammount": "1750",
+            "remainToPay": "0"
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
@@ -16973,8 +16973,8 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "1400",
-            "remainToPay": "-350"
+            "ammount": "1750",
+            "remainToPay": "0"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
