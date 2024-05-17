@@ -16869,7 +16869,7 @@ var incomeTables = `[
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
             "ammount": "2520",
-            "remainToPay": "-0.7199999999998"
+            "remainToPay": "-0.709999999999582"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
