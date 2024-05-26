@@ -15622,8 +15622,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_5_apt_32": {
             "ammount": "350",
@@ -15658,7 +15658,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_40": {
-            "ammount": "1414",
+            "ammount": "1434",
             "method": "Cash"
         },
         "month_6_apt_1": {
@@ -16933,8 +16933,8 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "1400",
-            "remainToPay": "-350"
+            "ammount": "1750",
+            "remainToPay": "0"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
@@ -16978,8 +16978,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "1413.6",
-            "remainToPay": "4268.87"
+            "ammount": "1433.6",
+            "remainToPay": "4288.87"
         },
         "year": "2024"
     }
