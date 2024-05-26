@@ -16944,7 +16944,7 @@ var incomeTables = `[
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
             "ammount": "1750",
-            "remainToPay": "-5"
+            "remainToPay": "0"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
@@ -16974,7 +16974,7 @@ var incomeTables = `[
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
             "ammount": "1750",
-            "remainToPay": "-5"
+            "remainToPay": "-10"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
