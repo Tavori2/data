@@ -15662,12 +15662,12 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_1": {
-            "ammount": "",
-            "method": ""
+            "ammount": "900",
+            "method": "Check"
         },
         "month_6_apt_2": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_6_apt_3": {
             "ammount": "",
@@ -15702,8 +15702,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_11": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_6_apt_12": {
             "ammount": "",
@@ -15714,20 +15714,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_14": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_6_apt_15": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1050",
+            "method": "Check"
         },
         "month_6_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_17": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Check"
         },
         "month_6_apt_18": {
             "ammount": "",
@@ -15746,8 +15746,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_22": {
-            "ammount": "",
-            "method": ""
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_6_apt_23": {
             "ammount": "350",
@@ -15766,48 +15766,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_6_apt_28": {
             "ammount": "350",
             "method": "Transfer"
         },
         "month_6_apt_29": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_6_apt_30": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_6_apt_32": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_6_apt_33": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_6_apt_34": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_35": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_6_apt_36": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_6_apt_37": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_6_apt_38": {
             "ammount": "",
@@ -16783,13 +16783,13 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
-            "ammount": "1500",
-            "remainToPay": "-600"
+            "ammount": "2400",
+            "remainToPay": "300"
         },
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
@@ -16833,8 +16833,8 @@ var incomeTables = `[
         },
         "totalApt_11": {
             "aptName": "אלה ויקטור יעקובנקו",
-            "ammount": "1850",
-            "remainToPay": "-700"
+            "ammount": "2200",
+            "remainToPay": "-350"
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
@@ -16848,13 +16848,13 @@ var incomeTables = `[
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "1050",
-            "remainToPay": "-1050"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
@@ -16863,8 +16863,8 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "1400",
-            "remainToPay": "-700"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
@@ -16888,8 +16888,8 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "1650",
-            "remainToPay": "-600"
+            "ammount": "1950",
+            "remainToPay": "-300"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
@@ -16913,8 +16913,8 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "2493.5",
-            "remainToPay": "-766.58"
+            "ammount": "2843.5",
+            "remainToPay": "-416.58"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
@@ -16923,8 +16923,8 @@ var incomeTables = `[
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
@@ -16933,18 +16933,18 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
@@ -16953,18 +16953,18 @@ var incomeTables = `[
         },
         "totalApt_35": {
             "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "1750",
-            "remainToPay": "-350"
+            "ammount": "2100",
+            "remainToPay": "0"
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
