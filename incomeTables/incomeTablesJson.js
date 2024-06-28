@@ -15730,8 +15730,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_6_apt_18": {
-            "ammount": "",
-            "method": ""
+            "ammount": "570",
+            "method": "Transfer"
         },
         "month_6_apt_19": {
             "ammount": "",
@@ -15814,8 +15814,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_39": {
-            "ammount": "",
-            "method": ""
+            "ammount": "360",
+            "method": "Transfer"
         },
         "month_6_apt_40": {
             "ammount": "167",
@@ -16868,8 +16868,8 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "2520",
-            "remainToPay": "-350.71"
+            "ammount": "3090",
+            "remainToPay": "219.29"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
@@ -16973,8 +16973,8 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "1750",
-            "remainToPay": "-360"
+            "ammount": "2110",
+            "remainToPay": "0"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
