@@ -1142,13 +1142,13 @@ var unexpectedExpenses = `[
         "month_4_exp_10": "",
         "month_5_exp_10": "",
         "month_6_exp_10": "61",
-        "month_7_exp_10": "",
+        "month_7_exp_10": "20",
         "month_8_exp_10": "",
         "month_9_exp_10": "",
         "month_10_exp_10": "",
         "month_11_exp_10": "",
         "month_12_exp_10": "",
-        "totalExp_10": "61",
+        "totalExp_10": "80",
         "year": "2024"
     }
 ]`;
