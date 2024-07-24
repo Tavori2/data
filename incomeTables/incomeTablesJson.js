@@ -15922,8 +15922,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_26": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Cash"
         },
         "month_7_apt_27": {
             "ammount": "350",
@@ -16908,8 +16908,8 @@ var incomeTables = `[
         },
         "totalApt_26": {
             "aptName": "שמעון מצליח",
-            "ammount": "0",
-            "remainToPay": "1400"
+            "ammount": "350",
+            "remainToPay": "1750"
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
