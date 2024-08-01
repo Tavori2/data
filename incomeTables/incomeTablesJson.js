@@ -15866,8 +15866,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_7_apt_12": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_7_apt_13": {
             "ammount": "700",
@@ -16838,8 +16838,8 @@ var incomeTables = `[
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
-            "ammount": "2800",
-            "remainToPay": "-350"
+            "ammount": "3150",
+            "remainToPay": "0"
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
