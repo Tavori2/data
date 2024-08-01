@@ -15882,8 +15882,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_7_apt_16": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_7_apt_17": {
             "ammount": "350",
@@ -15958,7 +15958,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_35": {
-            "ammount": "350",
+            "ammount": "700",
             "method": "Transfer"
         },
         "month_7_apt_36": {
@@ -16858,8 +16858,8 @@ var incomeTables = `[
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
-            "ammount": "4200",
-            "remainToPay": "1050"
+            "ammount": "4550",
+            "remainToPay": "1400"
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
@@ -16953,8 +16953,8 @@ var incomeTables = `[
         },
         "totalApt_35": {
             "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
-            "ammount": "2450",
-            "remainToPay": "-700"
+            "ammount": "2800",
+            "remainToPay": "-350"
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
