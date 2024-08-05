@@ -16002,24 +16002,24 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_6": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_7": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_8": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_10": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_8_apt_11": {
             "ammount": "",
@@ -16030,8 +16030,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_13": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_14": {
             "ammount": "",
@@ -16050,12 +16050,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_18": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_19": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_8_apt_20": {
             "ammount": "",
@@ -16066,12 +16066,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_22": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_23": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_24": {
             "ammount": "",
@@ -16102,8 +16102,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_8_apt_32": {
             "ammount": "",
@@ -16134,12 +16134,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_39": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Cash"
         },
         "month_9_apt_1": {
             "ammount": "",
@@ -16808,8 +16808,8 @@ var incomeTables = `[
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "2800",
-            "remainToPay": "-350"
+            "ammount": "3150",
+            "remainToPay": "0"
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
@@ -16818,8 +16818,8 @@ var incomeTables = `[
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "2800",
-            "remainToPay": "-350"
+            "ammount": "3150",
+            "remainToPay": "0"
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
@@ -16828,8 +16828,8 @@ var incomeTables = `[
         },
         "totalApt_10": {
             "aptName": "לירון ותומר אברמוביץ'",
-            "ammount": "2450",
-            "remainToPay": "-700"
+            "ammount": "3150",
+            "remainToPay": "0"
         },
         "totalApt_11": {
             "aptName": "אלה ויקטור יעקובנקו",
@@ -16843,8 +16843,8 @@ var incomeTables = `[
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
-            "ammount": "2800",
-            "remainToPay": "-350"
+            "ammount": "3150",
+            "remainToPay": "0"
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
@@ -16868,13 +16868,13 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "3090",
-            "remainToPay": "-1050.71"
+            "ammount": "3440",
+            "remainToPay": "-700.71"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "2800",
-            "remainToPay": "-350"
+            "ammount": "3500",
+            "remainToPay": "350"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
@@ -16888,13 +16888,13 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "2600",
-            "remainToPay": "-700"
+            "ammount": "2950",
+            "remainToPay": "-350"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "2800",
-            "remainToPay": "-350"
+            "ammount": "3150",
+            "remainToPay": "0"
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
@@ -16933,8 +16933,8 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "2450",
-            "remainToPay": "-700"
+            "ammount": "3150",
+            "remainToPay": "0"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
@@ -16973,13 +16973,13 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "2810",
-            "remainToPay": "-350"
+            "ammount": "3160",
+            "remainToPay": "0"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "2596.84",
-            "remainToPay": "4052.11"
+            "ammount": "3296.84",
+            "remainToPay": "4752.11"
         },
         "year": "2024"
     }
