@@ -16062,11 +16062,11 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_21": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_8_apt_22": {
-            "ammount": "350",
+            "ammount": "700",
             "method": "Transfer"
         },
         "month_8_apt_23": {
@@ -16883,13 +16883,13 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
-            "ammount": "2450",
-            "remainToPay": "-700"
+            "ammount": "2800",
+            "remainToPay": "-350"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "2950",
-            "remainToPay": "-350"
+            "ammount": "3300",
+            "remainToPay": "0"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
