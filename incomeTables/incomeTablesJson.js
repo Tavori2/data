@@ -1165,8 +1165,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_12": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_13": {
             "ammount": "",
@@ -1177,16 +1177,16 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_15": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "200",
             "method": "Transfer"
         },
         "month_8_apt_17": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_18": {
             "ammount": "200",
@@ -1213,8 +1213,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_24": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_25": {
             "ammount": "",
@@ -1225,16 +1225,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_27": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_29": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_30": {
             "ammount": "",
@@ -1657,8 +1657,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_15": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_16": {
             "ammount": "",
@@ -1977,7 +1977,7 @@ var incomeTables = `[
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
-            "ammount": "200",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_13": {
@@ -1992,7 +1992,7 @@ var incomeTables = `[
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "400",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_16": {
@@ -2002,7 +2002,7 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "200",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_18": {
@@ -2037,7 +2037,7 @@ var incomeTables = `[
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "200",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_25": {
@@ -2052,7 +2052,7 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "200",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_28": {
@@ -2062,7 +2062,7 @@ var incomeTables = `[
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
-            "ammount": "200",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_30": {
@@ -2168,36 +2168,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_12": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_13": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_14": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_15": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_17": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_20": {
             "ammount": "",
@@ -2216,8 +2216,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_24": {
-            "ammount": "1200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_25": {
             "ammount": "600",
@@ -2260,8 +2260,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_35": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_36": {
             "ammount": "",
@@ -2308,8 +2308,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_7": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_8": {
             "ammount": "",
@@ -2320,8 +2320,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_10": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_11": {
             "ammount": "1600",
@@ -2332,24 +2332,24 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_13": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_14": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_15": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_17": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_18": {
             "ammount": "",
@@ -2364,12 +2364,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_21": {
-            "ammount": "800",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_22": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_23": {
             "ammount": "800",
@@ -2388,16 +2388,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_27": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_28": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_29": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_30": {
             "ammount": "",
@@ -2412,8 +2412,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_33": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_34": {
             "ammount": "",
@@ -2428,16 +2428,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_37": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_39": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_40": {
             "ammount": "",
@@ -2472,16 +2472,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_8": {
-            "ammount": "1200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_10": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_11": {
             "ammount": "",
@@ -2496,8 +2496,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_14": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_15": {
             "ammount": "",
@@ -2508,28 +2508,28 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_17": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_21": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_22": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_23": {
             "ammount": "200",
@@ -2556,8 +2556,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_29": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_30": {
             "ammount": "",
@@ -2572,8 +2572,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_33": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_34": {
             "ammount": "",
@@ -2588,20 +2588,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_37": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_39": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_40": {
-            "ammount": "1400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_1": {
             "ammount": "",
@@ -2640,8 +2640,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_10": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_11": {
             "ammount": "",
@@ -2656,20 +2656,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_14": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_15": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_17": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_18": {
             "ammount": "200",
@@ -2684,20 +2684,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_21": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_22": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_23": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_24": {
-            "ammount": "2000",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_25": {
             "ammount": "400",
@@ -2716,8 +2716,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_29": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_30": {
             "ammount": "",
@@ -2732,8 +2732,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_33": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_34": {
             "ammount": "",
@@ -2748,16 +2748,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_37": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_39": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_40": {
             "ammount": "",
@@ -2800,64 +2800,64 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_10": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_5_apt_11": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_12": {
-            "ammount": "2650",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_13": {
             "ammount": "400",
             "method": "Transfer"
         },
         "month_5_apt_14": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_15": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_16": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_17": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_21": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_5_apt_22": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_23": {
             "ammount": "450",
             "method": "Transfer"
         },
         "month_5_apt_24": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_25": {
             "ammount": "600",
@@ -2868,56 +2868,56 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_27": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_28": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_29": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_30": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_31": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_32": {
             "ammount": "490",
             "method": "Transfer"
         },
         "month_5_apt_33": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_34": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_35": {
-            "ammount": "380",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_36": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_37": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_39": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_40": {
             "ammount": "",
@@ -2940,28 +2940,28 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_6": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_8": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_10": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_11": {
             "ammount": "1550",
@@ -2976,40 +2976,40 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_14": {
-            "ammount": "590",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_6_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_16": {
-            "ammount": "1800",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_17": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_18": {
             "ammount": "250",
             "method": "Transfer"
         },
         "month_6_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_22": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_23": {
             "ammount": "",
@@ -3052,36 +3052,36 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_33": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_36": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_37": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_39": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_40": {
-            "ammount": "850",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_1": {
             "ammount": "",
@@ -3100,28 +3100,28 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_6": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_8": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_11": {
             "ammount": "",
@@ -3140,36 +3140,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_22": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_23": {
             "ammount": "",
@@ -3188,8 +3188,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_28": {
             "ammount": "",
@@ -3212,32 +3212,32 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_39": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_40": {
             "ammount": "",
@@ -3260,28 +3260,28 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_6": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_9": {
             "ammount": "600",
             "method": "Transfer"
         },
         "month_8_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_11": {
             "ammount": "",
@@ -3292,44 +3292,44 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_13": {
-            "ammount": "1020",
-            "method": "Check"
+            "ammount": "720",
+            "method": "Transfer"
         },
         "month_8_apt_14": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_22": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_23": {
             "ammount": "600",
@@ -3348,8 +3348,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "",
@@ -3372,32 +3372,32 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_40": {
             "ammount": "",
@@ -3424,68 +3424,68 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_6": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_11": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_12": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_22": {
             "ammount": "",
@@ -3508,8 +3508,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_28": {
             "ammount": "",
@@ -3524,12 +3524,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_31": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_32": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_33": {
             "ammount": "",
@@ -3540,28 +3540,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_40": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_1": {
             "ammount": "",
@@ -3580,28 +3580,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_5": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_11": {
             "ammount": "",
@@ -3612,48 +3612,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_22": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_23": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_24": {
             "ammount": "",
@@ -3668,8 +3668,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_28": {
             "ammount": "",
@@ -3684,40 +3684,40 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_31": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_33": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_34": {
-            "ammount": "850",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_10_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_40": {
             "ammount": "",
@@ -3740,28 +3740,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_11": {
             "ammount": "",
@@ -3772,48 +3772,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_24": {
             "ammount": "",
@@ -3828,8 +3828,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_28": {
             "ammount": "",
@@ -3844,40 +3844,40 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_31": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_40": {
             "ammount": "",
@@ -3900,28 +3900,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_7": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_9": {
             "ammount": "600",
             "method": "Transfer"
         },
         "month_12_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_11": {
             "ammount": "",
@@ -3932,64 +3932,64 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_24": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_25": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_26": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_28": {
             "ammount": "",
@@ -4004,44 +4004,44 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_31": {
-            "ammount": "750",
-            "method": "Check"
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_12_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_40": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
@@ -4065,22 +4065,22 @@ var incomeTables = `[
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
-            "ammount": "2100",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "1500",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "2500",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "3350",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_9": {
@@ -4090,7 +4090,7 @@ var incomeTables = `[
         },
         "totalApt_10": {
             "aptName": "לירון ותומר אברמוביץ'",
-            "ammount": "3250",
+            "ammount": "450",
             "remainToPay": ""
         },
         "totalApt_11": {
@@ -4100,32 +4100,32 @@ var incomeTables = `[
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
-            "ammount": "3400",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
-            "ammount": "5370",
+            "ammount": "2970",
             "remainToPay": ""
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "3990",
+            "ammount": "250",
             "remainToPay": ""
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "3450",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
-            "ammount": "3050",
+            "ammount": "1000",
             "remainToPay": ""
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "3850",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_18": {
@@ -4135,7 +4135,7 @@ var incomeTables = `[
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "3000",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_20": {
@@ -4145,27 +4145,27 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
-            "ammount": "3850",
+            "ammount": "250",
             "remainToPay": ""
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "2150",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "3650",
+            "ammount": "2450",
             "remainToPay": ""
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "3450",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
-            "ammount": "5750",
+            "ammount": "5150",
             "remainToPay": ""
         },
         "totalApt_26": {
@@ -4175,7 +4175,7 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "2250",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_28": {
@@ -4185,7 +4185,7 @@ var incomeTables = `[
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
-            "ammount": "1250",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_30": {
@@ -4195,37 +4195,37 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "4250",
+            "ammount": "2200",
             "remainToPay": ""
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "6940",
+            "ammount": "5440",
             "remainToPay": ""
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "3000",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
-            "ammount": "2350",
+            "ammount": "250",
             "remainToPay": ""
         },
         "totalApt_35": {
             "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
-            "ammount": "3380",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "2350",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "3250",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_38": {
@@ -4235,12 +4235,12 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "3300",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "4050",
+            "ammount": "0",
             "remainToPay": ""
         },
         "year": "2018"
@@ -4263,28 +4263,28 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_9": {
             "ammount": "450",
             "method": "Transfer"
         },
         "month_1_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_11": {
             "ammount": "300",
@@ -4295,64 +4295,64 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_16": {
-            "ammount": "1800",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_20": {
             "ammount": "2100",
             "method": "Cash"
         },
         "month_1_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_24": {
-            "ammount": "3300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_25": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_26": {
             "ammount": "3600",
             "method": "Cash"
         },
         "month_1_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_28": {
             "ammount": "",
@@ -4367,40 +4367,40 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_31": {
-            "ammount": "525",
-            "method": "Check"
+            "ammount": "225",
+            "method": "Transfer"
         },
         "month_1_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_40": {
             "ammount": "",
@@ -4427,24 +4427,24 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_11": {
             "ammount": "300",
@@ -4455,64 +4455,64 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_2_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_24": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_25": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_26": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_28": {
             "ammount": "",
@@ -4531,40 +4531,40 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_38": {
             "ammount": "2800",
             "method": "Transfer"
         },
         "month_2_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_40": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_1": {
             "ammount": "",
@@ -4583,28 +4583,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_11": {
             "ammount": "300",
@@ -4615,64 +4615,64 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_3_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_24": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_25": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_26": {
             "ammount": "150",
             "method": "Cash"
         },
         "month_3_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_28": {
             "ammount": "",
@@ -4687,44 +4687,44 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_33": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_3_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_1": {
             "ammount": "150",
@@ -4743,28 +4743,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_5": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_11": {
             "ammount": "450",
@@ -4775,31 +4775,31 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_4_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_19": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_4_apt_20": {
@@ -4807,31 +4807,31 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_24": {
             "ammount": "150",
             "method": "Cash"
         },
         "month_4_apt_25": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_26": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_27": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_4_apt_28": {
@@ -4847,44 +4847,44 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_31": {
-            "ammount": "1500",
-            "method": "Check"
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_4_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_38": {
             "ammount": "1400",
             "method": "Cash"
         },
         "month_4_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_1": {
             "ammount": "",
@@ -4903,28 +4903,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_11": {
             "ammount": "300",
@@ -4935,48 +4935,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_22": {
             "ammount": "5",
             "method": "Cash"
         },
         "month_5_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_24": {
             "ammount": "",
@@ -4991,8 +4991,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_28": {
             "ammount": "",
@@ -5007,31 +5007,31 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_37": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_5_apt_38": {
@@ -5039,11 +5039,11 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_5_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_40": {
-            "ammount": "382.2",
+            "ammount": "82.18",
             "method": "Cash"
         },
         "month_6_apt_1": {
@@ -5063,19 +5063,19 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_5": {
-            "ammount": "900",
+            "ammount": "600",
             "method": "Cash"
         },
         "month_6_apt_6": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_8": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_9": {
@@ -5083,8 +5083,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_11": {
             "ammount": "",
@@ -5095,64 +5095,64 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_16": {
             "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_18": {
             "ammount": "121",
             "method": "Cash"
         },
         "month_6_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_20": {
             "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_24": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_25": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_26": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_28": {
             "ammount": "",
@@ -5167,43 +5167,43 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_32": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_36": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_38": {
             "ammount": "300",
             "method": "Cash"
         },
         "month_6_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_40": {
-            "ammount": "400",
+            "ammount": "100",
             "method": "Cash"
         },
         "month_7_apt_1": {
@@ -5223,28 +5223,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_9": {
             "ammount": "5",
             "method": "Cash"
         },
         "month_7_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_11": {
             "ammount": "",
@@ -5255,31 +5255,31 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_16": {
-            "ammount": "1800",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_19": {
-            "ammount": "900",
+            "ammount": "600",
             "method": "Cash"
         },
         "month_7_apt_20": {
@@ -5287,16 +5287,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_24": {
             "ammount": "10",
@@ -5311,8 +5311,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_28": {
             "ammount": "",
@@ -5327,43 +5327,43 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_40": {
-            "ammount": "943",
+            "ammount": "643",
             "method": "Cash"
         },
         "month_8_apt_1": {
@@ -5383,28 +5383,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_9": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_11": {
             "ammount": "",
@@ -5415,48 +5415,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_18": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_24": {
             "ammount": "",
@@ -5471,8 +5471,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_8_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "",
@@ -5487,44 +5487,44 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_38": {
             "ammount": "600",
             "method": "Cash"
         },
         "month_8_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_1": {
             "ammount": "",
@@ -5543,28 +5543,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_9": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_11": {
             "ammount": "",
@@ -5575,48 +5575,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_24": {
             "ammount": "",
@@ -5631,8 +5631,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_28": {
             "ammount": "",
@@ -5647,43 +5647,43 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_35": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_40": {
-            "ammount": "695",
+            "ammount": "395",
             "method": "Cash"
         },
         "month_10_apt_1": {
@@ -5703,28 +5703,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_9": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_11": {
             "ammount": "",
@@ -5735,48 +5735,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_24": {
             "ammount": "",
@@ -5791,8 +5791,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_28": {
             "ammount": "",
@@ -5807,43 +5807,43 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_40": {
-            "ammount": "929.5",
+            "ammount": "629.5",
             "method": "Cash"
         },
         "month_11_apt_1": {
@@ -5863,28 +5863,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_11": {
             "ammount": "",
@@ -5895,48 +5895,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_20": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_24": {
             "ammount": "",
@@ -5951,8 +5951,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_28": {
             "ammount": "",
@@ -5967,43 +5967,43 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_40": {
-            "ammount": "540",
+            "ammount": "240",
             "method": "Cash"
         },
         "month_12_apt_1": {
@@ -6023,28 +6023,28 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_5": {
-            "ammount": "550",
+            "ammount": "250",
             "method": "Cash"
         },
         "month_12_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_7": {
-            "ammount": "650",
+            "ammount": "350",
             "method": "Cash"
         },
         "month_12_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_10": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_11": {
             "ammount": "",
@@ -6055,15 +6055,15 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_15": {
-            "ammount": "550",
+            "ammount": "250",
             "method": "Cash"
         },
         "month_12_apt_16": {
@@ -6071,32 +6071,32 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_20": {
             "ammount": "550",
             "method": "Cash"
         },
         "month_12_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_24": {
             "ammount": "",
@@ -6111,7 +6111,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_27": {
-            "ammount": "550",
+            "ammount": "250",
             "method": "Cash"
         },
         "month_12_apt_28": {
@@ -6127,43 +6127,43 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_33": {
-            "ammount": "550",
+            "ammount": "250",
             "method": "Cash"
         },
         "month_12_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_35": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_36": {
-            "ammount": "650",
+            "ammount": "350",
             "method": "Cash"
         },
         "month_12_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_38": {
             "ammount": "1400",
             "method": "Cash"
         },
         "month_12_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_40": {
-            "ammount": "771.7",
+            "ammount": "471.7",
             "method": "Cash"
         },
         "totalApt_1": {
@@ -6188,32 +6188,32 @@ var incomeTables = `[
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
-            "ammount": "4450",
+            "ammount": "850",
             "remainToPay": ""
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "3750",
+            "ammount": "150",
             "remainToPay": ""
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "3950",
+            "ammount": "350",
             "remainToPay": ""
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "3750",
+            "ammount": "150",
             "remainToPay": ""
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
-            "ammount": "1355",
+            "ammount": "455",
             "remainToPay": ""
         },
         "totalApt_10": {
             "aptName": "לירון ותומר אברמוביץ'",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_11": {
@@ -6228,37 +6228,37 @@ var incomeTables = `[
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "3850",
+            "ammount": "250",
             "remainToPay": ""
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
-            "ammount": "3750",
+            "ammount": "150",
             "remainToPay": ""
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "1321",
+            "ammount": "121",
             "remainToPay": ""
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "4350",
+            "ammount": "750",
             "remainToPay": ""
         },
         "totalApt_20": {
@@ -6268,7 +6268,7 @@ var incomeTables = `[
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_22": {
@@ -6278,17 +6278,17 @@ var incomeTables = `[
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "3460",
+            "ammount": "160",
             "remainToPay": ""
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
-            "ammount": "3600",
+            "ammount": "2100",
             "remainToPay": ""
         },
         "totalApt_26": {
@@ -6298,7 +6298,7 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "4000",
+            "ammount": "400",
             "remainToPay": ""
         },
         "totalApt_28": {
@@ -6318,37 +6318,37 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "4725",
+            "ammount": "625",
             "remainToPay": ""
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "3750",
+            "ammount": "150",
             "remainToPay": ""
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "4000",
+            "ammount": "400",
             "remainToPay": ""
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_35": {
             "aptName": "ליאת ומקסים ינובר-לבהר / שחר",
-            "ammount": "3300",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "4100",
+            "ammount": "500",
             "remainToPay": ""
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "3750",
+            "ammount": "150",
             "remainToPay": ""
         },
         "totalApt_38": {
@@ -6358,12 +6358,12 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "6161.43",
+            "ammount": "2561.43",
             "remainToPay": ""
         },
         "year": "2019"
@@ -6386,24 +6386,24 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_9": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_10": {
             "ammount": "300",
@@ -6418,48 +6418,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_14": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_1_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_24": {
             "ammount": "",
@@ -6474,8 +6474,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_28": {
             "ammount": "",
@@ -6490,16 +6490,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_34": {
             "ammount": "300",
@@ -6510,24 +6510,24 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_1": {
             "ammount": "",
@@ -6550,20 +6550,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_9": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_10": {
             "ammount": "300",
@@ -6578,48 +6578,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_14": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_2_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_16": {
-            "ammount": "3600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_24": {
             "ammount": "",
@@ -6634,8 +6634,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_28": {
             "ammount": "",
@@ -6650,44 +6650,44 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_2_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_1": {
             "ammount": "",
@@ -6706,24 +6706,24 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_5": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_9": {
-            "ammount": "1200",
-            "method": "Check"
+            "ammount": "900",
+            "method": "Transfer"
         },
         "month_3_apt_10": {
             "ammount": "300",
@@ -6738,48 +6738,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_21": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_22": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_24": {
             "ammount": "",
@@ -6794,8 +6794,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_28": {
             "ammount": "",
@@ -6810,44 +6810,44 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_31": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_3_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_40": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_1": {
             "ammount": "",
@@ -6866,20 +6866,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_9": {
             "ammount": "",
@@ -6898,36 +6898,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_21": {
             "ammount": "300",
@@ -6938,12 +6938,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_24": {
-            "ammount": "2700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_25": {
             "ammount": "300",
@@ -6954,8 +6954,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_28": {
             "ammount": "",
@@ -6974,36 +6974,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_4_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_40": {
             "ammount": "600",
@@ -7034,12 +7034,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_9": {
             "ammount": "900",
@@ -7058,36 +7058,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_21": {
             "ammount": "300",
@@ -7098,8 +7098,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_24": {
             "ammount": "",
@@ -7114,8 +7114,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_28": {
             "ammount": "",
@@ -7134,36 +7134,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_5_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_40": {
             "ammount": "300",
@@ -7186,20 +7186,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_5": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_6": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_9": {
             "ammount": "",
@@ -7218,36 +7218,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_21": {
             "ammount": "300",
@@ -7258,8 +7258,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_24": {
             "ammount": "",
@@ -7274,8 +7274,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_28": {
             "ammount": "",
@@ -7294,36 +7294,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_6_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_40": {
             "ammount": "300",
@@ -7346,20 +7346,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_6": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_9": {
             "ammount": "",
@@ -7378,36 +7378,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_21": {
             "ammount": "300",
@@ -7418,8 +7418,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_24": {
             "ammount": "",
@@ -7434,8 +7434,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_28": {
             "ammount": "",
@@ -7454,36 +7454,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_7_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_40": {
             "ammount": "300",
@@ -7510,16 +7510,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_9": {
             "ammount": "",
@@ -7538,32 +7538,32 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_20": {
             "ammount": "",
@@ -7578,8 +7578,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_24": {
             "ammount": "",
@@ -7594,8 +7594,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "",
@@ -7614,36 +7614,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_8_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_40": {
             "ammount": "300",
@@ -7666,20 +7666,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_8": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_9": {
             "ammount": "",
@@ -7698,36 +7698,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_20": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_21": {
             "ammount": "300",
@@ -7738,8 +7738,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_24": {
             "ammount": "",
@@ -7754,8 +7754,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_28": {
             "ammount": "",
@@ -7774,36 +7774,36 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_9_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_40": {
             "ammount": "300",
@@ -7826,20 +7826,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_8": {
-            "ammount": "200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_9": {
             "ammount": "900",
@@ -7858,32 +7858,32 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_20": {
             "ammount": "",
@@ -7898,8 +7898,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_24": {
             "ammount": "",
@@ -7914,8 +7914,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_28": {
             "ammount": "300",
@@ -7934,36 +7934,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_10_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_40": {
             "ammount": "300",
@@ -7986,20 +7986,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_9": {
             "ammount": "",
@@ -8018,36 +8018,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_20": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_21": {
             "ammount": "300",
@@ -8058,8 +8058,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_24": {
             "ammount": "",
@@ -8074,8 +8074,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_28": {
             "ammount": "300",
@@ -8094,36 +8094,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_11_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_40": {
             "ammount": "300",
@@ -8146,20 +8146,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_5": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_6": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_9": {
             "ammount": "",
@@ -8178,36 +8178,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_21": {
             "ammount": "300",
@@ -8218,8 +8218,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_24": {
             "ammount": "",
@@ -8234,8 +8234,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_28": {
             "ammount": "300",
@@ -8254,36 +8254,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_34": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_35": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_12_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_40": {
             "ammount": "300",
@@ -8311,27 +8311,27 @@ var incomeTables = `[
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
-            "ammount": "3600",
+            "ammount": "2700",
             "remainToPay": ""
         },
         "totalApt_10": {
@@ -8351,47 +8351,47 @@ var incomeTables = `[
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "3600",
+            "ammount": "600",
             "remainToPay": ""
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
-            "ammount": "3900",
+            "ammount": "3000",
             "remainToPay": ""
         },
         "totalApt_22": {
@@ -8401,12 +8401,12 @@ var incomeTables = `[
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "2700",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_25": {
@@ -8421,7 +8421,7 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_28": {
@@ -8441,22 +8441,22 @@ var incomeTables = `[
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "12900",
+            "ammount": "12000",
             "remainToPay": ""
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
-            "ammount": "3600",
+            "ammount": "300",
             "remainToPay": ""
         },
         "totalApt_35": {
@@ -8466,12 +8466,12 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_38": {
@@ -8481,12 +8481,12 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "3900",
+            "ammount": "3000",
             "remainToPay": ""
         },
         "year": "2020"
@@ -8509,16 +8509,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_8": {
             "ammount": "",
@@ -8541,36 +8541,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_16": {
             "ammount": "3600",
             "method": "Transfer"
         },
         "month_1_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_21": {
             "ammount": "300",
@@ -8581,12 +8581,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_24": {
-            "ammount": "3600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_25": {
             "ammount": "300",
@@ -8597,8 +8597,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_28": {
             "ammount": "300",
@@ -8617,12 +8617,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_34": {
             "ammount": "600",
@@ -8633,20 +8633,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_40": {
             "ammount": "300",
@@ -8673,16 +8673,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_8": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_9": {
             "ammount": "",
@@ -8701,32 +8701,32 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_20": {
             "ammount": "",
@@ -8757,8 +8757,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_28": {
             "ammount": "300",
@@ -8777,12 +8777,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_34": {
             "ammount": "",
@@ -8793,20 +8793,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_40": {
             "ammount": "300",
@@ -8829,20 +8829,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_9": {
             "ammount": "",
@@ -8861,36 +8861,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_21": {
             "ammount": "300",
@@ -8901,8 +8901,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_24": {
             "ammount": "",
@@ -8917,8 +8917,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_28": {
             "ammount": "300",
@@ -8937,12 +8937,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_34": {
             "ammount": "600",
@@ -8953,20 +8953,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_40": {
             "ammount": "300",
@@ -8989,20 +8989,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_5": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_9": {
             "ammount": "900",
@@ -9021,48 +9021,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_20": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_21": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_4_apt_22": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_23": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_24": {
             "ammount": "",
@@ -9077,8 +9077,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_28": {
             "ammount": "300",
@@ -9097,12 +9097,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_34": {
             "ammount": "",
@@ -9113,20 +9113,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_40": {
             "ammount": "300",
@@ -9149,20 +9149,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_9": {
             "ammount": "",
@@ -9181,48 +9181,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_21": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_5_apt_22": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_24": {
             "ammount": "",
@@ -9237,8 +9237,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_28": {
             "ammount": "300",
@@ -9257,12 +9257,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_34": {
             "ammount": "600",
@@ -9273,20 +9273,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_40": {
             "ammount": "300",
@@ -9309,20 +9309,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_9": {
             "ammount": "",
@@ -9341,48 +9341,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_14": {
-            "ammount": "400",
-            "method": "Check"
+            "ammount": "100",
+            "method": "Transfer"
         },
         "month_6_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_21": {
             "ammount": "400",
             "method": "Transfer"
         },
         "month_6_apt_22": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_24": {
             "ammount": "",
@@ -9397,8 +9397,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_28": {
             "ammount": "400",
@@ -9417,12 +9417,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_34": {
             "ammount": "",
@@ -9433,20 +9433,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_40": {
             "ammount": "300",
@@ -9469,20 +9469,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_8": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_9": {
             "ammount": "1000",
@@ -9501,36 +9501,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_13": {
-            "ammount": "500",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_14": {
-            "ammount": "500",
-            "method": "Check"
+            "ammount": "200",
+            "method": "Transfer"
         },
         "month_7_apt_15": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_17": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_18": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_7_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_20": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_21": {
             "ammount": "500",
@@ -9541,8 +9541,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_23": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "300",
+            "method": "Transfer"
         },
         "month_7_apt_24": {
             "ammount": "",
@@ -9557,8 +9557,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_28": {
             "ammount": "500",
@@ -9577,12 +9577,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_34": {
             "ammount": "700",
@@ -9593,20 +9593,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_39": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_40": {
             "ammount": "300",
@@ -9629,20 +9629,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_6": {
-            "ammount": "500",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_9": {
             "ammount": "200",
@@ -9661,36 +9661,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_21": {
             "ammount": "300",
@@ -9701,8 +9701,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_24": {
             "ammount": "",
@@ -9717,8 +9717,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "300",
@@ -9737,12 +9737,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_34": {
             "ammount": "200",
@@ -9753,20 +9753,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_40": {
             "ammount": "600",
@@ -9789,20 +9789,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_9": {
             "ammount": "",
@@ -9821,36 +9821,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_21": {
             "ammount": "300",
@@ -9861,8 +9861,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_24": {
             "ammount": "200",
@@ -9877,8 +9877,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_28": {
             "ammount": "300",
@@ -9897,12 +9897,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_34": {
             "ammount": "600",
@@ -9913,20 +9913,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_40": {
             "ammount": "300",
@@ -9949,20 +9949,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_9": {
             "ammount": "900",
@@ -9981,36 +9981,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_21": {
             "ammount": "800",
@@ -10021,8 +10021,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_24": {
             "ammount": "",
@@ -10037,8 +10037,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_28": {
             "ammount": "300",
@@ -10057,12 +10057,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_34": {
             "ammount": "",
@@ -10073,20 +10073,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_40": {
             "ammount": "300",
@@ -10109,20 +10109,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_9": {
             "ammount": "",
@@ -10141,36 +10141,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_21": {
             "ammount": "300",
@@ -10181,8 +10181,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_24": {
             "ammount": "",
@@ -10197,8 +10197,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_28": {
             "ammount": "300",
@@ -10217,12 +10217,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_34": {
             "ammount": "600",
@@ -10233,20 +10233,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_40": {
             "ammount": "300",
@@ -10269,20 +10269,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_5": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_9": {
             "ammount": "",
@@ -10301,36 +10301,36 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_21": {
             "ammount": "300",
@@ -10341,8 +10341,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_24": {
             "ammount": "",
@@ -10357,8 +10357,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_28": {
             "ammount": "300",
@@ -10377,12 +10377,12 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_34": {
             "ammount": "",
@@ -10393,20 +10393,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_39": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_40": {
             "ammount": "300",
@@ -10434,22 +10434,22 @@ var incomeTables = `[
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "3800",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "3900",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_9": {
@@ -10474,17 +10474,17 @@ var incomeTables = `[
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
-            "ammount": "3800",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "3900",
+            "ammount": "300",
             "remainToPay": ""
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "3900",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_16": {
@@ -10494,22 +10494,22 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "3900",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "3900",
+            "ammount": "300",
             "remainToPay": ""
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
-            "ammount": "3900",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_21": {
@@ -10519,17 +10519,17 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "2700",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "3900",
+            "ammount": "300",
             "remainToPay": ""
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "3800",
+            "ammount": "200",
             "remainToPay": ""
         },
         "totalApt_25": {
@@ -10544,7 +10544,7 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "3900",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_28": {
@@ -10569,12 +10569,12 @@ var incomeTables = `[
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_34": {
@@ -10589,12 +10589,12 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "3600",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_38": {
@@ -10604,7 +10604,7 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "3900",
+            "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_40": {
@@ -10632,16 +10632,16 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_5": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_8": {
             "ammount": "",
@@ -10664,32 +10664,32 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_16": {
             "ammount": "1800",
             "method": "Transfer"
         },
         "month_1_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_19": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_20": {
             "ammount": "300",
@@ -10700,16 +10700,16 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_22": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_23": {
             "ammount": "",
             "method": ""
         },
         "month_1_apt_24": {
-            "ammount": "3600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_25": {
             "ammount": "300",
@@ -10720,8 +10720,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_28": {
             "ammount": "300",
@@ -10740,12 +10740,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_34": {
             "ammount": "600",
@@ -10756,12 +10756,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_38": {
             "ammount": "",
@@ -10784,7 +10784,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_2_apt_3": {
-            "ammount": "1885",
+            "ammount": "185",
             "method": "Cash"
         },
         "month_2_apt_4": {
@@ -10796,16 +10796,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_9": {
             "ammount": "1800",
@@ -10824,36 +10824,36 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_2_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_19": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_21": {
             "ammount": "550",
@@ -10864,8 +10864,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_23": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_24": {
             "ammount": "",
@@ -10880,8 +10880,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_28": {
             "ammount": "300",
@@ -10900,12 +10900,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_34": {
             "ammount": "",
@@ -10916,12 +10916,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_38": {
             "ammount": "",
@@ -10952,20 +10952,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_5": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_8": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_9": {
             "ammount": "",
@@ -10984,44 +10984,44 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_3_apt_13": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_21": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_3_apt_22": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_23": {
             "ammount": "",
@@ -11040,8 +11040,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_3_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_28": {
             "ammount": "300",
@@ -11060,11 +11060,11 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_33": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_3_apt_34": {
@@ -11076,12 +11076,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_38": {
             "ammount": "",
@@ -11116,16 +11116,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_9": {
             "ammount": "",
@@ -11144,36 +11144,36 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_4_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_18": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_4_apt_19": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_4_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_21": {
             "ammount": "500",
@@ -11184,8 +11184,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_24": {
             "ammount": "150",
@@ -11200,7 +11200,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_27": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_4_apt_28": {
@@ -11220,12 +11220,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_34": {
             "ammount": "150",
@@ -11236,12 +11236,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_38": {
             "ammount": "1400",
@@ -11264,28 +11264,28 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_5_apt_3": {
-            "ammount": "1000",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_4": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_5": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_9": {
             "ammount": "",
@@ -11304,48 +11304,48 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_19": {
             "ammount": "",
             "method": ""
         },
         "month_5_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_21": {
             "ammount": "560",
             "method": "Transfer"
         },
         "month_5_apt_22": {
-            "ammount": "605",
+            "ammount": "5",
             "method": "Cash"
         },
         "month_5_apt_23": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_24": {
             "ammount": "",
@@ -11360,8 +11360,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_28": {
             "ammount": "450",
@@ -11380,12 +11380,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_34": {
             "ammount": "600",
@@ -11396,11 +11396,11 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_37": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_5_apt_38": {
@@ -11424,27 +11424,27 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_3": {
-            "ammount": "1000",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_4": {
             "ammount": "900",
             "method": "Transfer"
         },
         "month_6_apt_5": {
-            "ammount": "1300",
+            "ammount": "600",
             "method": "Cash"
         },
         "month_6_apt_6": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_7": {
-            "ammount": "500",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_8": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_9": {
@@ -11460,39 +11460,39 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_12": {
-            "ammount": "1050",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_14": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_6_apt_15": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_16": {
             "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_18": {
-            "ammount": "421",
+            "ammount": "121",
             "method": "Cash"
         },
         "month_6_apt_19": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_20": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_21": {
@@ -11520,8 +11520,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_28": {
             "ammount": "300",
@@ -11540,12 +11540,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_32": {
-            "ammount": "450",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_34": {
             "ammount": "",
@@ -11556,12 +11556,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_36": {
-            "ammount": "500",
+            "ammount": "150",
             "method": "Cash"
         },
         "month_6_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_38": {
             "ammount": "300",
@@ -11592,20 +11592,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_5": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_9": {
             "ammount": "905",
@@ -11616,52 +11616,52 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_11": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_12": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_7_apt_17": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_18": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_19": {
             "ammount": "600",
             "method": "Cash"
         },
         "month_7_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_21": {
             "ammount": "300",
             "method": "Transfer"
         },
         "month_7_apt_22": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_23": {
             "ammount": "600",
@@ -11680,8 +11680,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_28": {
             "ammount": "305",
@@ -11700,12 +11700,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_34": {
             "ammount": "600",
@@ -11716,12 +11716,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_38": {
             "ammount": "",
@@ -11756,16 +11756,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_9": {
             "ammount": "",
@@ -11776,32 +11776,32 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_12": {
             "ammount": "",
             "method": ""
         },
         "month_8_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "1800",
             "method": "Transfer"
         },
         "month_8_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_18": {
             "ammount": "716",
@@ -11812,8 +11812,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_21": {
             "ammount": "632",
@@ -11840,8 +11840,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_8_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "300",
@@ -11860,12 +11860,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_34": {
             "ammount": "",
@@ -11876,12 +11876,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_38": {
             "ammount": "600",
@@ -11912,20 +11912,20 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_5": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_9": {
             "ammount": "",
@@ -11936,32 +11936,32 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_12": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_9_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_18": {
             "ammount": "",
@@ -11972,16 +11972,16 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_21": {
             "ammount": "509",
             "method": "Transfer"
         },
         "month_9_apt_22": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_23": {
             "ammount": "",
@@ -12000,8 +12000,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_28": {
             "ammount": "300",
@@ -12020,12 +12020,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_34": {
             "ammount": "",
@@ -12036,12 +12036,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_38": {
             "ammount": "",
@@ -12076,16 +12076,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_9": {
             "ammount": "",
@@ -12096,32 +12096,32 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_12": {
-            "ammount": "1500",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_18": {
             "ammount": "818",
@@ -12132,8 +12132,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_21": {
             "ammount": "300",
@@ -12160,8 +12160,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_28": {
             "ammount": "300",
@@ -12180,12 +12180,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_34": {
             "ammount": "",
@@ -12196,12 +12196,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_38": {
             "ammount": "",
@@ -12232,20 +12232,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_5": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_7": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_8": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_9": {
             "ammount": "900",
@@ -12256,32 +12256,32 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_12": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_13": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_11_apt_17": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_18": {
             "ammount": "480",
@@ -12292,16 +12292,16 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_20": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_21": {
             "ammount": "449",
             "method": "Transfer"
         },
         "month_11_apt_22": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_23": {
             "ammount": "300",
@@ -12320,8 +12320,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_28": {
             "ammount": "300",
@@ -12340,12 +12340,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_34": {
             "ammount": "1200",
@@ -12360,8 +12360,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_38": {
             "ammount": "",
@@ -12396,16 +12396,16 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_12_apt_6": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_7": {
             "ammount": "350",
             "method": "Cash"
         },
         "month_12_apt_8": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_12_apt_9": {
             "ammount": "500",
@@ -12416,23 +12416,23 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_12": {
             "ammount": "1150",
             "method": "Transfer"
         },
         "month_12_apt_13": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_12_apt_14": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_12_apt_15": {
-            "ammount": "550",
+            "ammount": "250",
             "method": "Cash"
         },
         "month_12_apt_16": {
@@ -12440,8 +12440,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_12_apt_18": {
             "ammount": "526",
@@ -12460,8 +12460,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_22": {
-            "ammount": "250",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_23": {
             "ammount": "550",
@@ -12480,7 +12480,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_27": {
-            "ammount": "550",
+            "ammount": "250",
             "method": "Cash"
         },
         "month_12_apt_28": {
@@ -12500,11 +12500,11 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_32": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_12_apt_33": {
-            "ammount": "550",
+            "ammount": "250",
             "method": "Cash"
         },
         "month_12_apt_34": {
@@ -12520,8 +12520,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_12_apt_37": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "250",
+            "method": "Transfer"
         },
         "month_12_apt_38": {
             "ammount": "1400",
@@ -12547,8 +12547,8 @@ var incomeTables = `[
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
-            "ammount": "4285",
-            "remainToPay": "285"
+            "ammount": "585",
+            "remainToPay": "-3415"
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
@@ -12557,23 +12557,23 @@ var incomeTables = `[
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "850",
+            "remainToPay": "-3150"
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "3750",
-            "remainToPay": "-250"
+            "ammount": "150",
+            "remainToPay": "-3850"
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "350",
+            "remainToPay": "-3650"
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "400",
+            "remainToPay": "-3600"
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
@@ -12587,28 +12587,28 @@ var incomeTables = `[
         },
         "totalApt_11": {
             "aptName": "אלה ויקטור יעקובנקו",
-            "ammount": "3750",
-            "remainToPay": "-250"
+            "ammount": "1650",
+            "remainToPay": "-2350"
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
-            "ammount": "4900",
-            "remainToPay": "900"
+            "ammount": "2350",
+            "remainToPay": "-1650"
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
-            "ammount": "4000",
-            "remainToPay": "-5"
+            "ammount": "250",
+            "remainToPay": "-3755"
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "400",
+            "remainToPay": "-3600"
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "250",
+            "remainToPay": "-3750"
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
@@ -12617,23 +12617,23 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "250",
+            "remainToPay": "-3750"
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "4911",
-            "remainToPay": "-250"
+            "ammount": "2811",
+            "remainToPay": "-2350"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "2500",
+            "remainToPay": "-1500"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "1000",
+            "remainToPay": "-3000"
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
@@ -12642,18 +12642,18 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "4005",
-            "remainToPay": "0"
+            "ammount": "155",
+            "remainToPay": "-3850"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "2500",
+            "remainToPay": "-1500"
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "4010",
-            "remainToPay": "0"
+            "ammount": "410",
+            "remainToPay": "-3600"
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
@@ -12667,8 +12667,8 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "400",
+            "remainToPay": "-3600"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
@@ -12692,13 +12692,13 @@ var incomeTables = `[
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "400",
+            "remainToPay": "-3600"
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "400",
+            "remainToPay": "-3600"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
@@ -12712,13 +12712,13 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "500",
+            "remainToPay": "-3500"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "400",
+            "remainToPay": "-3600"
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
@@ -12747,7 +12747,7 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_1_apt_3": {
-            "ammount": "3335",
+            "ammount": "2485",
             "method": "Cash"
         },
         "month_1_apt_4": {
@@ -12763,8 +12763,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_8": {
             "ammount": "",
@@ -12863,12 +12863,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_34": {
             "ammount": "",
@@ -12923,8 +12923,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_8": {
             "ammount": "900",
@@ -12939,8 +12939,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_11": {
-            "ammount": "550",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_12": {
             "ammount": "",
@@ -12951,20 +12951,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_14": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_15": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_17": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_18": {
             "ammount": "",
@@ -13003,8 +13003,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_27": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_28": {
             "ammount": "300",
@@ -13023,12 +13023,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_34": {
             "ammount": "1450",
@@ -13039,8 +13039,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_36": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_37": {
             "ammount": "600",
@@ -13083,8 +13083,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_8": {
             "ammount": "",
@@ -13099,8 +13099,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_12": {
             "ammount": "",
@@ -13111,12 +13111,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_16": {
             "ammount": "",
@@ -13163,8 +13163,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_28": {
             "ammount": "300",
@@ -13183,12 +13183,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_34": {
             "ammount": "",
@@ -13199,12 +13199,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_37": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_38": {
             "ammount": "",
@@ -13243,8 +13243,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_8": {
             "ammount": "900",
@@ -13271,20 +13271,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_4_apt_17": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_18": {
             "ammount": "",
@@ -13323,8 +13323,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_28": {
             "ammount": "300",
@@ -13343,12 +13343,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_34": {
             "ammount": "",
@@ -13379,8 +13379,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_1": {
-            "ammount": "1200",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_2": {
             "ammount": "300",
@@ -13403,8 +13403,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_8": {
             "ammount": "",
@@ -13419,8 +13419,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_11": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_12": {
             "ammount": "900",
@@ -13431,12 +13431,12 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_5_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_16": {
             "ammount": "",
@@ -13483,8 +13483,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_28": {
             "ammount": "300",
@@ -13503,12 +13503,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_32": {
-            "ammount": "310",
+            "ammount": "10",
             "method": "Cash"
         },
         "month_5_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_34": {
             "ammount": "1200",
@@ -13519,8 +13519,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_36": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_37": {
             "ammount": "300",
@@ -13563,8 +13563,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_8": {
             "ammount": "",
@@ -13579,8 +13579,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_12": {
             "ammount": "",
@@ -13591,20 +13591,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_17": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_18": {
             "ammount": "",
@@ -13643,8 +13643,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_28": {
             "ammount": "300",
@@ -13663,12 +13663,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_34": {
             "ammount": "",
@@ -13679,8 +13679,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_37": {
             "ammount": "300",
@@ -13723,8 +13723,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_8": {
             "ammount": "900",
@@ -13739,8 +13739,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_12": {
             "ammount": "900",
@@ -13751,12 +13751,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_16": {
             "ammount": "",
@@ -13803,8 +13803,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "1094",
-            "method": "Check"
+            "ammount": "794.3",
+            "method": "Transfer"
         },
         "month_7_apt_28": {
             "ammount": "300",
@@ -13823,12 +13823,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_34": {
             "ammount": "",
@@ -13839,8 +13839,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_37": {
             "ammount": "300",
@@ -13859,8 +13859,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_8_apt_1": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_2": {
             "ammount": "250",
@@ -13883,8 +13883,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_8": {
             "ammount": "",
@@ -13899,8 +13899,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_12": {
             "ammount": "",
@@ -13911,20 +13911,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "1800",
             "method": "Transfer"
         },
         "month_8_apt_17": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_18": {
             "ammount": "",
@@ -13963,8 +13963,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "300",
@@ -13983,12 +13983,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_34": {
             "ammount": "",
@@ -13999,8 +13999,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_37": {
             "ammount": "300",
@@ -14019,8 +14019,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_9_apt_1": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_2": {
             "ammount": "300",
@@ -14043,8 +14043,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_8": {
             "ammount": "",
@@ -14059,8 +14059,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_12": {
             "ammount": "",
@@ -14071,12 +14071,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_16": {
             "ammount": "",
@@ -14123,8 +14123,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_27": {
-            "ammount": "845.1",
-            "method": "Check"
+            "ammount": "545.1",
+            "method": "Transfer"
         },
         "month_9_apt_28": {
             "ammount": "300",
@@ -14143,12 +14143,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_34": {
             "ammount": "1200",
@@ -14159,8 +14159,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_9_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_9_apt_37": {
             "ammount": "300",
@@ -14179,8 +14179,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_10_apt_1": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_2": {
             "ammount": "300",
@@ -14203,8 +14203,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_8": {
             "ammount": "",
@@ -14219,8 +14219,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_12": {
             "ammount": "900",
@@ -14231,20 +14231,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_17": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_18": {
             "ammount": "",
@@ -14283,8 +14283,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_27": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_28": {
             "ammount": "300",
@@ -14303,12 +14303,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_34": {
             "ammount": "",
@@ -14319,8 +14319,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_10_apt_37": {
             "ammount": "300",
@@ -14339,8 +14339,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_11_apt_1": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_2": {
             "ammount": "450",
@@ -14363,8 +14363,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_7": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_8": {
             "ammount": "1050",
@@ -14379,8 +14379,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_12": {
             "ammount": "150",
@@ -14391,12 +14391,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_14": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_11_apt_15": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_16": {
             "ammount": "150",
@@ -14463,12 +14463,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_32": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_11_apt_33": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_11_apt_34": {
             "ammount": "",
@@ -14479,8 +14479,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_11_apt_36": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_11_apt_37": {
             "ammount": "450",
@@ -14499,8 +14499,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_1": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_2": {
             "ammount": "305",
@@ -14523,8 +14523,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_7": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_8": {
             "ammount": "",
@@ -14539,8 +14539,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_11": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_12": {
             "ammount": "",
@@ -14551,20 +14551,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_14": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_15": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "150",
+            "method": "Transfer"
         },
         "month_12_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "600",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_18": {
             "ammount": "698",
@@ -14623,12 +14623,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_32": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_33": {
-            "ammount": "300",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_34": {
             "ammount": "",
@@ -14639,8 +14639,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_36": {
-            "ammount": "450",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_12_apt_37": {
             "ammount": "300",
@@ -14660,8 +14660,8 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
-            "ammount": "4000",
-            "remainToPay": "0"
+            "ammount": "550",
+            "remainToPay": "-3450"
         },
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
@@ -14670,8 +14670,8 @@ var incomeTables = `[
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
-            "ammount": "3485",
-            "remainToPay": "0"
+            "ammount": "2635",
+            "remainToPay": "-4550"
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
@@ -14681,22 +14681,22 @@ var incomeTables = `[
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
             "ammount": "3750",
-            "remainToPay": "0"
+            "remainToPay": "-3150"
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
             "ammount": "4000",
-            "remainToPay": "0"
+            "remainToPay": "-3600"
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "3750",
-            "remainToPay": "0"
+            "ammount": "0",
+            "remainToPay": "-7400"
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
             "ammount": "3750",
-            "remainToPay": "0"
+            "remainToPay": "-3600"
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
@@ -14710,28 +14710,28 @@ var incomeTables = `[
         },
         "totalApt_11": {
             "aptName": "אלה ויקטור יעקובנקו",
-            "ammount": "3550",
-            "remainToPay": "-450"
+            "ammount": "0",
+            "remainToPay": "-6100"
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
             "ammount": "2850",
-            "remainToPay": "0"
+            "remainToPay": "-2550"
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
             "ammount": "3755",
-            "remainToPay": "-5"
+            "remainToPay": "-3755"
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "3750",
-            "remainToPay": "0"
+            "ammount": "150",
+            "remainToPay": "-7200"
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "3750",
-            "remainToPay": "0"
+            "ammount": "150",
+            "remainToPay": "-7350"
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
@@ -14740,23 +14740,23 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "3750",
-            "remainToPay": "0"
+            "ammount": "150",
+            "remainToPay": "-7350"
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
             "ammount": "5923.18",
-            "remainToPay": "4.54747350886464E-13"
+            "remainToPay": "-2100"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
             "ammount": "3750",
-            "remainToPay": "0"
+            "remainToPay": "-1500"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
             "ammount": "3750",
-            "remainToPay": "0"
+            "remainToPay": "-3000"
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
@@ -14766,17 +14766,17 @@ var incomeTables = `[
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
             "ammount": "3605",
-            "remainToPay": "-150"
+            "remainToPay": "-4000"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
             "ammount": "3750",
-            "remainToPay": "0"
+            "remainToPay": "-1500"
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
             "ammount": "4400",
-            "remainToPay": "650"
+            "remainToPay": "-2950"
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
@@ -14790,8 +14790,8 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "5947.23",
-            "remainToPay": "289.11"
+            "ammount": "2947.23",
+            "remainToPay": "-6310.89"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
@@ -14815,13 +14815,13 @@ var incomeTables = `[
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "3760",
-            "remainToPay": "0"
+            "ammount": "160",
+            "remainToPay": "-7200"
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "3750",
-            "remainToPay": "-5"
+            "ammount": "150",
+            "remainToPay": "-7205"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
@@ -14835,13 +14835,13 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "3750",
-            "remainToPay": "0"
+            "ammount": "0",
+            "remainToPay": "-7250"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "3750",
-            "remainToPay": "0"
+            "ammount": "3450",
+            "remainToPay": "-3900"
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
@@ -14886,8 +14886,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_8": {
             "ammount": "1050",
@@ -14986,12 +14986,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_32": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_33": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_34": {
             "ammount": "",
@@ -15002,8 +15002,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_1_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_1_apt_37": {
             "ammount": "350",
@@ -15062,8 +15062,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_11": {
-            "ammount": "800",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_12": {
             "ammount": "",
@@ -15074,8 +15074,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_14": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_15": {
             "ammount": "",
@@ -15126,8 +15126,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_27": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_2_apt_28": {
             "ammount": "350",
@@ -15206,8 +15206,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_7": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_8": {
             "ammount": "",
@@ -15222,8 +15222,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_11": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_12": {
             "ammount": "",
@@ -15234,20 +15234,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_14": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_15": {
-            "ammount": "1050",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_17": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_18": {
             "ammount": "1043",
@@ -15286,8 +15286,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_27": {
-            "ammount": "967.5",
-            "method": "Check"
+            "ammount": "617.5",
+            "method": "Transfer"
         },
         "month_3_apt_28": {
             "ammount": "350",
@@ -15306,12 +15306,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_32": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_33": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_34": {
             "ammount": "1050",
@@ -15322,8 +15322,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_3_apt_36": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_3_apt_37": {
             "ammount": "350",
@@ -15366,8 +15366,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_8": {
             "ammount": "1050",
@@ -15382,8 +15382,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_11": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_12": {
             "ammount": "",
@@ -15394,8 +15394,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_14": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_15": {
             "ammount": "",
@@ -15406,8 +15406,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_17": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_18": {
             "ammount": "",
@@ -15446,8 +15446,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_27": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_28": {
             "ammount": "350",
@@ -15466,12 +15466,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_32": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_33": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_34": {
             "ammount": "150",
@@ -15482,8 +15482,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_4_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_4_apt_37": {
             "ammount": "350",
@@ -15502,8 +15502,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_5_apt_1": {
-            "ammount": "1000",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_2": {
             "ammount": "350",
@@ -15526,8 +15526,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_7": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_8": {
             "ammount": "",
@@ -15542,8 +15542,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_11": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_12": {
             "ammount": "1400",
@@ -15554,8 +15554,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_14": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_15": {
             "ammount": "",
@@ -15606,8 +15606,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_27": {
-            "ammount": "765.1",
-            "method": "Check"
+            "ammount": "415.1",
+            "method": "Transfer"
         },
         "month_5_apt_28": {
             "ammount": "350",
@@ -15626,12 +15626,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_32": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_33": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_34": {
             "ammount": "1050",
@@ -15642,8 +15642,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_5_apt_37": {
             "ammount": "350",
@@ -15662,8 +15662,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_6_apt_1": {
-            "ammount": "900",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_2": {
             "ammount": "350",
@@ -15702,8 +15702,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_11": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_12": {
             "ammount": "",
@@ -15714,20 +15714,20 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_14": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_15": {
-            "ammount": "1050",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_6_apt_17": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_18": {
             "ammount": "570",
@@ -15766,8 +15766,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_6_apt_27": {
-            "ammount": "1011",
-            "method": "Check"
+            "ammount": "660.6",
+            "method": "Transfer"
         },
         "month_6_apt_28": {
             "ammount": "350",
@@ -15786,12 +15786,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_32": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_33": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_34": {
             "ammount": "",
@@ -15802,8 +15802,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_6_apt_37": {
             "ammount": "350",
@@ -15846,8 +15846,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_8": {
             "ammount": "700",
@@ -15862,8 +15862,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_11": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_12": {
             "ammount": "350",
@@ -15874,12 +15874,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_14": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_7_apt_15": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_7_apt_16": {
             "ammount": "350",
@@ -15926,8 +15926,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_7_apt_27": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_28": {
             "ammount": "700",
@@ -15946,12 +15946,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_32": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_7_apt_33": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_7_apt_34": {
             "ammount": "",
@@ -15962,8 +15962,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_7_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_7_apt_37": {
             "ammount": "350",
@@ -16006,8 +16006,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_7": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_8": {
             "ammount": "350",
@@ -16022,8 +16022,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_11": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_12": {
             "ammount": "",
@@ -16034,12 +16034,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_14": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_15": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_16": {
             "ammount": "",
@@ -16086,8 +16086,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_8_apt_27": {
-            "ammount": "700",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_28": {
             "ammount": "350",
@@ -16106,12 +16106,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_32": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_33": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_34": {
             "ammount": "",
@@ -16122,8 +16122,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_8_apt_36": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "",
+            "method": ""
         },
         "month_8_apt_37": {
             "ammount": "",
@@ -16783,8 +16783,8 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
-            "ammount": "2400",
-            "remainToPay": "-750"
+            "ammount": "500",
+            "remainToPay": "-6100"
         },
         "totalApt_2": {
             "aptName": "זהבה וארול אוסמן",
@@ -16794,7 +16794,7 @@ var incomeTables = `[
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
             "ammount": "3000",
-            "remainToPay": "-150"
+            "remainToPay": "-4700"
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
@@ -16804,22 +16804,22 @@ var incomeTables = `[
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
             "ammount": "4200",
-            "remainToPay": "1400"
+            "remainToPay": "-1750"
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
             "ammount": "3150",
-            "remainToPay": "0"
+            "remainToPay": "-3600"
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "2800",
-            "remainToPay": "0"
+            "ammount": "0",
+            "remainToPay": "-10200"
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
             "ammount": "3150",
-            "remainToPay": "0"
+            "remainToPay": "-3600"
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
@@ -16833,28 +16833,28 @@ var incomeTables = `[
         },
         "totalApt_11": {
             "aptName": "אלה ויקטור יעקובנקו",
-            "ammount": "2900",
-            "remainToPay": "-700"
+            "ammount": "0",
+            "remainToPay": "-9250"
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
             "ammount": "3150",
-            "remainToPay": "0"
+            "remainToPay": "-2550"
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
             "ammount": "3150",
-            "remainToPay": "0"
+            "remainToPay": "-3750"
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
-            "ammount": "3150",
-            "remainToPay": "0"
+            "ammount": "700",
+            "remainToPay": "-9650"
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "3150",
-            "remainToPay": "0"
+            "ammount": "350",
+            "remainToPay": "-10150"
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
@@ -16863,23 +16863,23 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "2450",
-            "remainToPay": "-700"
+            "ammount": "350",
+            "remainToPay": "-10150"
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
             "ammount": "3440",
-            "remainToPay": "-700.71"
+            "remainToPay": "-2800.71"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
             "ammount": "3500",
-            "remainToPay": "350"
+            "remainToPay": "-1150"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
             "ammount": "4550",
-            "remainToPay": "1400"
+            "remainToPay": "-1600"
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
@@ -16889,17 +16889,17 @@ var incomeTables = `[
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
             "ammount": "3300",
-            "remainToPay": "0"
+            "remainToPay": "-3850"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
             "ammount": "3150",
-            "remainToPay": "0"
+            "remainToPay": "-1500"
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
             "ammount": "3900",
-            "remainToPay": "1400"
+            "remainToPay": "-2200"
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
@@ -16913,8 +16913,8 @@ var incomeTables = `[
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "4554.09",
-            "remainToPay": "1.00000000002183E-02"
+            "ammount": "1754.09",
+            "remainToPay": "-9399.99"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
@@ -16938,13 +16938,13 @@ var incomeTables = `[
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "3150",
-            "remainToPay": "0"
+            "ammount": "350",
+            "remainToPay": "-10000"
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "3150",
-            "remainToPay": "0"
+            "ammount": "350",
+            "remainToPay": "-10000"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
@@ -16958,13 +16958,13 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "2800",
-            "remainToPay": "0"
+            "ammount": "0",
+            "remainToPay": "-10050"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
             "ammount": "2450",
-            "remainToPay": "-700"
+            "remainToPay": "-4600"
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
