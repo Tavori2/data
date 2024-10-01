@@ -1073,12 +1073,12 @@ var unexpectedExpenses = `[
         "month_5_exp_5": "",
         "month_6_exp_5": "",
         "month_7_exp_5": "",
-        "month_8_exp_5": "",
+        "month_8_exp_5": "3,597",
         "month_9_exp_5": "",
         "month_10_exp_5": "",
         "month_11_exp_5": "",
         "month_12_exp_5": "",
-        "totalExp_5": "",
+        "totalExp_5": "3,597",
         "expense_6": "אינטרקום",
         "month_1_exp_6": "",
         "month_2_exp_6": "",
@@ -1144,11 +1144,11 @@ var unexpectedExpenses = `[
         "month_6_exp_10": "61",
         "month_7_exp_10": "20",
         "month_8_exp_10": "",
-        "month_9_exp_10": "",
+        "month_9_exp_10": "20",
         "month_10_exp_10": "",
         "month_11_exp_10": "",
         "month_12_exp_10": "",
-        "totalExp_10": "80",
+        "totalExp_10": "100",
         "year": "2024"
     }
 ]`;
