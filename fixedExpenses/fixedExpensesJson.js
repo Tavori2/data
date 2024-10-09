@@ -1033,10 +1033,10 @@ var fixedExpenses = `[
         "month_7_exp_9": "52",
         "month_8_exp_9": "79",
         "month_9_exp_9": "77",
-        "month_10_exp_9": "",
+        "month_10_exp_9": "49",
         "month_11_exp_9": "",
         "month_12_exp_9": "",
-        "totalExp_9": "545",
+        "totalExp_9": "594",
         "year": "2024"
     }
 ]`;

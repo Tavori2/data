@@ -16314,16 +16314,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_4": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_10_apt_5": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_6": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_10_apt_7": {
             "ammount": "",
@@ -16338,8 +16338,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_10": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_10_apt_11": {
             "ammount": "",
@@ -16350,8 +16350,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_13": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_10_apt_14": {
             "ammount": "",
@@ -16374,8 +16374,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_19": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_10_apt_20": {
             "ammount": "",
@@ -16390,16 +16390,16 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_23": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_10_apt_24": {
             "ammount": "",
             "method": ""
         },
         "month_10_apt_25": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_10_apt_26": {
             "ammount": "",
@@ -16410,8 +16410,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_28": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_10_apt_29": {
             "ammount": "",
@@ -16454,8 +16454,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_39": {
-            "ammount": "",
-            "method": ""
+            "ammount": "6100",
+            "method": "Transfer"
         },
         "month_10_apt_40": {
             "ammount": "",
@@ -16798,8 +16798,8 @@ var incomeTables = `[
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
-            "ammount": "3150",
-            "remainToPay": "-700"
+            "ammount": "3850",
+            "remainToPay": "0"
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
@@ -16808,8 +16808,8 @@ var incomeTables = `[
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "3500",
-            "remainToPay": "-350"
+            "ammount": "3850",
+            "remainToPay": "0"
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
@@ -16828,8 +16828,8 @@ var incomeTables = `[
         },
         "totalApt_10": {
             "aptName": "לירון ותומר אברמוביץ'",
-            "ammount": "3500",
-            "remainToPay": "-350"
+            "ammount": "3850",
+            "remainToPay": "0"
         },
         "totalApt_11": {
             "aptName": "אלה ויקטור יעקובנקו",
@@ -16843,8 +16843,8 @@ var incomeTables = `[
         },
         "totalApt_13": {
             "aptName": "גילית ונועה בן-שמעון / אדטו",
-            "ammount": "3500",
-            "remainToPay": "-350"
+            "ammount": "3850",
+            "remainToPay": "0"
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
@@ -16873,8 +16873,8 @@ var incomeTables = `[
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "4200",
-            "remainToPay": "350"
+            "ammount": "4900",
+            "remainToPay": "1050"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
@@ -16893,8 +16893,8 @@ var incomeTables = `[
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "3500",
-            "remainToPay": "-350"
+            "ammount": "3850",
+            "remainToPay": "0"
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
@@ -16903,8 +16903,8 @@ var incomeTables = `[
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
-            "ammount": "3150",
-            "remainToPay": "-700"
+            "ammount": "3500",
+            "remainToPay": "-350"
         },
         "totalApt_26": {
             "aptName": "שמעון מצליח",
@@ -16918,8 +16918,8 @@ var incomeTables = `[
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
-            "ammount": "3400",
-            "remainToPay": "-350"
+            "ammount": "3750",
+            "remainToPay": "0"
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
@@ -16973,8 +16973,8 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "4560",
-            "remainToPay": "-350"
+            "ammount": "10660",
+            "remainToPay": "5750"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
