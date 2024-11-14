@@ -16546,8 +16546,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_22": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_11_apt_23": {
             "ammount": "350",
@@ -16888,8 +16888,8 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנסור",
-            "ammount": "3300",
-            "remainToPay": "-1050"
+            "ammount": "3650",
+            "remainToPay": "-700"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
