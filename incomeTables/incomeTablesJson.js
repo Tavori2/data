@@ -16294,8 +16294,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_39": {
-            "ammount": "350",
-            "method": "Transfer"
+            "ammount": "750",
+            "method": "Cash"
         },
         "month_9_apt_40": {
             "ammount": "100",
@@ -16973,7 +16973,7 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "11010",
+            "ammount": "11410",
             "remainToPay": "0"
         },
         "totalApt_40": {
