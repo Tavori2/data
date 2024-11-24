@@ -1020,9 +1020,9 @@ var unexpectedExpenses = `[
         "month_8_exp_1": "",
         "month_9_exp_1": "",
         "month_10_exp_1": "",
-        "month_11_exp_1": "",
+        "month_11_exp_1": "7,952",
         "month_12_exp_1": "",
-        "totalExp_1": "9,910",
+        "totalExp_1": "17,862",
         "expense_2": "כיבוי אש",
         "month_1_exp_2": "5,207",
         "month_2_exp_2": "",
@@ -1145,10 +1145,10 @@ var unexpectedExpenses = `[
         "month_7_exp_10": "20",
         "month_8_exp_10": "",
         "month_9_exp_10": "20",
-        "month_10_exp_10": "",
-        "month_11_exp_10": "",
+        "month_10_exp_10": "20",
+        "month_11_exp_10": "20",
         "month_12_exp_10": "",
-        "totalExp_10": "100",
+        "totalExp_10": "140",
         "year": "2024"
     }
 ]`;
