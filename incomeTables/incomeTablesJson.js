@@ -1926,12 +1926,12 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "200",
             "remainToPay": ""
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -1971,7 +1971,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -2026,7 +2026,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "200",
             "remainToPay": ""
         },
@@ -2106,7 +2106,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -4049,12 +4049,12 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -4094,7 +4094,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "3150",
             "remainToPay": ""
         },
@@ -4149,7 +4149,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "2150",
             "remainToPay": ""
         },
@@ -4229,7 +4229,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -6172,12 +6172,12 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "3750",
             "remainToPay": ""
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "585",
             "remainToPay": ""
         },
@@ -6217,7 +6217,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "1650",
             "remainToPay": ""
         },
@@ -6272,7 +6272,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "5",
             "remainToPay": ""
         },
@@ -6352,7 +6352,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "6750",
             "remainToPay": ""
         },
@@ -8295,12 +8295,12 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -8340,7 +8340,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -8395,7 +8395,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -8475,7 +8475,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -10418,12 +10418,12 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "0",
             "remainToPay": ""
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -10463,7 +10463,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -10518,7 +10518,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "2700",
             "remainToPay": ""
         },
@@ -10598,7 +10598,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -12541,12 +12541,12 @@ var incomeTables = `[
             "remainToPay": "-250"
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "3750",
             "remainToPay": "-250"
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "4285",
             "remainToPay": "285"
         },
@@ -12586,7 +12586,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "3750",
             "remainToPay": "-250"
         },
@@ -12641,7 +12641,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "4005",
             "remainToPay": "0"
         },
@@ -12721,7 +12721,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "3950",
             "remainToPay": "-50"
         },
@@ -14664,12 +14664,12 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "4020",
             "remainToPay": "0"
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "3485",
             "remainToPay": "0"
         },
@@ -14709,7 +14709,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "3550",
             "remainToPay": "-450"
         },
@@ -14764,7 +14764,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "3605",
             "remainToPay": "-150"
         },
@@ -14844,7 +14844,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "3800",
             "remainToPay": "0"
         },
@@ -16530,8 +16530,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_11_apt_18": {
-            "ammount": "",
-            "method": ""
+            "ammount": "950",
+            "method": "Transfer"
         },
         "month_11_apt_19": {
             "ammount": "700",
@@ -16594,8 +16594,8 @@ var incomeTables = `[
             "method": "Check"
         },
         "month_11_apt_34": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1050",
+            "method": "Transfer"
         },
         "month_11_apt_35": {
             "ammount": "700",
@@ -16787,12 +16787,12 @@ var incomeTables = `[
             "remainToPay": "-550"
         },
         "totalApt_2": {
-            "aptName": "זהבה וארול אוסמן",
+            "aptName": "זיווה וארול אוסמן",
             "ammount": "4200",
             "remainToPay": "0"
         },
         "totalApt_3": {
-            "aptName": "רונית וסאסי זוארץ",
+            "aptName": "רונית וששי זוארץ",
             "ammount": "3000",
             "remainToPay": "-1200"
         },
@@ -16832,7 +16832,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_11": {
-            "aptName": "אלה ויקטור יעקובנקו",
+            "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "4300",
             "remainToPay": "-350"
         },
@@ -16868,8 +16868,8 @@ var incomeTables = `[
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
-            "ammount": "4561.4",
-            "remainToPay": "-950.71"
+            "ammount": "5511.4",
+            "remainToPay": "-0.710000000000491"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
@@ -16887,7 +16887,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_22": {
-            "aptName": "אליס וגבריאל מנסור",
+            "aptName": "אליס וגבריאל מנצור",
             "ammount": "3650",
             "remainToPay": "-700"
         },
@@ -16948,8 +16948,8 @@ var incomeTables = `[
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דוד",
-            "ammount": "3300",
-            "remainToPay": "-1050"
+            "ammount": "4350",
+            "remainToPay": "0"
         },
         "totalApt_35": {
             "aptName": "קרן ואסף מנחם",
@@ -16967,7 +16967,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_38": {
-            "aptName": "עדי ושי ארונוב",
+            "aptName": "עדי ושי אהרונוב",
             "ammount": "0",
             "remainToPay": "350"
         },
