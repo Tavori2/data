@@ -16622,8 +16622,8 @@ var incomeTables = `[
             "method": "Cash"
         },
         "month_12_apt_1": {
-            "ammount": "",
-            "method": ""
+            "ammount": "900",
+            "method": "Check"
         },
         "month_12_apt_2": {
             "ammount": "350",
@@ -16634,8 +16634,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_4": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_12_apt_5": {
             "ammount": "",
@@ -16686,8 +16686,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_17": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Check"
         },
         "month_12_apt_18": {
             "ammount": "",
@@ -16746,12 +16746,12 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_32": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_12_apt_33": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_12_apt_34": {
             "ammount": "",
@@ -16762,8 +16762,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_36": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Check"
         },
         "month_12_apt_37": {
             "ammount": "350",
@@ -16778,13 +16778,13 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "50",
+            "method": "Cash"
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
-            "ammount": "3650",
-            "remainToPay": "-900"
+            "ammount": "4550",
+            "remainToPay": "0"
         },
         "totalApt_2": {
             "aptName": "זיווה וארול אוסמן",
@@ -16798,8 +16798,8 @@ var incomeTables = `[
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
-            "ammount": "3850",
-            "remainToPay": "-700"
+            "ammount": "4550",
+            "remainToPay": "0"
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
@@ -16863,8 +16863,8 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "2450",
-            "remainToPay": "-500"
+            "ammount": "2950",
+            "remainToPay": "0"
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
@@ -16938,13 +16938,13 @@ var incomeTables = `[
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "4200",
-            "remainToPay": "-350"
+            "ammount": "4550",
+            "remainToPay": "0"
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "4200",
-            "remainToPay": "-350"
+            "ammount": "4550",
+            "remainToPay": "0"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דודפור",
@@ -16958,8 +16958,8 @@ var incomeTables = `[
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "3850",
-            "remainToPay": "-350"
+            "ammount": "4200",
+            "remainToPay": "0"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
@@ -16978,8 +16978,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "5574.64",
-            "remainToPay": "5279.91"
+            "ammount": "5624.64",
+            "remainToPay": "5329.91"
         },
         "year": "2024"
     }
