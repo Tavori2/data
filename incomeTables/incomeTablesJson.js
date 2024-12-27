@@ -16706,7 +16706,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_22": {
-            "ammount": "350",
+            "ammount": "1050",
             "method": "Transfer"
         },
         "month_12_apt_23": {
@@ -16774,7 +16774,7 @@ var incomeTables = `[
             "method": ""
         },
         "month_12_apt_39": {
-            "ammount": "405",
+            "ammount": "3105",
             "method": "Transfer"
         },
         "month_12_apt_40": {
@@ -16888,8 +16888,8 @@ var incomeTables = `[
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנצור",
-            "ammount": "4000",
-            "remainToPay": "-700"
+            "ammount": "4700",
+            "remainToPay": "0"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
@@ -16929,7 +16929,7 @@ var incomeTables = `[
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
             "ammount": "6200",
-            "remainToPay": "-1200"
+            "remainToPay": "4200"
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
@@ -16973,8 +16973,8 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "11815",
-            "remainToPay": "-2645"
+            "ammount": "14515",
+            "remainToPay": "55"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
