@@ -16662,8 +16662,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_12_apt_11": {
-            "ammount": "350",
-            "method": "Check"
+            "ammount": "700",
+            "method": "Cash"
         },
         "month_12_apt_12": {
             "ammount": "",
@@ -16833,8 +16833,8 @@ var incomeTables = `[
         },
         "totalApt_11": {
             "aptName": "אלה וויקטור יעקובנקו",
-            "ammount": "4650",
-            "remainToPay": "-350"
+            "ammount": "5000",
+            "remainToPay": "0"
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
