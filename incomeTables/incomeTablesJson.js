@@ -16869,7 +16869,7 @@ var incomeTables = `[
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
             "ammount": "6354.96",
-            "remainToPay": "492.849999999999"
+            "remainToPay": "-0.150000000000546"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
@@ -16929,7 +16929,7 @@ var incomeTables = `[
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
             "ammount": "8920",
-            "remainToPay": "6900"
+            "remainToPay": "4200"
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
@@ -18992,7 +18992,7 @@ var incomeTables = `[
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
             "ammount": "0",
-            "remainToPay": "-557.150000000001"
+            "remainToPay": "-1050.15"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
@@ -19052,7 +19052,7 @@ var incomeTables = `[
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
             "ammount": "0",
-            "remainToPay": "5850"
+            "remainToPay": "3150"
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
