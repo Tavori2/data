@@ -17085,8 +17085,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_1_apt_26": {
-            "ammount": "",
-            "method": ""
+            "ammount": "4200",
+            "method": "Cash"
         },
         "month_1_apt_27": {
             "ammount": "",
@@ -17301,8 +17301,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "41",
+            "method": "Cash"
         },
         "month_3_apt_1": {
             "ammount": "",
@@ -19031,8 +19031,8 @@ var incomeTables = `[
         },
         "totalApt_26": {
             "aptName": "שמעון מצליח",
-            "ammount": "0",
-            "remainToPay": "-1050"
+            "ammount": "4200",
+            "remainToPay": "3150"
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
@@ -19101,8 +19101,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "0",
-            "remainToPay": "-3895.09"
+            "ammount": "41",
+            "remainToPay": "-3954.09"
         },
         "year": "2025"
     }
