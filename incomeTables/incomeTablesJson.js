@@ -1981,7 +1981,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "0",
             "remainToPay": ""
         },
@@ -4104,7 +4104,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "5370",
             "remainToPay": ""
         },
@@ -6227,7 +6227,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -8350,7 +8350,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -10473,7 +10473,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "3800",
             "remainToPay": ""
         },
@@ -12596,7 +12596,7 @@ var incomeTables = `[
             "remainToPay": "900"
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "4000",
             "remainToPay": "-5"
         },
@@ -14719,7 +14719,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "3755",
             "remainToPay": "-5"
         },
@@ -16842,7 +16842,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "4550",
             "remainToPay": "0"
         },
@@ -18965,7 +18965,7 @@ var incomeTables = `[
             "remainToPay": "350"
         },
         "totalApt_13": {
-            "aptName": "גילית ונועה בן-שמעון / אדטו",
+            "aptName": "אביגל וכפיר נחשון",
             "ammount": "875",
             "remainToPay": "-175"
         },
