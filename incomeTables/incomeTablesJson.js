@@ -17513,8 +17513,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_4_apt_13": {
-            "ammount": "",
-            "method": ""
+            "ammount": "875",
+            "method": "Transfer"
         },
         "month_4_apt_14": {
             "ammount": "700",
@@ -18966,8 +18966,8 @@ var incomeTables = `[
         },
         "totalApt_13": {
             "aptName": "אביגל וכפיר נחשון",
-            "ammount": "875",
-            "remainToPay": "-875"
+            "ammount": "1750",
+            "remainToPay": "0"
         },
         "totalApt_14": {
             "aptName": "לימור ותומר וויזמן",
