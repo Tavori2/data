@@ -1035,8 +1035,8 @@ var fixedExpenses = `[
         "month_9_exp_9": "77",
         "month_10_exp_9": "49",
         "month_11_exp_9": "45",
-        "month_12_exp_9": "56",
-        "totalExp_9": "694",
+        "month_12_exp_9": "110",
+        "totalExp_9": "748",
         "year": "2024"
     },
     {
@@ -1154,7 +1154,7 @@ var fixedExpenses = `[
         "month_12_exp_8": "",
         "totalExp_8": "454",
         "expense_9": "עמלות",
-        "month_1_exp_9": "54",
+        "month_1_exp_9": "",
         "month_2_exp_9": "52",
         "month_3_exp_9": "54",
         "month_4_exp_9": "61",
@@ -1166,7 +1166,7 @@ var fixedExpenses = `[
         "month_10_exp_9": "",
         "month_11_exp_9": "",
         "month_12_exp_9": "",
-        "totalExp_9": "277",
+        "totalExp_9": "223",
         "year": "2025"
     }
 ]`;
