@@ -18997,7 +18997,7 @@ var incomeTables = `[
         "totalApt_19": {
             "aptName": "אילי בן חיים",
             "ammount": "1750",
-            "remainToPay": "1750"
+            "remainToPay": "0"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
