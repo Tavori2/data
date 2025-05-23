@@ -16294,8 +16294,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_39": {
-            "ammount": "750",
-            "method": "Cash"
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_9_apt_40": {
             "ammount": "100",
@@ -16973,8 +16973,8 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "14515",
-            "remainToPay": "0"
+            "ammount": "14115",
+            "remainToPay": "-400"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
@@ -19097,7 +19097,7 @@ var incomeTables = `[
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
             "ammount": "1750",
-            "remainToPay": "0"
+            "remainToPay": "-400"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
