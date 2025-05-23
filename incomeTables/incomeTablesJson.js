@@ -17777,8 +17777,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_5_apt_39": {
-            "ammount": "1100",
-            "method": "Cash"
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_5_apt_40": {
             "ammount": "766",
@@ -19096,8 +19096,8 @@ var incomeTables = `[
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "2150",
-            "remainToPay": "100"
+            "ammount": "1750",
+            "remainToPay": "-300"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
