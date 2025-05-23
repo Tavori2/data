@@ -17781,7 +17781,7 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_5_apt_40": {
-            "ammount": "700",
+            "ammount": "766",
             "method": "Cash"
         },
         "month_6_apt_1": {
@@ -19101,8 +19101,8 @@ var incomeTables = `[
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "741",
-            "remainToPay": "4210.91"
+            "ammount": "807",
+            "remainToPay": "4276.91"
         },
         "year": "2025"
     }
