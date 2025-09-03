@@ -17933,8 +17933,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_6_apt_38": {
-            "ammount": "",
-            "method": ""
+            "ammount": "2800",
+            "method": "Cash"
         },
         "month_6_apt_39": {
             "ammount": "3175",
@@ -19091,13 +19091,13 @@ var incomeTables = `[
         },
         "totalApt_38": {
             "aptName": "עדי ושי אהרונוב",
-            "ammount": "0",
-            "remainToPay": "-3150"
+            "ammount": "2800",
+            "remainToPay": "-350"
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
             "ammount": "5625",
-            "remainToPay": "2550"
+            "remainToPay": "-250"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
