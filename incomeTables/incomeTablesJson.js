@@ -16366,8 +16366,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_17": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1600",
+            "method": "Cash"
         },
         "month_10_apt_18": {
             "ammount": "",
@@ -16450,8 +16450,8 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_10_apt_38": {
-            "ammount": "",
-            "method": ""
+            "ammount": "4550",
+            "method": "Cash"
         },
         "month_10_apt_39": {
             "ammount": "6100",
@@ -16863,7 +16863,7 @@ var incomeTables = `[
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "2960",
+            "ammount": "4560",
             "remainToPay": "0"
         },
         "totalApt_18": {
@@ -16968,7 +16968,7 @@ var incomeTables = `[
         },
         "totalApt_38": {
             "aptName": "עדי ושי אהרונוב",
-            "ammount": "0",
+            "ammount": "4550",
             "remainToPay": "0"
         },
         "totalApt_39": {
