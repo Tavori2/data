@@ -19102,7 +19102,7 @@ var incomeTables = `[
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
             "ammount": "996.9",
-            "remainToPay": "2016.81"
+            "remainToPay": "-0.190000000000509"
         },
         "year": "2025"
     }
