@@ -1986,7 +1986,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "200",
             "remainToPay": ""
         },
@@ -4109,7 +4109,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "3990",
             "remainToPay": ""
         },
@@ -6232,7 +6232,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -8355,7 +8355,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "3600",
             "remainToPay": ""
         },
@@ -10478,7 +10478,7 @@ var incomeTables = `[
             "remainToPay": ""
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "3900",
             "remainToPay": ""
         },
@@ -12601,7 +12601,7 @@ var incomeTables = `[
             "remainToPay": "-5"
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "4000",
             "remainToPay": "0"
         },
@@ -14724,7 +14724,7 @@ var incomeTables = `[
             "remainToPay": "-5"
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "3750",
             "remainToPay": "0"
         },
@@ -16847,7 +16847,7 @@ var incomeTables = `[
             "remainToPay": "0"
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
+            "aptName": "ברנר ענת",
             "ammount": "4550",
             "remainToPay": "0"
         },
@@ -18317,8 +18317,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_9_apt_14": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_9_apt_15": {
             "ammount": "",
@@ -18477,8 +18477,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_10_apt_14": {
-            "ammount": "",
-            "method": ""
+            "ammount": "350",
+            "method": "Transfer"
         },
         "month_10_apt_15": {
             "ammount": "",
@@ -18970,9 +18970,9 @@ var incomeTables = `[
             "remainToPay": "-1400"
         },
         "totalApt_14": {
-            "aptName": "לימור ותומר וויזמן",
-            "ammount": "2800",
-            "remainToPay": "-1400"
+            "aptName": "ברנר ענת",
+            "ammount": "3500",
+            "remainToPay": "-700"
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
