@@ -19268,43 +19268,43 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_1": {
-            "ammount": "",
-            "method": ""
+            "ammount": "2450",
+            "method": "Check"
         },
         "month_2_apt_2": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_3": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Transfer"
         },
         "month_2_apt_4": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_5": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_6": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_7": {
-            "ammount": "700",
+            "ammount": "1200",
             "method": "Transfer"
         },
         "month_2_apt_8": {
-            "ammount": "",
-            "method": ""
+            "ammount": "850",
+            "method": "Transfer"
         },
         "month_2_apt_9": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Transfer"
         },
         "month_2_apt_10": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_11": {
@@ -19312,11 +19312,11 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_12": {
-            "ammount": "",
-            "method": ""
+            "ammount": "600",
+            "method": "Transfer"
         },
         "month_2_apt_13": {
-            "ammount": "1050",
+            "ammount": "1550",
             "method": "Transfer"
         },
         "month_2_apt_14": {
@@ -19324,15 +19324,15 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_15": {
-            "ammount": "",
-            "method": ""
+            "ammount": "700",
+            "method": "Transfer"
         },
         "month_2_apt_16": {
             "ammount": "",
             "method": ""
         },
         "month_2_apt_17": {
-            "ammount": "700",
+            "ammount": "1200",
             "method": "Transfer"
         },
         "month_2_apt_18": {
@@ -19340,43 +19340,43 @@ var incomeTables = `[
             "method": ""
         },
         "month_2_apt_19": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_20": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1200",
+            "method": "Transfer"
         },
         "month_2_apt_21": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1200",
+            "method": "Transfer"
         },
         "month_2_apt_22": {
             "ammount": "350",
             "method": "Transfer"
         },
         "month_2_apt_23": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_24": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1000",
+            "method": "Transfer"
         },
         "month_2_apt_25": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Transfer"
         },
         "month_2_apt_26": {
-            "ammount": "",
-            "method": ""
+            "ammount": "5200",
+            "method": "Transfer"
         },
         "month_2_apt_27": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_28": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_29": {
@@ -19392,27 +19392,27 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_32": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Transfer"
         },
         "month_2_apt_33": {
-            "ammount": "",
-            "method": ""
+            "ammount": "850",
+            "method": "Transfer"
         },
         "month_2_apt_34": {
-            "ammount": "1050",
+            "ammount": "1450",
             "method": "Transfer"
         },
         "month_2_apt_35": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_36": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Transfer"
         },
         "month_2_apt_37": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_38": {
@@ -19420,52 +19420,52 @@ var incomeTables = `[
             "method": "Transfer"
         },
         "month_2_apt_39": {
-            "ammount": "350",
+            "ammount": "850",
             "method": "Transfer"
         },
         "month_2_apt_40": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1600",
+            "method": "Transfer"
         },
         "month_3_apt_1": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_2": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_3": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_4": {
-            "ammount": "",
-            "method": ""
+            "ammount": "1200",
+            "method": "Transfer"
         },
         "month_3_apt_5": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_6": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_7": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_8": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_9": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_10": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_11": {
             "ammount": "",
@@ -19480,8 +19480,8 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_14": {
-            "ammount": "",
-            "method": ""
+            "ammount": "500",
+            "method": "Transfer"
         },
         "month_3_apt_15": {
             "ammount": "",
@@ -19500,32 +19500,32 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_19": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_20": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_21": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_22": {
-            "ammount": "",
-            "method": ""
+            "ammount": "900",
+            "method": "Transfer"
         },
         "month_3_apt_23": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_24": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_25": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_26": {
             "ammount": "",
@@ -19536,24 +19536,24 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_28": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_29": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_30": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_31": {
-            "ammount": "",
-            "method": ""
+            "ammount": "900",
+            "method": "Transfer"
         },
         "month_3_apt_32": {
-            "ammount": "",
-            "method": ""
+            "ammount": "800",
+            "method": "Transfer"
         },
         "month_3_apt_33": {
             "ammount": "",
@@ -19564,24 +19564,24 @@ var incomeTables = `[
             "method": ""
         },
         "month_3_apt_35": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_36": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_37": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_38": {
             "ammount": "",
             "method": ""
         },
         "month_3_apt_39": {
-            "ammount": "",
-            "method": ""
+            "ammount": "400",
+            "method": "Transfer"
         },
         "month_3_apt_40": {
             "ammount": "",
@@ -21029,203 +21029,203 @@ var incomeTables = `[
         },
         "totalApt_1": {
             "aptName": "יעל ומשיח שמש",
-            "ammount": "0",
-            "remainToPay": "-1200"
+            "ammount": "2450",
+            "remainToPay": "-1600"
         },
         "totalApt_2": {
             "aptName": "זיווה וארול אוסמן",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_3": {
             "aptName": "רונית וסאסי זוארץ",
-            "ammount": "0",
-            "remainToPay": "-150"
+            "ammount": "500",
+            "remainToPay": "-550"
         },
         "totalApt_4": {
             "aptName": "הדר ומוטי יהוד",
-            "ammount": "0",
-            "remainToPay": "-1200"
+            "ammount": "1200",
+            "remainToPay": "-400"
         },
         "totalApt_5": {
             "aptName": "יוסי אבורוס",
-            "ammount": "700",
-            "remainToPay": "-500"
+            "ammount": "1600",
+            "remainToPay": "0"
         },
         "totalApt_6": {
             "aptName": "דפנה בן-חיים",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_7": {
             "aptName": "נלי ועובדיה שלום",
-            "ammount": "700",
-            "remainToPay": "0"
+            "ammount": "1200",
+            "remainToPay": "-400"
         },
         "totalApt_8": {
             "aptName": "הדס וחיים אביטן",
-            "ammount": "350",
-            "remainToPay": "-850"
+            "ammount": "1600",
+            "remainToPay": "0"
         },
         "totalApt_9": {
             "aptName": "איריס ויהונתן מנצור",
-            "ammount": "1050",
-            "remainToPay": "351"
+            "ammount": "1550",
+            "remainToPay": "-49"
         },
         "totalApt_10": {
             "aptName": "לירון ותומר אברמוביץ",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_11": {
             "aptName": "אלה וויקטור יעקובנקו",
             "ammount": "0",
-            "remainToPay": "-1550"
+            "remainToPay": "-1950"
         },
         "totalApt_12": {
             "aptName": "מיכל ולוי שבתאי",
-            "ammount": "1400",
-            "remainToPay": "200"
+            "ammount": "2000",
+            "remainToPay": "400"
         },
         "totalApt_13": {
             "aptName": "אביגל וכפיר נחשון",
-            "ammount": "1050",
-            "remainToPay": "350"
+            "ammount": "1550",
+            "remainToPay": "-50"
         },
         "totalApt_14": {
             "aptName": "ברנר ענת",
-            "ammount": "350",
-            "remainToPay": "-1200"
+            "ammount": "850",
+            "remainToPay": "-1100"
         },
         "totalApt_15": {
             "aptName": "שלומית וגבי זילברט",
-            "ammount": "0",
-            "remainToPay": "-500"
+            "ammount": "700",
+            "remainToPay": "-900"
         },
         "totalApt_16": {
             "aptName": "אופירה דימיטשטיין",
             "ammount": "0",
-            "remainToPay": "-1200"
+            "remainToPay": "-1600"
         },
         "totalApt_17": {
             "aptName": "מאיה וזיו מסלתי",
-            "ammount": "700",
-            "remainToPay": "0"
+            "ammount": "1200",
+            "remainToPay": "-400"
         },
         "totalApt_18": {
             "aptName": "כרמית ורפי רפאל",
             "ammount": "1400",
-            "remainToPay": "-850"
+            "remainToPay": "-1250"
         },
         "totalApt_19": {
             "aptName": "אילי בן חיים",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_20": {
             "aptName": "יפעת ודוד בן-שושן",
-            "ammount": "0",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_21": {
             "aptName": "מתן וערן ברלינר",
-            "ammount": "0",
-            "remainToPay": "0"
+            "ammount": "1200",
+            "remainToPay": "-400"
         },
         "totalApt_22": {
             "aptName": "אליס וגבריאל מנצור",
-            "ammount": "700",
-            "remainToPay": "-500"
+            "ammount": "1600",
+            "remainToPay": "0"
         },
         "totalApt_23": {
             "aptName": "סנדי ועומרי בן-שושן",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_24": {
             "aptName": "יפעת ומייק סולימני",
-            "ammount": "4200",
-            "remainToPay": "4000"
+            "ammount": "5200",
+            "remainToPay": "3600"
         },
         "totalApt_25": {
             "aptName": "מרינה ואלכסנדר סירוטה / דרקץ",
-            "ammount": "350",
+            "ammount": "1250",
             "remainToPay": "-350"
         },
         "totalApt_26": {
             "aptName": "שמעון מצליח",
-            "ammount": "0",
-            "remainToPay": "4000"
+            "ammount": "5200",
+            "remainToPay": "3600"
         },
         "totalApt_27": {
             "aptName": "מישל ואהוד כהן",
-            "ammount": "700",
-            "remainToPay": "9.99999999999091E-03"
+            "ammount": "1200",
+            "remainToPay": "-399.99"
         },
         "totalApt_28": {
             "aptName": "ריקי קקון",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_29": {
             "aptName": "יוכי וערן דוד",
-            "ammount": "700",
+            "ammount": "1100",
             "remainToPay": "-500"
         },
         "totalApt_30": {
             "aptName": "ברוך קאיליאקוב",
             "ammount": "0",
-            "remainToPay": "-1200"
+            "remainToPay": "-1600"
         },
         "totalApt_31": {
             "aptName": "אוסנת ויוסי יחזקאל",
-            "ammount": "700",
-            "remainToPay": "-500"
+            "ammount": "1600",
+            "remainToPay": "0"
         },
         "totalApt_32": {
             "aptName": "ימית ואסף כהן",
-            "ammount": "700",
-            "remainToPay": "0"
+            "ammount": "2000",
+            "remainToPay": "400"
         },
         "totalApt_33": {
             "aptName": "דריה ותמיר כצמן",
-            "ammount": "350",
-            "remainToPay": "-350"
+            "ammount": "1200",
+            "remainToPay": "-400"
         },
         "totalApt_34": {
             "aptName": "ליטל וסיני דודפור",
-            "ammount": "1050",
-            "remainToPay": "-450"
+            "ammount": "1450",
+            "remainToPay": "-850"
         },
         "totalApt_35": {
             "aptName": "קרן ואסף מנחם",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_36": {
             "aptName": "גלית ואורן אוזן",
-            "ammount": "350",
-            "remainToPay": "-350"
+            "ammount": "850",
+            "remainToPay": "-750"
         },
         "totalApt_37": {
             "aptName": "גלי ומיכאל קנטורז'י",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "0"
         },
         "totalApt_38": {
             "aptName": "עדי ושי ארונוב",
             "ammount": "2100",
-            "remainToPay": "-500"
+            "remainToPay": "-900"
         },
         "totalApt_39": {
             "aptName": "זוהר ודותן סיגלר",
-            "ammount": "700",
+            "ammount": "1600",
             "remainToPay": "100"
         },
         "totalApt_40": {
             "aptName": "רותי ושי בר-כליפה",
-            "ammount": "0",
-            "remainToPay": "399.809999999999"
+            "ammount": "1600",
+            "remainToPay": "-0.190000000000509"
         },
         "year": "2026"
     }
